@@ -1,0 +1,86 @@
+,N,E,Directed?,Weighted?,alpha_f_PR,alpha_r_PR,alpha_r_BPR
+Flightpaths.good,170,1083,True,True,0.000474,0.024796,0.115
+Flightpaths.notgood,170,1083,True,True,0.00059,0.024796,0.115
+Hatfield and McCoy - Revised,66,0,True,False,0.000348,0.333333,0.415
+Hi-tech,36,147,True,True,0.000325,0.286445,0.415
+Isle_of_Man,686,2205,True,True,0.000126,0.03014,0.125
+Korea,39,168,True,True,0.000139,0.397621,0.465
+ModMath,38,122,True,True,0.000216,0.341969,0.425
+Movies.dynetML,102,192,True,True,0.00047,0.121909,0.255
+NewcombFraternity,17,272,True,True,0.001238,0.564315,0.565
+Ragusan,812,4031,True,True,0.000347,0.038899,0.135
+SanJuanSur,75,197,True,True,0.000794,0.206897,0.315
+Sawmill,36,124,True,True,0.000605,0.27326,0.365
+Scotland,153,648,True,True,0.000174,0.076857,0.195
+Twitter JSON merge_10_10_nato,835,1511,True,True,0.000238,0.031746,0.125
+Twitter JSON merge_10_11_nato,995,2349,True,True,0.000638,0.020833,0.105
+Twitter JSON merge_10_5_nato,1363,2816,True,True,0.000138,0.017532,0.095
+Twitter JSON merge_10_6_nato,1583,3815,True,True,0.000484,0.019698,0.095
+Twitter JSON merge_10_7_nato,1035,2684,True,True,0.000816,0.030257,0.125
+Twitter JSON merge_10_8_nato,1634,3355,True,True,0.000654,0.016725,0.085
+Twitter JSON merge_10_9_nato,902,1648,True,True,0.000181,0.032344,0.125
+USAir97,232,3275,True,True,0.000497,0.059272,0.175
+advogato,6539,51127,True,True,0.000797,0.010972,0.075
+attiro,60,161,True,True,0.000231,0.178042,0.295
+bktec,34,1122,True,True,0.0007,0.612893,0.595
+centrality_literature,105,525,True,True,0.000891,0.08229,0.195
+csphd,1391,1732,True,True,0.000774,0.123137,0.235
+dimacs10-celegansneural,297,4296,True,True,0.000664,0.023297,0.105
+dining,26,52,True,True,0.000291,0.3,0.355
+drug_net,293,337,True,True,0.000329,0.159151,0.265
+embassy_tanzania_ct_period1,80,1089,True,True,0.000241,0.152484,0.285
+featureSetNames,96,94,True,True,0.00054,0.014085,0.085
+foodweb-baydry,128,2137,True,True,0.00056,0.019369,0.095
+foodweb-baywet,128,2106,True,True,0.000728,0.019261,0.095
+friend_edgefile,3930,268822,True,True,0.000857,0.011626,0.075
+gama,16,116,True,True,0.001158,0.759036,0.695
+literature_1976,34,80,True,True,0.000895,0.409357,0.425
+mention_edgefile,5909,174507,True,True,0.000451,0.010184,0.075
+mexican_power,31,212,True,True,0.000203,0.336227,0.425
+moreno_bison,26,314,True,True,0.000863,0.297459,0.395
+moreno_highschool,70,366,True,True,0.000708,0.315671,0.395
+moreno_mac,62,1187,True,True,0.000566,0.249673,0.335
+moreno_oz,217,2672,True,True,0.000214,0.447506,0.475
+moreno_rhesus,16,111,True,True,0.001893,0.376477,0.415
+moreno_seventh,29,376,True,True,0.000967,0.610165,0.585
+moreno_sheep,28,250,True,True,0.003872,0.307144,0.335
+opsahl-usairport,1574,28236,True,True,0.000794,0.016315,0.095
+polblogs,1490,19025,True,True,4.8e-05,0.027304,0.115
+prison,67,182,True,True,0.000325,0.334262,0.425
+strike,24,76,True,True,0.001623,0.466667,0.505
+szcid,16,120,True,True,0.004121,0.458556,0.495
+szcig,15,134,True,True,0.001762,0.425417,0.505
+west_bank_18,267,487,True,True,0.000902,0.073636,0.185
+wiring,14,109,True,True,0.001364,0.507281,0.515
+wolf,20,363,True,True,0.000177,0.432296,0.475
+world_trade,77,976,True,True,0.000405,0.168551,0.285
+PR1,1996,37465,True,False,0.000969,0.140972,0.255
+Valkyria_Chronicles,217,534,True,False,0.000595,0.223124,0.275
+cfinder-google,15763,171206,True,False,1.4e-05,0.000606,0.015
+dimacs10-celegans_metabolic,453,2025,True,False,0.000637,0.037944,0.135
+dimacs10-polblogs,1224,33430,True,False,0.000288,0.019987,0.105
+ego-gplus,23628,39242,True,False,0.000479,0.124978,0.235
+ego-twitter,23370,33101,True,False,0.000743,0.141593,0.245
+librec-ciaodvd-trust,4658,40133,True,False,0.000348,0.049757,0.155
+librec-filmtrust-trust,874,1853,True,False,0.000974,0.044109,0.145
+linux,30837,213954,True,False,7e-06,0.000912,0.025
+maayan-Stelzl,1706,6207,True,False,0.000875,0.041052,0.145
+maayan-faa,1226,2615,True,False,0.000202,0.060302,0.175
+maayan-figeys,2239,6452,True,False,0.000819,0.162132,0.275
+maayan-foodweb,183,2494,True,False,0.000585,0.114972,0.225
+moreno_blogs,1224,19025,True,False,0.000921,0.027304,0.115
+moreno_hens,32,496,True,False,0.000305,0.333236,0.375
+moreno_innovation,241,1098,True,False,0.000989,0.190563,0.295
+moreno_taro,22,78,True,False,0.007719,0.5,0.535
+opsahl-openflights,2939,30501,True,False,3.7e-05,0.03088,0.125
+p2p-Gnutella04,10876,39994,True,False,0.000257,0.116092,0.235
+p2p-Gnutella05,8846,31839,True,False,0.000872,0.086527,0.205
+p2p-Gnutella06,8717,31525,True,False,0.000503,0.111906,0.225
+p2p-Gnutella08,6301,20777,True,False,4.6e-05,0.088149,0.205
+p2p-Gnutella09,8114,26013,True,False,0.000636,0.089021,0.195
+p2p-Gnutella24,26518,65369,True,False,0.000623,0.026368,0.115
+p2p-Gnutella25,22687,54705,True,False,0.000356,0.104712,0.225
+p2p-Gnutella30,36682,88328,True,False,0.000719,0.105559,0.225
+subelj_cora,23166,91500,True,False,0.000831,0.007012,0.055
+tntp-ChicagoRegional,12979,39018,True,False,0.000553,0.324324,0.405
+wiki-Vote,7115,103689,True,False,0.000161,0.014735,0.085
