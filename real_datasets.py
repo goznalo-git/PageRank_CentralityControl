@@ -48,6 +48,7 @@ def everything_together(G, sample=100, tol=1e-03, incr=0.01, power=3):
 network_stats = {}
 
 ## Directed, weighted networks ##
+print("## Directed, weighted ##")
 
 pathDW = 'Datasets/DW/'
 filesDW = os.listdir(pathDW)
@@ -62,8 +63,10 @@ for file in filesDW:
 
     network_stats[name] = list(props) + list(alphas)
 
+print()
 
 ## Directed, unweighted networks ##
+print("## Directed, unweighted ##")
 
 pathDU = 'Datasets/DU/'
 filesDU = os.listdir(pathDU)
@@ -82,6 +85,6 @@ for file in filesDU:
 ## Save to csv with appropriate columns ##
 
 df = pd.DataFrame.from_dict(network_stats, orient='index', columns = ['N', 'E', 'Directed?', 'Weighted?', 'alpha_f_PR', 'alpha_r_PR', 'alpha_r_BPR'])
-df.round(6).to_csv('real_statistics.csv')
+df.round(6).to_csv('NetworkStats/real_statistics.csv')
 
 
