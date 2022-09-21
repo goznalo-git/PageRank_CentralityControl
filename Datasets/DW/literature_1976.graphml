@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">CASOS</data>
+<node id="Andriesse">
+  <data key="d1">agent</data>
+</node>
+<node id="Peter">
+  <data key="d1">agent</data>
+</node>
+<node id="Biesheuvel">
+  <data key="d1">agent</data>
+</node>
+<node id="Maarten">
+  <data key="d1">agent</data>
+</node>
+<node id="Donkers">
+  <data key="d1">agent</data>
+</node>
+<node id="Jan">
+  <data key="d1">agent</data>
+</node>
+<node id="Hart">
+  <data key="d1">agent</data>
+</node>
+<node id="t">
+  <data key="d1">agent</data>
+</node>
+<node id="Heeresma">
+  <data key="d1">agent</data>
+</node>
+<node id="Heere">
+  <data key="d1">agent</data>
+</node>
+<node id="Hiddema">
+  <data key="d1">agent</data>
+</node>
+<node id="Arie">
+  <data key="d1">agent</data>
+</node>
+<node id="B.">
+  <data key="d1">agent</data>
+</node>
+<node id="Hotz">
+  <data key="d1">agent</data>
+</node>
+<node id="F.B.">
+  <data key="d1">agent</data>
+</node>
+<node id="Jong">
+  <data key="d1">agent</data>
+</node>
+<node id="Oek">
+  <data key="d1">agent</data>
+</node>
+<node id="De">
+  <data key="d1">agent</data>
+</node>
+<node id="Joyce">
+  <data key="d1">agent</data>
+</node>
+<node id="&amp;">
+  <data key="d1">agent</data>
+</node>
+<node id="Co">
+  <data key="d1">agent</data>
+</node>
+<node id="Kooiman">
+  <data key="d1">agent</data>
+</node>
+<node id="Dirk">
+  <data key="d1">agent</data>
+</node>
+<node id="Ayelt">
+  <data key="d1">agent</data>
+</node>
+<node id="Luijters">
+  <data key="d1">agent</data>
+</node>
+<node id="Guus">
+  <data key="d1">agent</data>
+</node>
+<node id="Marissing">
+  <data key="d1">agent</data>
+</node>
+<node id="Lidy">
+  <data key="d1">agent</data>
+</node>
+<node id="Van">
+  <data key="d1">agent</data>
+</node>
+<node id="Matsier">
+  <data key="d1">agent</data>
+</node>
+<node id="Nicolaas">
+  <data key="d1">agent</data>
+</node>
+<node id="Meijsing">
+  <data key="d1">agent</data>
+</node>
+<node id="Doeschka">
+  <data key="d1">agent</data>
+</node>
+<node id="Meinkema">
+  <data key="d1">agent</data>
+</node>
+<edge source="Peter" target="Oek">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Biesheuvel" target="Heeresma">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Maarten" target="Hiddema">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Maarten" target="De">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Maarten" target="Kooiman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Maarten" target="Heeresma">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Heeresma" target="Biesheuvel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Heeresma" target="Hiddema">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Heeresma" target="Kooiman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Heere" target="Jan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Heere" target="Arie">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Heere" target="B.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Arie" target="Maarten">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="B." target="t">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Hotz" target="Hiddema">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Hotz" target="Arie">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Hotz" target="De">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Hotz" target="Kooiman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Co" target="Guus">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Kooiman" target="B.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Kooiman" target="Joyce">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Dirk" target="Biesheuvel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Dirk" target="Hart">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Dirk" target="Arie">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Dirk" target="B.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Dirk" target="Hotz">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Dirk" target="Joyce">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Dirk" target="Marissing">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ayelt" target="Andriesse">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ayelt" target="Donkers">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ayelt" target="Hart">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ayelt" target="Hiddema">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ayelt" target="Arie">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ayelt" target="B.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ayelt" target="Hotz">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ayelt" target="Jong">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ayelt" target="De">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ayelt" target="Kooiman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Luijters" target="Andriesse">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Luijters" target="Maarten">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Luijters" target="Hart">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Luijters" target="Hiddema">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Luijters" target="Arie">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Luijters" target="Hotz">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Luijters" target="F.B.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Luijters" target="Jong">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Luijters" target="De">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Luijters" target="Kooiman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Guus" target="Heeresma">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Guus" target="B.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Marissing" target="Maarten">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Marissing" target="Hart">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Marissing" target="Arie">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Marissing" target="B.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Marissing" target="Hotz">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lidy" target="Andriesse">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lidy" target="Maarten">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lidy" target="Donkers">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lidy" target="Hart">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lidy" target="B.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lidy" target="Hotz">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lidy" target="Joyce">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Van" target="Arie">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Van" target="Hotz">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Matsier" target="Biesheuvel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Matsier" target="Joyce">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Matsier" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Nicolaas" target="Peter">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Nicolaas" target="Hart">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Nicolaas" target="Hotz">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Meijsing" target="Hiddema">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Meijsing" target="Hotz">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Meijsing" target="De">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Meijsing" target="Kooiman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Doeschka" target="Biesheuvel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Doeschka" target="Donkers">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Doeschka" target="Co">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Meinkema" target="Andriesse">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Meinkema" target="Hart">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Meinkema" target="Arie">
+  <data key="d2">1.0</data>
+</edge>
+</graph></graphml>

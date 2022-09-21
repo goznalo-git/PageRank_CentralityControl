@@ -1,0 +1,3765 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">CASOS</data>
+<node id="ABQ">
+  <data key="d1">Organization</data>
+</node>
+<node id="ALB">
+  <data key="d1">Organization</data>
+</node>
+<node id="ANC">
+  <data key="d1">Organization</data>
+</node>
+<node id="ATL">
+  <data key="d1">Organization</data>
+</node>
+<node id="AUS">
+  <data key="d1">Organization</data>
+</node>
+<node id="BDL">
+  <data key="d1">Organization</data>
+</node>
+<node id="BIL">
+  <data key="d1">Organization</data>
+</node>
+<node id="BOI">
+  <data key="d1">Organization</data>
+</node>
+<node id="BOS">
+  <data key="d1">Organization</data>
+</node>
+<node id="BTV">
+  <data key="d1">Organization</data>
+</node>
+<node id="BUF">
+  <data key="d1">Organization</data>
+</node>
+<node id="BUR">
+  <data key="d1">Organization</data>
+</node>
+<node id="BWI">
+  <data key="d1">Organization</data>
+</node>
+<node id="CLE">
+  <data key="d1">Organization</data>
+</node>
+<node id="CLT">
+  <data key="d1">Organization</data>
+</node>
+<node id="CMH">
+  <data key="d1">Organization</data>
+</node>
+<node id="CVG">
+  <data key="d1">Organization</data>
+</node>
+<node id="DAY">
+  <data key="d1">Organization</data>
+</node>
+<node id="DCA">
+  <data key="d1">Organization</data>
+</node>
+<node id="DEN">
+  <data key="d1">Organization</data>
+</node>
+<node id="DFW">
+  <data key="d1">Organization</data>
+</node>
+<node id="DSM">
+  <data key="d1">Organization</data>
+</node>
+<node id="DTW">
+  <data key="d1">Organization</data>
+</node>
+<node id="EUG">
+  <data key="d1">Organization</data>
+</node>
+<node id="EWR">
+  <data key="d1">Organization</data>
+</node>
+<node id="FLL">
+  <data key="d1">Organization</data>
+</node>
+<node id="FSD">
+  <data key="d1">Organization</data>
+</node>
+<node id="GEG">
+  <data key="d1">Organization</data>
+</node>
+<node id="GRR">
+  <data key="d1">Organization</data>
+</node>
+<node id="GSO">
+  <data key="d1">Organization</data>
+</node>
+<node id="HNL">
+  <data key="d1">Organization</data>
+</node>
+<node id="IAD">
+  <data key="d1">Organization</data>
+</node>
+<node id="IAH">
+  <data key="d1">Organization</data>
+</node>
+<node id="ICT">
+  <data key="d1">Organization</data>
+</node>
+<node id="IND">
+  <data key="d1">Organization</data>
+</node>
+<node id="JAC">
+  <data key="d1">Organization</data>
+</node>
+<node id="JAX">
+  <data key="d1">Organization</data>
+</node>
+<node id="JFK">
+  <data key="d1">Organization</data>
+</node>
+<node id="KOA">
+  <data key="d1">Organization</data>
+</node>
+<node id="LAS">
+  <data key="d1">Organization</data>
+</node>
+<node id="LAX">
+  <data key="d1">Organization</data>
+</node>
+<node id="LGA">
+  <data key="d1">Organization</data>
+</node>
+<node id="LIH">
+  <data key="d1">Organization</data>
+</node>
+<node id="MCI">
+  <data key="d1">Organization</data>
+</node>
+<node id="MCO">
+  <data key="d1">Organization</data>
+</node>
+<node id="MDT">
+  <data key="d1">Organization</data>
+</node>
+<node id="MHT">
+  <data key="d1">Organization</data>
+</node>
+<node id="MIA">
+  <data key="d1">Organization</data>
+</node>
+<node id="MSO">
+  <data key="d1">Organization</data>
+</node>
+<node id="MSP">
+  <data key="d1">Organization</data>
+</node>
+<node id="MSY">
+  <data key="d1">Organization</data>
+</node>
+<node id="OAK">
+  <data key="d1">Organization</data>
+</node>
+<node id="OGG">
+  <data key="d1">Organization</data>
+</node>
+<node id="OKC">
+  <data key="d1">Organization</data>
+</node>
+<node id="OMA">
+  <data key="d1">Organization</data>
+</node>
+<node id="ONT">
+  <data key="d1">Organization</data>
+</node>
+<node id="ORD">
+  <data key="d1">Organization</data>
+</node>
+<node id="PBI">
+  <data key="d1">Organization</data>
+</node>
+<node id="PDX">
+  <data key="d1">Organization</data>
+</node>
+<node id="PHL">
+  <data key="d1">Organization</data>
+</node>
+<node id="PHX">
+  <data key="d1">Organization</data>
+</node>
+<node id="PIT">
+  <data key="d1">Organization</data>
+</node>
+<node id="PVD">
+  <data key="d1">Organization</data>
+</node>
+<node id="RDU">
+  <data key="d1">Organization</data>
+</node>
+<node id="RIC">
+  <data key="d1">Organization</data>
+</node>
+<node id="RNO">
+  <data key="d1">Organization</data>
+</node>
+<node id="ROC">
+  <data key="d1">Organization</data>
+</node>
+<node id="SAN">
+  <data key="d1">Organization</data>
+</node>
+<node id="SAT">
+  <data key="d1">Organization</data>
+</node>
+<node id="SEA">
+  <data key="d1">Organization</data>
+</node>
+<node id="SFO">
+  <data key="d1">Organization</data>
+</node>
+<node id="SJC">
+  <data key="d1">Organization</data>
+</node>
+<node id="SJU">
+  <data key="d1">Organization</data>
+</node>
+<node id="SLC">
+  <data key="d1">Organization</data>
+</node>
+<node id="SMF">
+  <data key="d1">Organization</data>
+</node>
+<node id="SNA">
+  <data key="d1">Organization</data>
+</node>
+<node id="STL">
+  <data key="d1">Organization</data>
+</node>
+<node id="STT">
+  <data key="d1">Organization</data>
+</node>
+<node id="TPA">
+  <data key="d1">Organization</data>
+</node>
+<node id="TUL">
+  <data key="d1">Organization</data>
+</node>
+<node id="TUS">
+  <data key="d1">Organization</data>
+</node>
+<node id="BHM">
+  <data key="d1">Organization</data>
+</node>
+<node id="BNA">
+  <data key="d1">Organization</data>
+</node>
+<node id="CAE">
+  <data key="d1">Organization</data>
+</node>
+<node id="CHS">
+  <data key="d1">Organization</data>
+</node>
+<node id="COS">
+  <data key="d1">Organization</data>
+</node>
+<node id="DAB">
+  <data key="d1">Organization</data>
+</node>
+<node id="ELP">
+  <data key="d1">Organization</data>
+</node>
+<node id="GPT">
+  <data key="d1">Organization</data>
+</node>
+<node id="GSP">
+  <data key="d1">Organization</data>
+</node>
+<node id="HSV">
+  <data key="d1">Organization</data>
+</node>
+<node id="JAN">
+  <data key="d1">Organization</data>
+</node>
+<node id="LEX">
+  <data key="d1">Organization</data>
+</node>
+<node id="LIT">
+  <data key="d1">Organization</data>
+</node>
+<node id="MEM">
+  <data key="d1">Organization</data>
+</node>
+<node id="MKE">
+  <data key="d1">Organization</data>
+</node>
+<node id="MLB">
+  <data key="d1">Organization</data>
+</node>
+<node id="MOB">
+  <data key="d1">Organization</data>
+</node>
+<node id="ORF">
+  <data key="d1">Organization</data>
+</node>
+<node id="PHF">
+  <data key="d1">Organization</data>
+</node>
+<node id="PNS">
+  <data key="d1">Organization</data>
+</node>
+<node id="RSW">
+  <data key="d1">Organization</data>
+</node>
+<node id="SAV">
+  <data key="d1">Organization</data>
+</node>
+<node id="SDF">
+  <data key="d1">Organization</data>
+</node>
+<node id="SRQ">
+  <data key="d1">Organization</data>
+</node>
+<node id="TLH">
+  <data key="d1">Organization</data>
+</node>
+<node id="TYS">
+  <data key="d1">Organization</data>
+</node>
+<node id="VPS">
+  <data key="d1">Organization</data>
+</node>
+<node id="ABI">
+  <data key="d1">Organization</data>
+</node>
+<node id="ACT">
+  <data key="d1">Organization</data>
+</node>
+<node id="AEX">
+  <data key="d1">Organization</data>
+</node>
+<node id="AMA">
+  <data key="d1">Organization</data>
+</node>
+<node id="AZO">
+  <data key="d1">Organization</data>
+</node>
+<node id="BMI">
+  <data key="d1">Organization</data>
+</node>
+<node id="BTR">
+  <data key="d1">Organization</data>
+</node>
+<node id="CHA">
+  <data key="d1">Organization</data>
+</node>
+<node id="CID">
+  <data key="d1">Organization</data>
+</node>
+<node id="CLL">
+  <data key="d1">Organization</data>
+</node>
+<node id="CMI">
+  <data key="d1">Organization</data>
+</node>
+<node id="CRP">
+  <data key="d1">Organization</data>
+</node>
+<node id="DAL">
+  <data key="d1">Organization</data>
+</node>
+<node id="DBQ">
+  <data key="d1">Organization</data>
+</node>
+<node id="EVV">
+  <data key="d1">Organization</data>
+</node>
+<node id="FAT">
+  <data key="d1">Organization</data>
+</node>
+<node id="FNT">
+  <data key="d1">Organization</data>
+</node>
+<node id="FSM">
+  <data key="d1">Organization</data>
+</node>
+<node id="FWA">
+  <data key="d1">Organization</data>
+</node>
+<node id="GGG">
+  <data key="d1">Organization</data>
+</node>
+<node id="GJT">
+  <data key="d1">Organization</data>
+</node>
+<node id="GRB">
+  <data key="d1">Organization</data>
+</node>
+<node id="GRK">
+  <data key="d1">Organization</data>
+</node>
+<node id="HOU">
+  <data key="d1">Organization</data>
+</node>
+<node id="HPN">
+  <data key="d1">Organization</data>
+</node>
+<node id="LAW">
+  <data key="d1">Organization</data>
+</node>
+<node id="LBB">
+  <data key="d1">Organization</data>
+</node>
+<node id="LFT">
+  <data key="d1">Organization</data>
+</node>
+<node id="LRD">
+  <data key="d1">Organization</data>
+</node>
+<node id="LSE">
+  <data key="d1">Organization</data>
+</node>
+<node id="MAF">
+  <data key="d1">Organization</data>
+</node>
+<node id="MLI">
+  <data key="d1">Organization</data>
+</node>
+<node id="MLU">
+  <data key="d1">Organization</data>
+</node>
+<node id="MQT">
+  <data key="d1">Organization</data>
+</node>
+<node id="MRY">
+  <data key="d1">Organization</data>
+</node>
+<node id="MSN">
+  <data key="d1">Organization</data>
+</node>
+<node id="PIA">
+  <data key="d1">Organization</data>
+</node>
+<node id="ROW">
+  <data key="d1">Organization</data>
+</node>
+<node id="RST">
+  <data key="d1">Organization</data>
+</node>
+<node id="SBA">
+  <data key="d1">Organization</data>
+</node>
+<node id="SBP">
+  <data key="d1">Organization</data>
+</node>
+<node id="SGF">
+  <data key="d1">Organization</data>
+</node>
+<node id="SHV">
+  <data key="d1">Organization</data>
+</node>
+<node id="SJT">
+  <data key="d1">Organization</data>
+</node>
+<node id="SPS">
+  <data key="d1">Organization</data>
+</node>
+<node id="SYR">
+  <data key="d1">Organization</data>
+</node>
+<node id="TOL">
+  <data key="d1">Organization</data>
+</node>
+<node id="TVC">
+  <data key="d1">Organization</data>
+</node>
+<node id="TXK">
+  <data key="d1">Organization</data>
+</node>
+<node id="TYR">
+  <data key="d1">Organization</data>
+</node>
+<node id="XNA">
+  <data key="d1">Organization</data>
+</node>
+<node id="Traveller_1">
+  <data key="d1">Agent</data>
+</node>
+<node id="Traveller_2">
+  <data key="d1">Agent</data>
+</node>
+<node id="Traveller_3">
+  <data key="d1">Agent</data>
+</node>
+<node id="Traveller_4">
+  <data key="d1">Agent</data>
+</node>
+<node id="Traveller_5">
+  <data key="d1">Agent</data>
+</node>
+<node id="Traveller_6">
+  <data key="d1">Agent</data>
+</node>
+<node id="Traveller_7">
+  <data key="d1">Agent</data>
+</node>
+<node id="Traveller_8">
+  <data key="d1">Agent</data>
+</node>
+<node id="Traveller_9">
+  <data key="d1">Agent</data>
+</node>
+<node id="Traveller_10">
+  <data key="d1">Agent</data>
+</node>
+<node id="Traveller_11">
+  <data key="d1">Agent</data>
+</node>
+<edge source="ABQ" target="DEN">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="ABQ" target="IAD">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ABQ" target="ATL">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="ABQ" target="CVG">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ALB" target="ORD">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="ANC" target="DEN">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ANC" target="ORD">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="ANC" target="SLC">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ATL" target="DEN">
+  <data key="d2">96.0</data>
+</edge>
+<edge source="ATL" target="SFO">
+  <data key="d2">77.0</data>
+</edge>
+<edge source="ATL" target="ORD">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="ATL" target="CAE">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="ATL" target="DCA">
+  <data key="d2">198.0</data>
+</edge>
+<edge source="ATL" target="MLB">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="ATL" target="OKC">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ATL" target="PIT">
+  <data key="d2">66.0</data>
+</edge>
+<edge source="ATL" target="TLH">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="ATL" target="LGA">
+  <data key="d2">212.0</data>
+</edge>
+<edge source="ATL" target="BUF">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="ATL" target="TPA">
+  <data key="d2">134.0</data>
+</edge>
+<edge source="ATL" target="MOB">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ATL" target="ROC">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="ATL" target="SAT">
+  <data key="d2">48.0</data>
+</edge>
+<edge source="ATL" target="FLL">
+  <data key="d2">150.0</data>
+</edge>
+<edge source="ATL" target="CHS">
+  <data key="d2">92.0</data>
+</edge>
+<edge source="ATL" target="HSV">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="ATL" target="LAS">
+  <data key="d2">106.0</data>
+</edge>
+<edge source="ATL" target="SEA">
+  <data key="d2">70.0</data>
+</edge>
+<edge source="ATL" target="PDX">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="ATL" target="LIT">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ATL" target="JAN">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="ATL" target="SDF">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="ATL" target="RSW">
+  <data key="d2">98.0</data>
+</edge>
+<edge source="ATL" target="PHF">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="ATL" target="DTW">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="ATL" target="MIA">
+  <data key="d2">124.0</data>
+</edge>
+<edge source="ATL" target="PHL">
+  <data key="d2">120.0</data>
+</edge>
+<edge source="ATL" target="BWI">
+  <data key="d2">120.0</data>
+</edge>
+<edge source="ATL" target="SJC">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="ATL" target="LAX">
+  <data key="d2">138.0</data>
+</edge>
+<edge source="ATL" target="DAY">
+  <data key="d2">36.0</data>
+</edge>
+<edge source="ATL" target="MSY">
+  <data key="d2">104.0</data>
+</edge>
+<edge source="ATL" target="SMF">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="ATL" target="PNS">
+  <data key="d2">80.0</data>
+</edge>
+<edge source="ATL" target="ABQ">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="ATL" target="RDU">
+  <data key="d2">109.0</data>
+</edge>
+<edge source="ATL" target="GSP">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ATL" target="JFK">
+  <data key="d2">78.0</data>
+</edge>
+<edge source="ATL" target="MKE">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ATL" target="GPT">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ATL" target="PHX">
+  <data key="d2">70.0</data>
+</edge>
+<edge source="ATL" target="LEX">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ATL" target="MCI">
+  <data key="d2">80.0</data>
+</edge>
+<edge source="ATL" target="PBI">
+  <data key="d2">96.0</data>
+</edge>
+<edge source="ATL" target="JAX">
+  <data key="d2">124.0</data>
+</edge>
+<edge source="ATL" target="MSP">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="ATL" target="BOS">
+  <data key="d2">147.0</data>
+</edge>
+<edge source="ATL" target="TYS">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ATL" target="IAD">
+  <data key="d2">66.0</data>
+</edge>
+<edge source="ATL" target="BDL">
+  <data key="d2">76.0</data>
+</edge>
+<edge source="ATL" target="IAH">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="ATL" target="BHM">
+  <data key="d2">78.0</data>
+</edge>
+<edge source="ATL" target="MCO">
+  <data key="d2">184.0</data>
+</edge>
+<edge source="ATL" target="SAN">
+  <data key="d2">70.0</data>
+</edge>
+<edge source="ATL" target="CMH">
+  <data key="d2">18.0</data>
+</edge>
+<edge source="ATL" target="SNA">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="ATL" target="BNA">
+  <data key="d2">36.0</data>
+</edge>
+<edge source="ATL" target="HNL">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="ATL" target="ORF">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="ATL" target="STT">
+  <data key="d2">20.0</data>
+</edge>
+<edge source="ATL" target="GSO">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ATL" target="COS">
+  <data key="d2">6.0</data>
+</edge>
+<edge source="ATL" target="CVG">
+  <data key="d2">73.0</data>
+</edge>
+<edge source="ATL" target="DFW">
+  <data key="d2">128.0</data>
+</edge>
+<edge source="ATL" target="ONT">
+  <data key="d2">32.0</data>
+</edge>
+<edge source="ATL" target="IND">
+  <data key="d2">36.0</data>
+</edge>
+<edge source="ATL" target="ELP">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ATL" target="AUS">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="ATL" target="CLT">
+  <data key="d2">106.0</data>
+</edge>
+<edge source="ATL" target="RIC">
+  <data key="d2">72.0</data>
+</edge>
+<edge source="ATL" target="SJU">
+  <data key="d2">46.0</data>
+</edge>
+<edge source="ATL" target="SAV">
+  <data key="d2">123.0</data>
+</edge>
+<edge source="ATL" target="STL">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="ATL" target="CLE">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ATL" target="TUS">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="ATL" target="DAB">
+  <data key="d2">80.0</data>
+</edge>
+<edge source="ATL" target="MEM">
+  <data key="d2">36.0</data>
+</edge>
+<edge source="ATL" target="EWR">
+  <data key="d2">114.0</data>
+</edge>
+<edge source="ATL" target="SRQ">
+  <data key="d2">70.0</data>
+</edge>
+<edge source="ATL" target="SLC">
+  <data key="d2">105.0</data>
+</edge>
+<edge source="ATL" target="VPS">
+  <data key="d2">20.0</data>
+</edge>
+<edge source="AUS" target="DEN">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="AUS" target="SFO">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="AUS" target="ATL">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="AUS" target="DAL">
+  <data key="d2">96.0</data>
+</edge>
+<edge source="BDL" target="IAD">
+  <data key="d2">32.0</data>
+</edge>
+<edge source="BDL" target="ORD">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="BDL" target="TPA">
+  <data key="d2">22.0</data>
+</edge>
+<edge source="BDL" target="FLL">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="BDL" target="ATL">
+  <data key="d2">76.0</data>
+</edge>
+<edge source="BDL" target="CVG">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="BDL" target="LAX">
+  <data key="d2">6.0</data>
+</edge>
+<edge source="BDL" target="MCO">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="BDL" target="PBI">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="BDL" target="RDU">
+  <data key="d2">39.0</data>
+</edge>
+<edge source="BIL" target="DEN">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="BOI" target="DEN">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="BOI" target="ORD">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="BOI" target="SLC">
+  <data key="d2">20.0</data>
+</edge>
+<edge source="BOS" target="LAX">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="BOS" target="DEN">
+  <data key="d2">67.0</data>
+</edge>
+<edge source="BOS" target="SFO">
+  <data key="d2">67.0</data>
+</edge>
+<edge source="BOS" target="IAD">
+  <data key="d2">59.0</data>
+</edge>
+<edge source="BOS" target="ORD">
+  <data key="d2">138.0</data>
+</edge>
+<edge source="BOS" target="TPA">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="BOS" target="FLL">
+  <data key="d2">36.0</data>
+</edge>
+<edge source="BOS" target="ATL">
+  <data key="d2">147.0</data>
+</edge>
+<edge source="BOS" target="JFK">
+  <data key="d2">86.0</data>
+</edge>
+<edge source="BOS" target="LAS">
+  <data key="d2">10.0</data>
+</edge>
+<edge source="BOS" target="CVG">
+  <data key="d2">47.0</data>
+</edge>
+<edge source="BOS" target="LGA">
+  <data key="d2">96.0</data>
+</edge>
+<edge source="BOS" target="MCO">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="BOS" target="RSW">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="BOS" target="PBI">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="BOS" target="SLC">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="BOS" target="DCA">
+  <data key="d2">76.0</data>
+</edge>
+<edge source="BOS" target="RDU">
+  <data key="d2">102.0</data>
+</edge>
+<edge source="BOS" target="CMH">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="BTV" target="ORD">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="BUF" target="ORD">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="BUF" target="ATL">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="BUR" target="DEN">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="BUR" target="SFO">
+  <data key="d2">34.0</data>
+</edge>
+<edge source="BWI" target="LAX">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="BWI" target="DEN">
+  <data key="d2">66.0</data>
+</edge>
+<edge source="BWI" target="SFO">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="BWI" target="ORD">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="BWI" target="ATL">
+  <data key="d2">120.0</data>
+</edge>
+<edge source="BWI" target="CVG">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="BWI" target="SLC">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="BWI" target="JFK">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="CLE" target="DEN">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="CLE" target="ORD">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="CLE" target="ATL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="CLE" target="DFW">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="CLE" target="JFK">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="CLE" target="MIA">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="CLE" target="LGA">
+  <data key="d2">44.0</data>
+</edge>
+<edge source="CLT" target="DEN">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="CLT" target="ORD">
+  <data key="d2">68.0</data>
+</edge>
+<edge source="CLT" target="ATL">
+  <data key="d2">106.0</data>
+</edge>
+<edge source="CLT" target="SLC">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="CLT" target="MIA">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="CLT" target="LGA">
+  <data key="d2">61.0</data>
+</edge>
+<edge source="CMH" target="DEN">
+  <data key="d2">21.0</data>
+</edge>
+<edge source="CMH" target="ORD">
+  <data key="d2">119.0</data>
+</edge>
+<edge source="CMH" target="ATL">
+  <data key="d2">18.0</data>
+</edge>
+<edge source="CMH" target="CVG">
+  <data key="d2">10.0</data>
+</edge>
+<edge source="CMH" target="DFW">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="CMH" target="MIA">
+  <data key="d2">18.0</data>
+</edge>
+<edge source="CMH" target="LGA">
+  <data key="d2">57.0</data>
+</edge>
+<edge source="CMH" target="BOS">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="CMH" target="RDU">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="CVG" target="ORD">
+  <data key="d2">92.0</data>
+</edge>
+<edge source="CVG" target="FLL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="CVG" target="RDU">
+  <data key="d2">7.0</data>
+</edge>
+<edge source="CVG" target="SFO">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="CVG" target="ABQ">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="CVG" target="DCA">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="CVG" target="LAS">
+  <data key="d2">34.0</data>
+</edge>
+<edge source="CVG" target="JFK">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="CVG" target="SEA">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="CVG" target="PIT">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="CVG" target="PDX">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="CVG" target="LGA">
+  <data key="d2">44.0</data>
+</edge>
+<edge source="CVG" target="PHX">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="CVG" target="RSW">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="CVG" target="TPA">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="CVG" target="BOS">
+  <data key="d2">47.0</data>
+</edge>
+<edge source="CVG" target="ATL">
+  <data key="d2">73.0</data>
+</edge>
+<edge source="CVG" target="BDL">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="CVG" target="DEN">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="CVG" target="LAX">
+  <data key="d2">48.0</data>
+</edge>
+<edge source="CVG" target="BWI">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="CVG" target="MCO">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="CVG" target="SAN">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="CVG" target="CMH">
+  <data key="d2">10.0</data>
+</edge>
+<edge source="CVG" target="SNA">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="CVG" target="SLC">
+  <data key="d2">53.0</data>
+</edge>
+<edge source="CVG" target="DFW">
+  <data key="d2">77.0</data>
+</edge>
+<edge source="CVG" target="MIA">
+  <data key="d2">17.0</data>
+</edge>
+<edge source="DAY" target="ORD">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="DAY" target="ATL">
+  <data key="d2">36.0</data>
+</edge>
+<edge source="DCA" target="DEN">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DCA" target="ORD">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="DCA" target="ATL">
+  <data key="d2">198.0</data>
+</edge>
+<edge source="DCA" target="JFK">
+  <data key="d2">58.0</data>
+</edge>
+<edge source="DCA" target="CVG">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="DCA" target="LGA">
+  <data key="d2">72.0</data>
+</edge>
+<edge source="DCA" target="SLC">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DCA" target="BNA">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="DCA" target="BOS">
+  <data key="d2">76.0</data>
+</edge>
+<edge source="DCA" target="XNA">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="DCA" target="RDU">
+  <data key="d2">109.0</data>
+</edge>
+<edge source="DEN" target="LAX">
+  <data key="d2">128.0</data>
+</edge>
+<edge source="DEN" target="DCA">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DEN" target="BIL">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="DEN" target="IAH">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="DEN" target="SLC">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="DEN" target="MCO">
+  <data key="d2">58.0</data>
+</edge>
+<edge source="DEN" target="MSY">
+  <data key="d2">39.0</data>
+</edge>
+<edge source="DEN" target="GEG">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="DEN" target="BWI">
+  <data key="d2">66.0</data>
+</edge>
+<edge source="DEN" target="ORD">
+  <data key="d2">153.0</data>
+</edge>
+<edge source="DEN" target="DSM">
+  <data key="d2">37.0</data>
+</edge>
+<edge source="DEN" target="LGA">
+  <data key="d2">88.0</data>
+</edge>
+<edge source="DEN" target="SAT">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="DEN" target="RDU">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="DEN" target="HNL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DEN" target="CLE">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DEN" target="KOA">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="DEN" target="STL">
+  <data key="d2">21.0</data>
+</edge>
+<edge source="DEN" target="IND">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DEN" target="BUR">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="DEN" target="SFO">
+  <data key="d2">123.0</data>
+</edge>
+<edge source="DEN" target="EWR">
+  <data key="d2">39.0</data>
+</edge>
+<edge source="DEN" target="DFW">
+  <data key="d2">86.0</data>
+</edge>
+<edge source="DEN" target="FLL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DEN" target="SEA">
+  <data key="d2">85.0</data>
+</edge>
+<edge source="DEN" target="OKC">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="DEN" target="TUS">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DEN" target="SJC">
+  <data key="d2">62.0</data>
+</edge>
+<edge source="DEN" target="BOI">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="DEN" target="JAC">
+  <data key="d2">16.0</data>
+</edge>
+<edge source="DEN" target="ATL">
+  <data key="d2">96.0</data>
+</edge>
+<edge source="DEN" target="ONT">
+  <data key="d2">64.0</data>
+</edge>
+<edge source="DEN" target="SMF">
+  <data key="d2">67.0</data>
+</edge>
+<edge source="DEN" target="RNO">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="DEN" target="PIT">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="DEN" target="OMA">
+  <data key="d2">73.0</data>
+</edge>
+<edge source="DEN" target="PHL">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="DEN" target="CLT">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="DEN" target="AUS">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="DEN" target="LAS">
+  <data key="d2">137.0</data>
+</edge>
+<edge source="DEN" target="MSO">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DEN" target="MCI">
+  <data key="d2">68.0</data>
+</edge>
+<edge source="DEN" target="SAN">
+  <data key="d2">77.0</data>
+</edge>
+<edge source="DEN" target="ABQ">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="DEN" target="ANC">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DEN" target="TPA">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="DEN" target="BOS">
+  <data key="d2">67.0</data>
+</edge>
+<edge source="DEN" target="IAD">
+  <data key="d2">108.0</data>
+</edge>
+<edge source="DEN" target="OGG">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="DEN" target="TUL">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="DEN" target="ICT">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="DEN" target="MIA">
+  <data key="d2">16.0</data>
+</edge>
+<edge source="DEN" target="MSP">
+  <data key="d2">62.0</data>
+</edge>
+<edge source="DEN" target="DTW">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="DEN" target="LIH">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="DEN" target="CMH">
+  <data key="d2">21.0</data>
+</edge>
+<edge source="DEN" target="FSD">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="DEN" target="OAK">
+  <data key="d2">65.0</data>
+</edge>
+<edge source="DEN" target="SNA">
+  <data key="d2">67.0</data>
+</edge>
+<edge source="DEN" target="PDX">
+  <data key="d2">75.0</data>
+</edge>
+<edge source="DEN" target="PHX">
+  <data key="d2">94.0</data>
+</edge>
+<edge source="DEN" target="JFK">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DEN" target="CVG">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="DFW" target="DEN">
+  <data key="d2">86.0</data>
+</edge>
+<edge source="DFW" target="SFO">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DFW" target="ORD">
+  <data key="d2">62.0</data>
+</edge>
+<edge source="DFW" target="ATL">
+  <data key="d2">128.0</data>
+</edge>
+<edge source="DFW" target="SLC">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="DFW" target="BTR">
+  <data key="d2">116.0</data>
+</edge>
+<edge source="DFW" target="GGG">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="DFW" target="ROC">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="DFW" target="JAN">
+  <data key="d2">90.0</data>
+</edge>
+<edge source="DFW" target="AEX">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="DFW" target="ROW">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="DFW" target="GPT">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="DFW" target="LEX">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="DFW" target="MDT">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DFW" target="LAW">
+  <data key="d2">93.0</data>
+</edge>
+<edge source="DFW" target="HOU">
+  <data key="d2">81.0</data>
+</edge>
+<edge source="DFW" target="CLL">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="DFW" target="CID">
+  <data key="d2">66.0</data>
+</edge>
+<edge source="DFW" target="ORF">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DFW" target="MOB">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="DFW" target="SDF">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DFW" target="FNT">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DFW" target="MKE">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="DFW" target="ACT">
+  <data key="d2">75.0</data>
+</edge>
+<edge source="DFW" target="SPS">
+  <data key="d2">94.0</data>
+</edge>
+<edge source="DFW" target="LBB">
+  <data key="d2">122.0</data>
+</edge>
+<edge source="DFW" target="AMA">
+  <data key="d2">92.0</data>
+</edge>
+<edge source="DFW" target="TYR">
+  <data key="d2">67.0</data>
+</edge>
+<edge source="DFW" target="ABI">
+  <data key="d2">95.0</data>
+</edge>
+<edge source="DFW" target="GSP">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="DFW" target="TXK">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="DFW" target="TUL">
+  <data key="d2">36.0</data>
+</edge>
+<edge source="DFW" target="PIA">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="DFW" target="LFT">
+  <data key="d2">41.0</data>
+</edge>
+<edge source="DFW" target="HSV">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="DFW" target="SHV">
+  <data key="d2">121.0</data>
+</edge>
+<edge source="DFW" target="FWA">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="DFW" target="PIT">
+  <data key="d2">76.0</data>
+</edge>
+<edge source="DFW" target="VPS">
+  <data key="d2">82.0</data>
+</edge>
+<edge source="DFW" target="LRD">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="DFW" target="CAE">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="DFW" target="MAF">
+  <data key="d2">78.0</data>
+</edge>
+<edge source="DFW" target="SYR">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="DFW" target="OKC">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DFW" target="TYS">
+  <data key="d2">56.0</data>
+</edge>
+<edge source="DFW" target="GSO">
+  <data key="d2">30.0</data>
+</edge>
+<edge source="DFW" target="MLI">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="DFW" target="CHS">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="DFW" target="FSM">
+  <data key="d2">66.0</data>
+</edge>
+<edge source="DFW" target="DSM">
+  <data key="d2">80.0</data>
+</edge>
+<edge source="DFW" target="LIT">
+  <data key="d2">106.0</data>
+</edge>
+<edge source="DFW" target="GRR">
+  <data key="d2">27.0</data>
+</edge>
+<edge source="DFW" target="SGF">
+  <data key="d2">120.0</data>
+</edge>
+<edge source="DFW" target="MSN">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="DFW" target="XNA">
+  <data key="d2">69.0</data>
+</edge>
+<edge source="DFW" target="CVG">
+  <data key="d2">77.0</data>
+</edge>
+<edge source="DFW" target="GRK">
+  <data key="d2">118.0</data>
+</edge>
+<edge source="DFW" target="CRP">
+  <data key="d2">84.0</data>
+</edge>
+<edge source="DFW" target="SJT">
+  <data key="d2">70.0</data>
+</edge>
+<edge source="DFW" target="SAV">
+  <data key="d2">27.0</data>
+</edge>
+<edge source="DFW" target="MLU">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="DFW" target="EVV">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DFW" target="PNS">
+  <data key="d2">82.0</data>
+</edge>
+<edge source="DFW" target="CLE">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="DFW" target="CMI">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DFW" target="GJT">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="DFW" target="SBA">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DFW" target="CHA">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DFW" target="CMH">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="DSM" target="DEN">
+  <data key="d2">37.0</data>
+</edge>
+<edge source="DSM" target="ORD">
+  <data key="d2">108.0</data>
+</edge>
+<edge source="DSM" target="DFW">
+  <data key="d2">80.0</data>
+</edge>
+<edge source="DSM" target="LGA">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="DTW" target="DEN">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="DTW" target="ORD">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="DTW" target="ATL">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="DTW" target="SLC">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="DTW" target="LGA">
+  <data key="d2">64.0</data>
+</edge>
+<edge source="EUG" target="SFO">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="EWR" target="LAX">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="EWR" target="DEN">
+  <data key="d2">39.0</data>
+</edge>
+<edge source="EWR" target="SFO">
+  <data key="d2">35.0</data>
+</edge>
+<edge source="EWR" target="ORD">
+  <data key="d2">92.0</data>
+</edge>
+<edge source="EWR" target="ATL">
+  <data key="d2">114.0</data>
+</edge>
+<edge source="EWR" target="SLC">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="EWR" target="RDU">
+  <data key="d2">48.0</data>
+</edge>
+<edge source="FLL" target="DEN">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="FLL" target="IAD">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="FLL" target="ORD">
+  <data key="d2">44.0</data>
+</edge>
+<edge source="FLL" target="BOS">
+  <data key="d2">36.0</data>
+</edge>
+<edge source="FLL" target="ATL">
+  <data key="d2">150.0</data>
+</edge>
+<edge source="FLL" target="JFK">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="FLL" target="LAS">
+  <data key="d2">4.0</data>
+</edge>
+<edge source="FLL" target="CVG">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="FLL" target="BDL">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="FLL" target="LGA">
+  <data key="d2">48.0</data>
+</edge>
+<edge source="FLL" target="SLC">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="FSD" target="DEN">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="GEG" target="DEN">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="GEG" target="ORD">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="GEG" target="SLC">
+  <data key="d2">16.0</data>
+</edge>
+<edge source="GRR" target="ORD">
+  <data key="d2">82.0</data>
+</edge>
+<edge source="GRR" target="DFW">
+  <data key="d2">27.0</data>
+</edge>
+<edge source="GSO" target="ORD">
+  <data key="d2">27.0</data>
+</edge>
+<edge source="GSO" target="ATL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="GSO" target="DFW">
+  <data key="d2">30.0</data>
+</edge>
+<edge source="GSO" target="MIA">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="HNL" target="LAX">
+  <data key="d2">20.0</data>
+</edge>
+<edge source="HNL" target="DEN">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="HNL" target="SFO">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="HNL" target="ORD">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="HNL" target="ATL">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="HNL" target="SLC">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="IAD" target="RDU">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="IAD" target="LAX">
+  <data key="d2">115.0</data>
+</edge>
+<edge source="IAD" target="SMF">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="IAD" target="SJU">
+  <data key="d2">15.0</data>
+</edge>
+<edge source="IAD" target="DEN">
+  <data key="d2">108.0</data>
+</edge>
+<edge source="IAD" target="MCO">
+  <data key="d2">97.0</data>
+</edge>
+<edge source="IAD" target="SFO">
+  <data key="d2">116.0</data>
+</edge>
+<edge source="IAD" target="BDL">
+  <data key="d2">32.0</data>
+</edge>
+<edge source="IAD" target="LAS">
+  <data key="d2">51.0</data>
+</edge>
+<edge source="IAD" target="MSY">
+  <data key="d2">36.0</data>
+</edge>
+<edge source="IAD" target="FLL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="IAD" target="SAN">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="IAD" target="ABQ">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="IAD" target="SEA">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="IAD" target="TUS">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="IAD" target="TPA">
+  <data key="d2">49.0</data>
+</edge>
+<edge source="IAD" target="SJC">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="IAD" target="BOS">
+  <data key="d2">59.0</data>
+</edge>
+<edge source="IAD" target="PDX">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="IAD" target="STT">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="IAD" target="ORD">
+  <data key="d2">116.0</data>
+</edge>
+<edge source="IAD" target="PHX">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="IAD" target="LGA">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="IAD" target="ATL">
+  <data key="d2">66.0</data>
+</edge>
+<edge source="IAD" target="SLC">
+  <data key="d2">22.0</data>
+</edge>
+<edge source="IAH" target="DEN">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="IAH" target="SFO">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="IAH" target="ORD">
+  <data key="d2">11.0</data>
+</edge>
+<edge source="IAH" target="ATL">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="ICT" target="DEN">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="ICT" target="ORD">
+  <data key="d2">64.0</data>
+</edge>
+<edge source="IND" target="DEN">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="IND" target="ORD">
+  <data key="d2">96.0</data>
+</edge>
+<edge source="IND" target="ATL">
+  <data key="d2">36.0</data>
+</edge>
+<edge source="IND" target="MIA">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="JAC" target="DEN">
+  <data key="d2">16.0</data>
+</edge>
+<edge source="JAX" target="ORD">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="JAX" target="ATL">
+  <data key="d2">124.0</data>
+</edge>
+<edge source="JAX" target="RDU">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="JFK" target="LAX">
+  <data key="d2">78.0</data>
+</edge>
+<edge source="JFK" target="SFO">
+  <data key="d2">47.0</data>
+</edge>
+<edge source="JFK" target="FLL">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="JFK" target="DCA">
+  <data key="d2">58.0</data>
+</edge>
+<edge source="JFK" target="LAS">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="JFK" target="CVG">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="JFK" target="SEA">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="JFK" target="PDX">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="JFK" target="PHX">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="JFK" target="TPA">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="JFK" target="BOS">
+  <data key="d2">86.0</data>
+</edge>
+<edge source="JFK" target="ATL">
+  <data key="d2">78.0</data>
+</edge>
+<edge source="JFK" target="SJU">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="JFK" target="MIA">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="JFK" target="DEN">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="JFK" target="MCO">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="JFK" target="SAN">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="JFK" target="SLC">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="JFK" target="BWI">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="JFK" target="CLE">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="JFK" target="STL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="JFK" target="PIT">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="JFK" target="ORD">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="JFK" target="RDU">
+  <data key="d2">72.0</data>
+</edge>
+<edge source="KOA" target="LAX">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="KOA" target="DEN">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="KOA" target="SFO">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="KOA" target="OGG">
+  <data key="d2">5.0</data>
+</edge>
+<edge source="KOA" target="ORD">
+  <data key="d2">5.0</data>
+</edge>
+<edge source="LAS" target="LAX">
+  <data key="d2">56.0</data>
+</edge>
+<edge source="LAS" target="DEN">
+  <data key="d2">137.0</data>
+</edge>
+<edge source="LAS" target="SFO">
+  <data key="d2">109.0</data>
+</edge>
+<edge source="LAS" target="IAD">
+  <data key="d2">51.0</data>
+</edge>
+<edge source="LAS" target="ORD">
+  <data key="d2">95.0</data>
+</edge>
+<edge source="LAS" target="FLL">
+  <data key="d2">4.0</data>
+</edge>
+<edge source="LAS" target="BOS">
+  <data key="d2">10.0</data>
+</edge>
+<edge source="LAS" target="ATL">
+  <data key="d2">106.0</data>
+</edge>
+<edge source="LAS" target="JFK">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="LAS" target="CVG">
+  <data key="d2">34.0</data>
+</edge>
+<edge source="LAS" target="MCO">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="LAS" target="SLC">
+  <data key="d2">44.0</data>
+</edge>
+<edge source="LAX" target="HNL">
+  <data key="d2">20.0</data>
+</edge>
+<edge source="LAX" target="KOA">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="LAX" target="DEN">
+  <data key="d2">128.0</data>
+</edge>
+<edge source="LAX" target="JFK">
+  <data key="d2">78.0</data>
+</edge>
+<edge source="LAX" target="MCO">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="LAX" target="SFO">
+  <data key="d2">214.0</data>
+</edge>
+<edge source="LAX" target="PHL">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="LAX" target="LAS">
+  <data key="d2">56.0</data>
+</edge>
+<edge source="LAX" target="MSY">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="LAX" target="EWR">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="LAX" target="LIH">
+  <data key="d2">16.0</data>
+</edge>
+<edge source="LAX" target="SEA">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="LAX" target="IAD">
+  <data key="d2">115.0</data>
+</edge>
+<edge source="LAX" target="BOS">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="LAX" target="BWI">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="LAX" target="OGG">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="LAX" target="ORD">
+  <data key="d2">143.0</data>
+</edge>
+<edge source="LAX" target="TPA">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="LAX" target="ATL">
+  <data key="d2">138.0</data>
+</edge>
+<edge source="LAX" target="CVG">
+  <data key="d2">48.0</data>
+</edge>
+<edge source="LAX" target="BDL">
+  <data key="d2">6.0</data>
+</edge>
+<edge source="LAX" target="SLC">
+  <data key="d2">68.0</data>
+</edge>
+<edge source="LAX" target="MRY">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="LAX" target="SJC">
+  <data key="d2">81.0</data>
+</edge>
+<edge source="LAX" target="SAN">
+  <data key="d2">236.0</data>
+</edge>
+<edge source="LAX" target="SBP">
+  <data key="d2">57.0</data>
+</edge>
+<edge source="LAX" target="FAT">
+  <data key="d2">70.0</data>
+</edge>
+<edge source="LAX" target="XNA">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="LAX" target="SBA">
+  <data key="d2">98.0</data>
+</edge>
+<edge source="LGA" target="DEN">
+  <data key="d2">88.0</data>
+</edge>
+<edge source="LGA" target="IAD">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="LGA" target="ORD">
+  <data key="d2">172.0</data>
+</edge>
+<edge source="LGA" target="TPA">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="LGA" target="FLL">
+  <data key="d2">48.0</data>
+</edge>
+<edge source="LGA" target="BOS">
+  <data key="d2">96.0</data>
+</edge>
+<edge source="LGA" target="DCA">
+  <data key="d2">72.0</data>
+</edge>
+<edge source="LGA" target="ATL">
+  <data key="d2">212.0</data>
+</edge>
+<edge source="LGA" target="CVG">
+  <data key="d2">44.0</data>
+</edge>
+<edge source="LGA" target="MCO">
+  <data key="d2">56.0</data>
+</edge>
+<edge source="LGA" target="MSY">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="LGA" target="RSW">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="LGA" target="PBI">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="LGA" target="RDU">
+  <data key="d2">77.0</data>
+</edge>
+<edge source="LGA" target="MEM">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="LGA" target="SDF">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="LGA" target="DSM">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="LGA" target="CLE">
+  <data key="d2">44.0</data>
+</edge>
+<edge source="LGA" target="PIT">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="LGA" target="MSN">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="LGA" target="XNA">
+  <data key="d2">30.0</data>
+</edge>
+<edge source="LGA" target="DTW">
+  <data key="d2">64.0</data>
+</edge>
+<edge source="LGA" target="CMH">
+  <data key="d2">57.0</data>
+</edge>
+<edge source="LGA" target="CLT">
+  <data key="d2">61.0</data>
+</edge>
+<edge source="LIH" target="LAX">
+  <data key="d2">16.0</data>
+</edge>
+<edge source="LIH" target="DEN">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="LIH" target="SFO">
+  <data key="d2">16.0</data>
+</edge>
+<edge source="MCI" target="DEN">
+  <data key="d2">68.0</data>
+</edge>
+<edge source="MCI" target="ORD">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="MCI" target="ATL">
+  <data key="d2">80.0</data>
+</edge>
+<edge source="MCI" target="DAL">
+  <data key="d2">99.0</data>
+</edge>
+<edge source="MCI" target="RDU">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="MCO" target="LAX">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="MCO" target="DEN">
+  <data key="d2">58.0</data>
+</edge>
+<edge source="MCO" target="SFO">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="MCO" target="IAD">
+  <data key="d2">97.0</data>
+</edge>
+<edge source="MCO" target="ORD">
+  <data key="d2">91.0</data>
+</edge>
+<edge source="MCO" target="BOS">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="MCO" target="ATL">
+  <data key="d2">184.0</data>
+</edge>
+<edge source="MCO" target="JFK">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="MCO" target="LAS">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="MCO" target="CVG">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="MCO" target="BDL">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="MCO" target="LGA">
+  <data key="d2">56.0</data>
+</edge>
+<edge source="MCO" target="SLC">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="MDT" target="ORD">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="MDT" target="DFW">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="MHT" target="ORD">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="MIA" target="DEN">
+  <data key="d2">16.0</data>
+</edge>
+<edge source="MIA" target="ORD">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="MIA" target="ATL">
+  <data key="d2">124.0</data>
+</edge>
+<edge source="MIA" target="JFK">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="MIA" target="IND">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="MIA" target="GSO">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="MIA" target="RIC">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="MIA" target="ORF">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="MIA" target="MEM">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="MIA" target="SDF">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="MIA" target="CLE">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="MIA" target="TLH">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="MIA" target="PIT">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="MIA" target="XNA">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="MIA" target="CVG">
+  <data key="d2">17.0</data>
+</edge>
+<edge source="MIA" target="CMH">
+  <data key="d2">18.0</data>
+</edge>
+<edge source="MIA" target="CLT">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="MSO" target="DEN">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="MSP" target="DEN">
+  <data key="d2">62.0</data>
+</edge>
+<edge source="MSP" target="ORD">
+  <data key="d2">136.0</data>
+</edge>
+<edge source="MSP" target="ATL">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="MSY" target="LAX">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="MSY" target="DEN">
+  <data key="d2">39.0</data>
+</edge>
+<edge source="MSY" target="IAD">
+  <data key="d2">36.0</data>
+</edge>
+<edge source="MSY" target="ORD">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="MSY" target="ATL">
+  <data key="d2">104.0</data>
+</edge>
+<edge source="MSY" target="LGA">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="OAK" target="DEN">
+  <data key="d2">65.0</data>
+</edge>
+<edge source="OAK" target="SLC">
+  <data key="d2">18.0</data>
+</edge>
+<edge source="OGG" target="LAX">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="OGG" target="KOA">
+  <data key="d2">5.0</data>
+</edge>
+<edge source="OGG" target="DEN">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="OGG" target="SFO">
+  <data key="d2">30.0</data>
+</edge>
+<edge source="OGG" target="ORD">
+  <data key="d2">5.0</data>
+</edge>
+<edge source="OGG" target="SLC">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="OKC" target="DEN">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="OKC" target="ATL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="OKC" target="DFW">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="OKC" target="ORD">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="OMA" target="DEN">
+  <data key="d2">73.0</data>
+</edge>
+<edge source="OMA" target="ORD">
+  <data key="d2">79.0</data>
+</edge>
+<edge source="ONT" target="DEN">
+  <data key="d2">64.0</data>
+</edge>
+<edge source="ONT" target="ATL">
+  <data key="d2">32.0</data>
+</edge>
+<edge source="ONT" target="SLC">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="ORD" target="LAX">
+  <data key="d2">143.0</data>
+</edge>
+<edge source="ORD" target="DCA">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="ORD" target="IAH">
+  <data key="d2">11.0</data>
+</edge>
+<edge source="ORD" target="SJU">
+  <data key="d2">15.0</data>
+</edge>
+<edge source="ORD" target="SLC">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="ORD" target="MCO">
+  <data key="d2">91.0</data>
+</edge>
+<edge source="ORD" target="ALB">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="ORD" target="MSY">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="ORD" target="GEG">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ORD" target="MHT">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="ORD" target="BWI">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="ORD" target="DSM">
+  <data key="d2">108.0</data>
+</edge>
+<edge source="ORD" target="LGA">
+  <data key="d2">172.0</data>
+</edge>
+<edge source="ORD" target="HNL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ORD" target="RDU">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="ORD" target="CLE">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="ORD" target="KOA">
+  <data key="d2">5.0</data>
+</edge>
+<edge source="ORD" target="STL">
+  <data key="d2">7.0</data>
+</edge>
+<edge source="ORD" target="IND">
+  <data key="d2">96.0</data>
+</edge>
+<edge source="ORD" target="SFO">
+  <data key="d2">133.0</data>
+</edge>
+<edge source="ORD" target="BTV">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="ORD" target="PBI">
+  <data key="d2">13.0</data>
+</edge>
+<edge source="ORD" target="GSO">
+  <data key="d2">27.0</data>
+</edge>
+<edge source="ORD" target="EWR">
+  <data key="d2">92.0</data>
+</edge>
+<edge source="ORD" target="DFW">
+  <data key="d2">62.0</data>
+</edge>
+<edge source="ORD" target="FLL">
+  <data key="d2">44.0</data>
+</edge>
+<edge source="ORD" target="CVG">
+  <data key="d2">92.0</data>
+</edge>
+<edge source="ORD" target="SEA">
+  <data key="d2">77.0</data>
+</edge>
+<edge source="ORD" target="SJC">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="ORD" target="BOI">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ORD" target="STT">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ORD" target="ATL">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="ORD" target="SMF">
+  <data key="d2">41.0</data>
+</edge>
+<edge source="ORD" target="PIT">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="ORD" target="OMA">
+  <data key="d2">79.0</data>
+</edge>
+<edge source="ORD" target="PHL">
+  <data key="d2">107.0</data>
+</edge>
+<edge source="ORD" target="CLT">
+  <data key="d2">68.0</data>
+</edge>
+<edge source="ORD" target="LAS">
+  <data key="d2">95.0</data>
+</edge>
+<edge source="ORD" target="ROC">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="ORD" target="MCI">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="ORD" target="SAN">
+  <data key="d2">75.0</data>
+</edge>
+<edge source="ORD" target="JAX">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="ORD" target="BUF">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="ORD" target="RIC">
+  <data key="d2">41.0</data>
+</edge>
+<edge source="ORD" target="ANC">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="ORD" target="TPA">
+  <data key="d2">48.0</data>
+</edge>
+<edge source="ORD" target="BOS">
+  <data key="d2">138.0</data>
+</edge>
+<edge source="ORD" target="IAD">
+  <data key="d2">116.0</data>
+</edge>
+<edge source="ORD" target="OGG">
+  <data key="d2">5.0</data>
+</edge>
+<edge source="ORD" target="ICT">
+  <data key="d2">64.0</data>
+</edge>
+<edge source="ORD" target="DEN">
+  <data key="d2">153.0</data>
+</edge>
+<edge source="ORD" target="PVD">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="ORD" target="MIA">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="ORD" target="MSP">
+  <data key="d2">136.0</data>
+</edge>
+<edge source="ORD" target="BDL">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="ORD" target="DTW">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="ORD" target="CMH">
+  <data key="d2">119.0</data>
+</edge>
+<edge source="ORD" target="SNA">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="ORD" target="PDX">
+  <data key="d2">75.0</data>
+</edge>
+<edge source="ORD" target="GRR">
+  <data key="d2">82.0</data>
+</edge>
+<edge source="ORD" target="DAY">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="ORD" target="MDT">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="ORD" target="PHX">
+  <data key="d2">56.0</data>
+</edge>
+<edge source="ORD" target="HPN">
+  <data key="d2">92.0</data>
+</edge>
+<edge source="ORD" target="BTR">
+  <data key="d2">10.0</data>
+</edge>
+<edge source="ORD" target="BHM">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="ORD" target="JAN">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="ORD" target="GPT">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="ORD" target="LEX">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="ORD" target="JFK">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ORD" target="LSE">
+  <data key="d2">56.0</data>
+</edge>
+<edge source="ORD" target="TVC">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="ORD" target="CID">
+  <data key="d2">92.0</data>
+</edge>
+<edge source="ORD" target="AZO">
+  <data key="d2">66.0</data>
+</edge>
+<edge source="ORD" target="MOB">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="ORD" target="SDF">
+  <data key="d2">68.0</data>
+</edge>
+<edge source="ORD" target="FNT">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="ORD" target="MKE">
+  <data key="d2">78.0</data>
+</edge>
+<edge source="ORD" target="BNA">
+  <data key="d2">94.0</data>
+</edge>
+<edge source="ORD" target="GSP">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="ORD" target="TOL">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="ORD" target="TUL">
+  <data key="d2">13.0</data>
+</edge>
+<edge source="ORD" target="PIA">
+  <data key="d2">62.0</data>
+</edge>
+<edge source="ORD" target="HSV">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="ORD" target="SHV">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="ORD" target="FWA">
+  <data key="d2">68.0</data>
+</edge>
+<edge source="ORD" target="DBQ">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="ORD" target="VPS">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ORD" target="SYR">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="ORD" target="OKC">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="ORD" target="TYS">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="ORD" target="MLI">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="ORD" target="MQT">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="ORD" target="LIT">
+  <data key="d2">68.0</data>
+</edge>
+<edge source="ORD" target="SGF">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="ORD" target="MSN">
+  <data key="d2">104.0</data>
+</edge>
+<edge source="ORD" target="XNA">
+  <data key="d2">74.0</data>
+</edge>
+<edge source="ORD" target="RST">
+  <data key="d2">94.0</data>
+</edge>
+<edge source="ORD" target="BMI">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="ORD" target="MEM">
+  <data key="d2">66.0</data>
+</edge>
+<edge source="ORD" target="EVV">
+  <data key="d2">76.0</data>
+</edge>
+<edge source="ORD" target="PNS">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ORD" target="GRB">
+  <data key="d2">64.0</data>
+</edge>
+<edge source="ORD" target="CMI">
+  <data key="d2">104.0</data>
+</edge>
+<edge source="ORD" target="CHA">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="PBI" target="ORD">
+  <data key="d2">13.0</data>
+</edge>
+<edge source="PBI" target="BOS">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="PBI" target="ATL">
+  <data key="d2">96.0</data>
+</edge>
+<edge source="PBI" target="BDL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="PBI" target="LGA">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="PDX" target="DEN">
+  <data key="d2">75.0</data>
+</edge>
+<edge source="PDX" target="SFO">
+  <data key="d2">81.0</data>
+</edge>
+<edge source="PDX" target="IAD">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="PDX" target="ORD">
+  <data key="d2">75.0</data>
+</edge>
+<edge source="PDX" target="ATL">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="PDX" target="JFK">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="PDX" target="CVG">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="PDX" target="SLC">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="PHL" target="LAX">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="PHL" target="DEN">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="PHL" target="SFO">
+  <data key="d2">35.0</data>
+</edge>
+<edge source="PHL" target="ORD">
+  <data key="d2">107.0</data>
+</edge>
+<edge source="PHL" target="ATL">
+  <data key="d2">120.0</data>
+</edge>
+<edge source="PHL" target="SLC">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="PHX" target="DEN">
+  <data key="d2">94.0</data>
+</edge>
+<edge source="PHX" target="SFO">
+  <data key="d2">56.0</data>
+</edge>
+<edge source="PHX" target="IAD">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="PHX" target="ORD">
+  <data key="d2">56.0</data>
+</edge>
+<edge source="PHX" target="ATL">
+  <data key="d2">70.0</data>
+</edge>
+<edge source="PHX" target="JFK">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="PHX" target="CVG">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="PHX" target="SLC">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="PIT" target="DEN">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="PIT" target="ORD">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="PIT" target="ATL">
+  <data key="d2">66.0</data>
+</edge>
+<edge source="PIT" target="CVG">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="PIT" target="DFW">
+  <data key="d2">76.0</data>
+</edge>
+<edge source="PIT" target="JFK">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="PIT" target="MIA">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="PIT" target="LGA">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="PVD" target="ORD">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="RDU" target="DEN">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="RDU" target="IAD">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="RDU" target="ORD">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="RDU" target="ATL">
+  <data key="d2">109.0</data>
+</edge>
+<edge source="RDU" target="CVG">
+  <data key="d2">7.0</data>
+</edge>
+<edge source="RDU" target="SLC">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="RDU" target="SDF">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="RDU" target="EWR">
+  <data key="d2">48.0</data>
+</edge>
+<edge source="RDU" target="BDL">
+  <data key="d2">39.0</data>
+</edge>
+<edge source="RDU" target="JAX">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="RDU" target="JFK">
+  <data key="d2">72.0</data>
+</edge>
+<edge source="RDU" target="LGA">
+  <data key="d2">77.0</data>
+</edge>
+<edge source="RDU" target="MCI">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="RDU" target="BOS">
+  <data key="d2">102.0</data>
+</edge>
+<edge source="RDU" target="DCA">
+  <data key="d2">109.0</data>
+</edge>
+<edge source="RDU" target="CMH">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="RIC" target="ORD">
+  <data key="d2">41.0</data>
+</edge>
+<edge source="RIC" target="ATL">
+  <data key="d2">72.0</data>
+</edge>
+<edge source="RIC" target="MIA">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="RNO" target="DEN">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="RNO" target="SFO">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="RNO" target="SLC">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="ROC" target="ORD">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="ROC" target="ATL">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="ROC" target="DFW">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="SAN" target="DEN">
+  <data key="d2">77.0</data>
+</edge>
+<edge source="SAN" target="SFO">
+  <data key="d2">135.0</data>
+</edge>
+<edge source="SAN" target="IAD">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="SAN" target="ORD">
+  <data key="d2">75.0</data>
+</edge>
+<edge source="SAN" target="ATL">
+  <data key="d2">70.0</data>
+</edge>
+<edge source="SAN" target="JFK">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SAN" target="CVG">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="SAN" target="SLC">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="SAN" target="LAX">
+  <data key="d2">236.0</data>
+</edge>
+<edge source="SAN" target="SJC">
+  <data key="d2">65.0</data>
+</edge>
+<edge source="SAT" target="DEN">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="SAT" target="SFO">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SAT" target="ATL">
+  <data key="d2">48.0</data>
+</edge>
+<edge source="SEA" target="LAX">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="SEA" target="DEN">
+  <data key="d2">85.0</data>
+</edge>
+<edge source="SEA" target="SFO">
+  <data key="d2">95.0</data>
+</edge>
+<edge source="SEA" target="IAD">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="SEA" target="ORD">
+  <data key="d2">77.0</data>
+</edge>
+<edge source="SEA" target="ATL">
+  <data key="d2">70.0</data>
+</edge>
+<edge source="SEA" target="JFK">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="SEA" target="CVG">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="SEA" target="SLC">
+  <data key="d2">62.0</data>
+</edge>
+<edge source="SFO" target="LAX">
+  <data key="d2">214.0</data>
+</edge>
+<edge source="SFO" target="IAH">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SFO" target="RNO">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="SFO" target="JFK">
+  <data key="d2">47.0</data>
+</edge>
+<edge source="SFO" target="SLC">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SFO" target="MCO">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SFO" target="PHL">
+  <data key="d2">35.0</data>
+</edge>
+<edge source="SFO" target="AUS">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SFO" target="LAS">
+  <data key="d2">109.0</data>
+</edge>
+<edge source="SFO" target="SAN">
+  <data key="d2">135.0</data>
+</edge>
+<edge source="SFO" target="EUG">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="SFO" target="IAD">
+  <data key="d2">116.0</data>
+</edge>
+<edge source="SFO" target="BOS">
+  <data key="d2">67.0</data>
+</edge>
+<edge source="SFO" target="BWI">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SFO" target="OGG">
+  <data key="d2">30.0</data>
+</edge>
+<edge source="SFO" target="ORD">
+  <data key="d2">133.0</data>
+</edge>
+<edge source="SFO" target="SAT">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SFO" target="HNL">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="SFO" target="KOA">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="SFO" target="DEN">
+  <data key="d2">123.0</data>
+</edge>
+<edge source="SFO" target="BUR">
+  <data key="d2">34.0</data>
+</edge>
+<edge source="SFO" target="EWR">
+  <data key="d2">35.0</data>
+</edge>
+<edge source="SFO" target="DFW">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SFO" target="LIH">
+  <data key="d2">16.0</data>
+</edge>
+<edge source="SFO" target="SEA">
+  <data key="d2">95.0</data>
+</edge>
+<edge source="SFO" target="SNA">
+  <data key="d2">64.0</data>
+</edge>
+<edge source="SFO" target="PDX">
+  <data key="d2">81.0</data>
+</edge>
+<edge source="SFO" target="PHX">
+  <data key="d2">56.0</data>
+</edge>
+<edge source="SFO" target="ATL">
+  <data key="d2">77.0</data>
+</edge>
+<edge source="SFO" target="CVG">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="SJC" target="DEN">
+  <data key="d2">62.0</data>
+</edge>
+<edge source="SJC" target="IAD">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SJC" target="ORD">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="SJC" target="ATL">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="SJC" target="SLC">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="SJC" target="LAX">
+  <data key="d2">81.0</data>
+</edge>
+<edge source="SJC" target="SNA">
+  <data key="d2">82.0</data>
+</edge>
+<edge source="SJC" target="SAN">
+  <data key="d2">65.0</data>
+</edge>
+<edge source="SJU" target="IAD">
+  <data key="d2">15.0</data>
+</edge>
+<edge source="SJU" target="STT">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="SJU" target="ORD">
+  <data key="d2">15.0</data>
+</edge>
+<edge source="SJU" target="ATL">
+  <data key="d2">46.0</data>
+</edge>
+<edge source="SJU" target="JFK">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="SLC" target="DEN">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="SLC" target="SFO">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SLC" target="ORD">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="SLC" target="RDU">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SLC" target="DCA">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SLC" target="JFK">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="SLC" target="PHX">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="SLC" target="GEG">
+  <data key="d2">16.0</data>
+</edge>
+<edge source="SLC" target="TPA">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SLC" target="OGG">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SLC" target="BOS">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="SLC" target="IAD">
+  <data key="d2">22.0</data>
+</edge>
+<edge source="SLC" target="RNO">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="SLC" target="MCO">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="SLC" target="SAN">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="SLC" target="SNA">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="SLC" target="HNL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SLC" target="BOI">
+  <data key="d2">20.0</data>
+</edge>
+<edge source="SLC" target="FLL">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="SLC" target="LAS">
+  <data key="d2">44.0</data>
+</edge>
+<edge source="SLC" target="CVG">
+  <data key="d2">53.0</data>
+</edge>
+<edge source="SLC" target="SEA">
+  <data key="d2">62.0</data>
+</edge>
+<edge source="SLC" target="DFW">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="SLC" target="PDX">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="SLC" target="ONT">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="SLC" target="OAK">
+  <data key="d2">18.0</data>
+</edge>
+<edge source="SLC" target="CLT">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SLC" target="ANC">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SLC" target="DTW">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="SLC" target="ATL">
+  <data key="d2">105.0</data>
+</edge>
+<edge source="SLC" target="PHL">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="SLC" target="LAX">
+  <data key="d2">68.0</data>
+</edge>
+<edge source="SLC" target="SJC">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="SLC" target="BWI">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SLC" target="EWR">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="SLC" target="SMF">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="SMF" target="DEN">
+  <data key="d2">67.0</data>
+</edge>
+<edge source="SMF" target="IAD">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SMF" target="ORD">
+  <data key="d2">41.0</data>
+</edge>
+<edge source="SMF" target="ATL">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="SMF" target="SLC">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="SNA" target="DEN">
+  <data key="d2">67.0</data>
+</edge>
+<edge source="SNA" target="SFO">
+  <data key="d2">64.0</data>
+</edge>
+<edge source="SNA" target="ORD">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="SNA" target="ATL">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="SNA" target="CVG">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="SNA" target="SLC">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="SNA" target="SJC">
+  <data key="d2">82.0</data>
+</edge>
+<edge source="STL" target="DEN">
+  <data key="d2">21.0</data>
+</edge>
+<edge source="STL" target="ORD">
+  <data key="d2">7.0</data>
+</edge>
+<edge source="STL" target="ATL">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="STL" target="BNA">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="STL" target="JFK">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="STL" target="SGF">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="STT" target="SJU">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="STT" target="IAD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="STT" target="ORD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="STT" target="ATL">
+  <data key="d2">20.0</data>
+</edge>
+<edge source="TPA" target="DEN">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="TPA" target="IAD">
+  <data key="d2">49.0</data>
+</edge>
+<edge source="TPA" target="ORD">
+  <data key="d2">48.0</data>
+</edge>
+<edge source="TPA" target="BOS">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="TPA" target="ATL">
+  <data key="d2">134.0</data>
+</edge>
+<edge source="TPA" target="JFK">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="TPA" target="CVG">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="TPA" target="BDL">
+  <data key="d2">22.0</data>
+</edge>
+<edge source="TPA" target="LGA">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="TPA" target="LAX">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="TPA" target="SLC">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="TUL" target="DEN">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="TUL" target="DFW">
+  <data key="d2">36.0</data>
+</edge>
+<edge source="TUL" target="ORD">
+  <data key="d2">13.0</data>
+</edge>
+<edge source="TUS" target="DEN">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="TUS" target="IAD">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="TUS" target="ATL">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="BHM" target="ATL">
+  <data key="d2">78.0</data>
+</edge>
+<edge source="BHM" target="ORD">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="BNA" target="ATL">
+  <data key="d2">36.0</data>
+</edge>
+<edge source="BNA" target="STL">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="BNA" target="ORD">
+  <data key="d2">94.0</data>
+</edge>
+<edge source="BNA" target="DCA">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="CAE" target="ATL">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="CAE" target="DFW">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="CHS" target="ATL">
+  <data key="d2">92.0</data>
+</edge>
+<edge source="CHS" target="DFW">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="COS" target="ATL">
+  <data key="d2">6.0</data>
+</edge>
+<edge source="DAB" target="ATL">
+  <data key="d2">80.0</data>
+</edge>
+<edge source="ELP" target="ATL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="GPT" target="ATL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="GPT" target="DFW">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="GPT" target="ORD">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="GSP" target="ATL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="GSP" target="DFW">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="GSP" target="ORD">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="HSV" target="ATL">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="HSV" target="DFW">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="HSV" target="ORD">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="JAN" target="ATL">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="JAN" target="DFW">
+  <data key="d2">90.0</data>
+</edge>
+<edge source="JAN" target="ORD">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="LEX" target="ATL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="LEX" target="DFW">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="LEX" target="ORD">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="LIT" target="ATL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="LIT" target="DFW">
+  <data key="d2">106.0</data>
+</edge>
+<edge source="LIT" target="ORD">
+  <data key="d2">68.0</data>
+</edge>
+<edge source="MEM" target="ATL">
+  <data key="d2">36.0</data>
+</edge>
+<edge source="MEM" target="MIA">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="MEM" target="LGA">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="MEM" target="ORD">
+  <data key="d2">66.0</data>
+</edge>
+<edge source="MKE" target="ATL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="MKE" target="MQT">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="MKE" target="DFW">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="MKE" target="ORD">
+  <data key="d2">78.0</data>
+</edge>
+<edge source="MLB" target="ATL">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="MOB" target="ATL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="MOB" target="DFW">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="MOB" target="ORD">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="ORF" target="ATL">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="ORF" target="DFW">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ORF" target="MIA">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="PHF" target="ATL">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="PNS" target="ATL">
+  <data key="d2">80.0</data>
+</edge>
+<edge source="PNS" target="DFW">
+  <data key="d2">82.0</data>
+</edge>
+<edge source="PNS" target="ORD">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="RSW" target="BOS">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="RSW" target="ATL">
+  <data key="d2">98.0</data>
+</edge>
+<edge source="RSW" target="CVG">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="RSW" target="LGA">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SAV" target="ATL">
+  <data key="d2">123.0</data>
+</edge>
+<edge source="SAV" target="DFW">
+  <data key="d2">27.0</data>
+</edge>
+<edge source="SDF" target="ATL">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="SDF" target="DFW">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SDF" target="MIA">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SDF" target="LGA">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="SDF" target="ORD">
+  <data key="d2">68.0</data>
+</edge>
+<edge source="SDF" target="RDU">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="SRQ" target="ATL">
+  <data key="d2">70.0</data>
+</edge>
+<edge source="TLH" target="ATL">
+  <data key="d2">50.0</data>
+</edge>
+<edge source="TLH" target="MIA">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="TYS" target="ATL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="TYS" target="DFW">
+  <data key="d2">56.0</data>
+</edge>
+<edge source="TYS" target="ORD">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="VPS" target="ATL">
+  <data key="d2">20.0</data>
+</edge>
+<edge source="VPS" target="DFW">
+  <data key="d2">82.0</data>
+</edge>
+<edge source="VPS" target="ORD">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="ABI" target="DFW">
+  <data key="d2">95.0</data>
+</edge>
+<edge source="ACT" target="DFW">
+  <data key="d2">75.0</data>
+</edge>
+<edge source="AEX" target="DFW">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="AMA" target="DFW">
+  <data key="d2">92.0</data>
+</edge>
+<edge source="AZO" target="ORD">
+  <data key="d2">66.0</data>
+</edge>
+<edge source="BMI" target="ORD">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="BTR" target="DFW">
+  <data key="d2">116.0</data>
+</edge>
+<edge source="BTR" target="ORD">
+  <data key="d2">10.0</data>
+</edge>
+<edge source="CHA" target="DFW">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="CHA" target="ORD">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="CID" target="DFW">
+  <data key="d2">66.0</data>
+</edge>
+<edge source="CID" target="ORD">
+  <data key="d2">92.0</data>
+</edge>
+<edge source="CLL" target="DFW">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="CMI" target="DFW">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="CMI" target="ORD">
+  <data key="d2">104.0</data>
+</edge>
+<edge source="CRP" target="DFW">
+  <data key="d2">84.0</data>
+</edge>
+<edge source="DAL" target="AUS">
+  <data key="d2">96.0</data>
+</edge>
+<edge source="DAL" target="MCI">
+  <data key="d2">99.0</data>
+</edge>
+<edge source="DBQ" target="ORD">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="EVV" target="DFW">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="EVV" target="ORD">
+  <data key="d2">76.0</data>
+</edge>
+<edge source="FAT" target="LAX">
+  <data key="d2">70.0</data>
+</edge>
+<edge source="FNT" target="DFW">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="FNT" target="ORD">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="FSM" target="DFW">
+  <data key="d2">66.0</data>
+</edge>
+<edge source="FWA" target="DFW">
+  <data key="d2">26.0</data>
+</edge>
+<edge source="FWA" target="ORD">
+  <data key="d2">68.0</data>
+</edge>
+<edge source="GGG" target="DFW">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="GJT" target="DFW">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="GRB" target="MQT">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="GRB" target="ORD">
+  <data key="d2">64.0</data>
+</edge>
+<edge source="GRK" target="DFW">
+  <data key="d2">118.0</data>
+</edge>
+<edge source="HOU" target="DFW">
+  <data key="d2">81.0</data>
+</edge>
+<edge source="HPN" target="ORD">
+  <data key="d2">92.0</data>
+</edge>
+<edge source="LAW" target="DFW">
+  <data key="d2">93.0</data>
+</edge>
+<edge source="LBB" target="DFW">
+  <data key="d2">122.0</data>
+</edge>
+<edge source="LFT" target="DFW">
+  <data key="d2">41.0</data>
+</edge>
+<edge source="LRD" target="DFW">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="LSE" target="ORD">
+  <data key="d2">56.0</data>
+</edge>
+<edge source="MAF" target="DFW">
+  <data key="d2">78.0</data>
+</edge>
+<edge source="MLI" target="DFW">
+  <data key="d2">24.0</data>
+</edge>
+<edge source="MLI" target="ORD">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="MLU" target="DFW">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="MQT" target="GRB">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="MQT" target="MKE">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="MQT" target="ORD">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="MRY" target="LAX">
+  <data key="d2">42.0</data>
+</edge>
+<edge source="MSN" target="DFW">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="MSN" target="LGA">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="MSN" target="ORD">
+  <data key="d2">104.0</data>
+</edge>
+<edge source="PIA" target="DFW">
+  <data key="d2">28.0</data>
+</edge>
+<edge source="PIA" target="ORD">
+  <data key="d2">62.0</data>
+</edge>
+<edge source="ROW" target="DFW">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="RST" target="ORD">
+  <data key="d2">94.0</data>
+</edge>
+<edge source="SBA" target="LAX">
+  <data key="d2">98.0</data>
+</edge>
+<edge source="SBA" target="DFW">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SBP" target="LAX">
+  <data key="d2">57.0</data>
+</edge>
+<edge source="SGF" target="DFW">
+  <data key="d2">120.0</data>
+</edge>
+<edge source="SGF" target="STL">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="SGF" target="ORD">
+  <data key="d2">40.0</data>
+</edge>
+<edge source="SHV" target="DFW">
+  <data key="d2">121.0</data>
+</edge>
+<edge source="SHV" target="ORD">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="SJT" target="DFW">
+  <data key="d2">70.0</data>
+</edge>
+<edge source="SPS" target="DFW">
+  <data key="d2">94.0</data>
+</edge>
+<edge source="SYR" target="DFW">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="SYR" target="ORD">
+  <data key="d2">54.0</data>
+</edge>
+<edge source="TOL" target="ORD">
+  <data key="d2">52.0</data>
+</edge>
+<edge source="TVC" target="ORD">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="TXK" target="DFW">
+  <data key="d2">38.0</data>
+</edge>
+<edge source="TYR" target="DFW">
+  <data key="d2">67.0</data>
+</edge>
+<edge source="XNA" target="LAX">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="XNA" target="DFW">
+  <data key="d2">69.0</data>
+</edge>
+<edge source="XNA" target="MIA">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="XNA" target="LGA">
+  <data key="d2">30.0</data>
+</edge>
+<edge source="XNA" target="ORD">
+  <data key="d2">74.0</data>
+</edge>
+<edge source="XNA" target="DCA">
+  <data key="d2">12.0</data>
+</edge>
+<edge source="Traveller_1" target="ORF">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_1" target="ATL">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_1" target="DFW">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_1" target="RNO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_1" target="SLC">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_2" target="DEN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_2" target="PVD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_2" target="OKC">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_2" target="ORD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_3" target="LAX">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_3" target="SBP">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_3" target="ORD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_3" target="XNA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_4" target="ATL">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_4" target="LEX">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_5" target="AUS">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_5" target="DAL">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_5" target="EWR">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_5" target="MCI">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_5" target="RDU">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_6" target="GRK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_6" target="SFO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_6" target="LAX">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_6" target="SNA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_6" target="SJC">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_6" target="DFW">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_6" target="SBA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_7" target="ANC">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_7" target="ATL">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_7" target="JFK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_7" target="MIA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_7" target="LEX">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_7" target="SLC">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_8" target="BTR">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_8" target="FSM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_8" target="DFW">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_8" target="LSE">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_8" target="ORD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_9" target="DEN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_9" target="PIT">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_9" target="FSD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_9" target="PBI">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_9" target="ORD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_10" target="ONT">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_10" target="ORD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_10" target="DAY">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_11" target="SAT">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_11" target="ATL">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Traveller_11" target="IND">
+  <data key="d2">1.0</data>
+</edge>
+</graph></graphml>

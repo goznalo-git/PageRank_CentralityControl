@@ -1,0 +1,1896 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">CASOS</data>
+<node id="Bavelas-48">
+  <data key="d1">agent</data>
+</node>
+<node id="Leavitt-49">
+  <data key="d1">agent</data>
+</node>
+<node id="Smith..-50">
+  <data key="d1">agent</data>
+</node>
+<node id="Bavelas-50">
+  <data key="d1">agent</data>
+</node>
+<node id="Smith..-51">
+  <data key="d1">agent</data>
+</node>
+<node id="Leavitt-51">
+  <data key="d1">agent</data>
+</node>
+<node id="Guetzko-51">
+  <data key="d1">agent</data>
+</node>
+<node id="BavelaB-51">
+  <data key="d1">agent</data>
+</node>
+<node id="HeiseM.-51">
+  <data key="d1">agent</data>
+</node>
+<node id="Luce...-51">
+  <data key="d1">agent</data>
+</node>
+<node id="ChrisLM-52">
+  <data key="d1">agent</data>
+</node>
+<node id="Shaw...-53">
+  <data key="d1">agent</data>
+</node>
+<node id="---">
+  <data key="d1">agent</data>
+</node>
+<node id="13">
+  <data key="d1">agent</data>
+</node>
+<node id="-">
+  <data key="d1">agent</data>
+</node>
+<node id="DeSoto.-53">
+  <data key="d1">agent</data>
+</node>
+<node id="15">
+  <data key="d1">agent</data>
+</node>
+<node id="Hirota.-53">
+  <data key="d1">agent</data>
+</node>
+<node id="Rogge..-53">
+  <data key="d1">agent</data>
+</node>
+<node id="MacyCL.-53">
+  <data key="d1">agent</data>
+</node>
+<node id="LuceMCH-53">
+  <data key="d1">agent</data>
+</node>
+<node id="Shelly.-53">
+  <data key="d1">agent</data>
+</node>
+<node id="#GilchSW-54">
+  <data key="d1">agent</data>
+</node>
+<node id="Shaw...A54">
+  <data key="d1">agent</data>
+</node>
+<node id="Shaw...C54">
+  <data key="d1">agent</data>
+</node>
+<node id="Walker.-54">
+  <data key="d1">agent</data>
+</node>
+<node id="Karanef-54">
+  <data key="d1">agent</data>
+</node>
+<node id="Guetzko-54">
+  <data key="d1">agent</data>
+</node>
+<node id="ChristL-54">
+  <data key="d1">agent</data>
+</node>
+<node id="ChristM-54">
+  <data key="d1">agent</data>
+</node>
+<node id="ChristiA54">
+  <data key="d1">agent</data>
+</node>
+<node id="ChristiB54">
+  <data key="d1">agent</data>
+</node>
+<node id="Goldber-55">
+  <data key="d1">agent</data>
+</node>
+<node id="Shaw...B55">
+  <data key="d1">agent</data>
+</node>
+<node id="Shaw...A55">
+  <data key="d1">agent</data>
+</node>
+<node id="35">
+  <data key="d1">agent</data>
+</node>
+<node id="GuetzkS-55">
+  <data key="d1">agent</data>
+</node>
+<node id="Mulder.-55">
+  <data key="d1">agent</data>
+</node>
+<node id="38">
+  <data key="d1">agent</data>
+</node>
+<node id="ChrisLM-56">
+  <data key="d1">agent</data>
+</node>
+<node id="40">
+  <data key="d1">agent</data>
+</node>
+<node id="41">
+  <data key="d1">agent</data>
+</node>
+<node id="FlamentA56">
+  <data key="d1">agent</data>
+</node>
+<node id="FlamentB56">
+  <data key="d1">agent</data>
+</node>
+<node id="LanzetRA56">
+  <data key="d1">agent</data>
+</node>
+<node id="LanzetRB56">
+  <data key="d1">agent</data>
+</node>
+<node id="Mulder.-56">
+  <data key="d1">agent</data>
+</node>
+<node id="RobyL..A56">
+  <data key="d1">agent</data>
+</node>
+<node id="RobyL..B56">
+  <data key="d1">agent</data>
+</node>
+<node id="Shaw...-56">
+  <data key="d1">agent</data>
+</node>
+<node id="ShawR..-56">
+  <data key="d1">agent</data>
+</node>
+<node id="Trow...-57">
+  <data key="d1">agent</data>
+</node>
+<node id="RobyL..B57">
+  <data key="d1">agent</data>
+</node>
+<node id="GuetzkD-57">
+  <data key="d1">agent</data>
+</node>
+<node id="RobyL..A57">
+  <data key="d1">agent</data>
+</node>
+<node id="LanzetR-57">
+  <data key="d1">agent</data>
+</node>
+<node id="ShawRS.-57">
+  <data key="d1">agent</data>
+</node>
+<node id="ShellyG-58">
+  <data key="d1">agent</data>
+</node>
+<node id="#FlamentA58">
+  <data key="d1">agent</data>
+</node>
+<node id="Shaw...-58">
+  <data key="d1">agent</data>
+</node>
+<node id="Mulder.-58">
+  <data key="d1">agent</data>
+</node>
+<node id="62">
+  <data key="d1">agent</data>
+</node>
+<node id="63">
+  <data key="d1">agent</data>
+</node>
+<node id="64">
+  <data key="d1">agent</data>
+</node>
+<node id="Shaw...-59">
+  <data key="d1">agent</data>
+</node>
+<node id="Mulder.A59">
+  <data key="d1">agent</data>
+</node>
+<node id="Mulder.B59">
+  <data key="d1">agent</data>
+</node>
+<node id="68">
+  <data key="d1">agent</data>
+</node>
+<node id="Flament-60">
+  <data key="d1">agent</data>
+</node>
+<node id="70">
+  <data key="d1">agent</data>
+</node>
+<node id="CohenBW-60">
+  <data key="d1">agent</data>
+</node>
+<node id="CohenB-A60">
+  <data key="d1">agent</data>
+</node>
+<node id="CohenB-B60">
+  <data key="d1">agent</data>
+</node>
+<node id="CohenBB-60">
+  <data key="d1">agent</data>
+</node>
+<node id="Guetzko-60">
+  <data key="d1">agent</data>
+</node>
+<node id="MohannA-60">
+  <data key="d1">agent</data>
+</node>
+<node id="Mulder.A60">
+  <data key="d1">agent</data>
+</node>
+<node id="Mulder.B60">
+  <data key="d1">agent</data>
+</node>
+<node id="FaucheM-60">
+  <data key="d1">agent</data>
+</node>
+<node id="80">
+  <data key="d1">agent</data>
+</node>
+<node id="Flament-61">
+  <data key="d1">agent</data>
+</node>
+<node id="Cohen..-61">
+  <data key="d1">agent</data>
+</node>
+<node id="CohenB.-61">
+  <data key="d1">agent</data>
+</node>
+<node id="CohenBW-61">
+  <data key="d1">agent</data>
+</node>
+<node id="GlanzeG-61">
+  <data key="d1">agent</data>
+</node>
+<node id="Cohen..-62">
+  <data key="d1">agent</data>
+</node>
+<node id="CohenB.-62">
+  <data key="d1">agent</data>
+</node>
+<node id="CohenBW-62">
+  <data key="d1">agent</data>
+</node>
+<node id="ShurRLT-62">
+  <data key="d1">agent</data>
+</node>
+<node id="Flament-63">
+  <data key="d1">agent</data>
+</node>
+<node id="Carzo..-63">
+  <data key="d1">agent</data>
+</node>
+<node id="LeavitK-63">
+  <data key="d1">agent</data>
+</node>
+<node id="93">
+  <data key="d1">agent</data>
+</node>
+<node id="Cohen..B64">
+  <data key="d1">agent</data>
+</node>
+<node id="Cohen.-C64">
+  <data key="d1">agent</data>
+</node>
+<node id="McWhinn-64">
+  <data key="d1">agent</data>
+</node>
+<node id="McWhinn-54">
+  <data key="d1">agent</data>
+</node>
+<node id="Cohen..A64">
+  <data key="d1">agent</data>
+</node>
+<node id="Lawson.A64">
+  <data key="d1">agent</data>
+</node>
+<node id="Lawson.B64">
+  <data key="d1">agent</data>
+</node>
+<node id="Shaw...-64">
+  <data key="d1">agent</data>
+</node>
+<node id="MacKenz-64">
+  <data key="d1">agent</data>
+</node>
+<node id="Lawson.-65">
+  <data key="d1">agent</data>
+</node>
+<node id="Beaucha-65">
+  <data key="d1">agent</data>
+</node>
+<node id="MorisSC-65">
+  <data key="d1">agent</data>
+</node>
+<edge source="Bavelas-48" target="Leavitt-49">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="Leavitt-51">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="ChrisLM-52">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="Shaw...-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="DeSoto.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="Hirota.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="MacyCL.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="LuceMCH-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="Shelly.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="ChristM-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="Goldber-55">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="Shaw...B55">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="GuetzkS-55">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="FlamentB56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="Mulder.-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="ShawR..-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="GuetzkD-57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="Mulder.A59">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="70">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="Mulder.A60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="Cohen..-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="GlanzeG-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="Cohen..-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="Cohen..B64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="Cohen..A64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="Beaucha-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-48" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-49" target="Smith..-50">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-49" target="Smith..-51">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-49" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Smith..-50" target="ChrisLM-52">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Smith..-50" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="ChrisLM-52">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="Shaw...-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="DeSoto.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="15">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="Hirota.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="MacyCL.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="LuceMCH-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="#GilchSW-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="Guetzko-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="ChristL-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="Goldber-55">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="38">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="40">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="FlamentB56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="Mulder.-56">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Bavelas-50" target="ShawR..-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="RobyL..B57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="GuetzkD-57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="Mulder.A59">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="70">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="80">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="Cohen..-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="GlanzeG-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="Cohen..-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="CohenB.-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="ShurRLT-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="Flament-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="Carzo..-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="Cohen..B64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="McWhinn-64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="McWhinn-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="Cohen..A64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="Lawson.A64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="Lawson.B64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="Shaw...-64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="Lawson.-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="Beaucha-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bavelas-50" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Smith..-51" target="ChrisLM-52">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="BavelaB-51">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="HeiseM.-51">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="ChrisLM-52">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Shaw...-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="DeSoto.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="15">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Hirota.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Rogge..-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="MacyCL.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="LuceMCH-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Shelly.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="#GilchSW-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Guetzko-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="ChristL-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="ChristM-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Goldber-55">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="GuetzkS-55">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="40">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="LanzetRA56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Mulder.-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="ShawR..-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="RobyL..B57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="GuetzkD-57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Shaw...-59">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Mulder.A59">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="68">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Flament-60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="70">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="CohenB-B60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Guetzko-60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Mulder.A60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Mulder.B60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="80">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Flament-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Cohen..-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="GlanzeG-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Cohen..-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="CohenB.-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="CohenBW-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Flament-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="93">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Cohen..B64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Cohen.-C64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Cohen..A64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Lawson.B64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="MacKenz-64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Lawson.-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="Beaucha-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Leavitt-51" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Guetzko-51" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Guetzko-51" target="GuetzkD-57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Guetzko-51" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="BavelaB-51" target="DeSoto.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="BavelaB-51" target="15">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="BavelaB-51" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="BavelaB-51" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="ChrisLM-52">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="Shaw...-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="DeSoto.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="15">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="Hirota.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="LuceMCH-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="FlamentB56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="ShawR..-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="GuetzkD-57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="Mulder.A59">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="68">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="Cohen..-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="Flament-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="Cohen.-C64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HeiseM.-51" target="Cohen..A64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Luce...-51" target="ChrisLM-52">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="15">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="Shaw...C54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="Guetzko-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="38">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="40">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="FlamentB56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="LanzetRA56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="RobyL..A56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="ShawR..-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="Mulder.A59">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="Flament-60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="Guetzko-60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="Mulder.A60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-52" target="Cohen..A64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...-53" target="13">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...-53" target="Hirota.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="13">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="Hirota.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="Shelly.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="#GilchSW-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="Walker.-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="FlamentA56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="FlamentB56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="GuetzkD-57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="CohenB.-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="68">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="CohenB-B60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="CohenB.-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="Flament-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="MohannA-60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="ShurRLT-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="93">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="McWhinn-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="GlanzeG-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="McWhinn-64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="Lawson.A64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="Lawson.B64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="Beaucha-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="---" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="13" target="Hirota.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="Guetzko-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="40">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="FlamentB56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="ShawR..-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="GuetzkD-57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="Mulder.A59">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="Mulder.-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="RobyL..B57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="68">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="Mulder.B60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="Flament-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="Cohen..A64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="Shaw...-59">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="Flament-60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="Guetzko-60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="Mulder.A60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="80">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="CohenB.-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="ShurRLT-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="93">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="Cohen..-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="CohenB-B60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="MohannA-60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="GlanzeG-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="McWhinn-64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="Lawson.A64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="Lawson.B64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="Beaucha-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="-" target="Lawson.-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="DeSoto.-53" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="DeSoto.-53" target="Flament-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="15" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="15" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="15" target="ShawR..-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="15" target="Mulder.A59">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="15" target="68">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="15" target="Cohen.-C64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Hirota.-53" target="ShawR..-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="13">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="Hirota.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="Shelly.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="ChristM-54">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Rogge..-53" target="---">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Rogge..-53" target="40">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Rogge..-53" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="LanzetRA56">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Rogge..-53" target="RobyL..A56">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Rogge..-53" target="ShawR..-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="GuetzkD-57">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Rogge..-53" target="RobyL..A57">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Rogge..-53" target="63">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Rogge..-53" target="Mulder.A59">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="68">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="70">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="CohenB-B60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="Mulder.A60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="Mulder.B60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="80">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="Cohen..-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="CohenB.-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="Flament-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="93">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="Cohen..B64">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Rogge..-53" target="Cohen.-C64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Rogge..-53" target="MacKenz-64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MacyCL.-53" target="Rogge..-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MacyCL.-53" target="ChristM-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MacyCL.-53" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MacyCL.-53" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MacyCL.-53" target="LanzetRA56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MacyCL.-53" target="ShawR..-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MacyCL.-53" target="GuetzkD-57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MacyCL.-53" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MacyCL.-53" target="63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MacyCL.-53" target="Mulder.A59">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MacyCL.-53" target="68">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MacyCL.-53" target="80">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MacyCL.-53" target="Flament-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MacyCL.-53" target="Cohen..B64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MacyCL.-53" target="Beaucha-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MacyCL.-53" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="Rogge..-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="Shelly.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="#GilchSW-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="ChristM-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="40">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="FlamentB56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="LanzetRA56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="LanzetRB56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="RobyL..A56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="ShawR..-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="RobyL..B57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="GuetzkD-57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="Mulder.A59">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="68">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="70">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="Mulder.A60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="Mulder.B60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="Flament-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="Cohen..-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="CohenB.-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="CohenBW-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="Cohen.-C64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="Cohen..A64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="MacKenz-64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LuceMCH-53" target="Lawson.-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="#GilchSW-54" target="ShurRLT-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...A54" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...A54" target="GuetzkD-57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...A54" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...A54" target="63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...A54" target="Cohen..A64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...C54" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Walker.-54" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Karanef-54" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Guetzko-54" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Guetzko-54" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Guetzko-54" target="FlamentB56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristL-54" target="LanzetRA56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristL-54" target="GuetzkD-57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristL-54" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristL-54" target="Beaucha-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristM-54" target="40">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristM-54" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristM-54" target="LanzetRA56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristM-54" target="RobyL..A56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristM-54" target="RobyL..B57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristM-54" target="GuetzkD-57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristM-54" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristM-54" target="63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristM-54" target="Mulder.A59">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristM-54" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristM-54" target="80">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristM-54" target="93">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristM-54" target="Cohen.-C64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristM-54" target="McWhinn-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristM-54" target="MacKenz-64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristiA54" target="40">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChristiB54" target="Lawson.-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="FlamentB56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="ShawR..-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="GuetzkD-57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="Mulder.A59">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="68">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="Flament-60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="70">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="Guetzko-60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="Mulder.A60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="Mulder.B60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="80">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="CohenB.-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="ShurRLT-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="Flament-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="93">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="Cohen.-C64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="Cohen..A64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Goldber-55" target="MacKenz-64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GuetzkS-55" target="Mulder.-56">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="GuetzkS-55" target="GuetzkD-57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GuetzkS-55" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GuetzkS-55" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GuetzkS-55" target="63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.-55" target="Mulder.-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.-55" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="38" target="FlamentA56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="38" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="38" target="Cohen..-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-56" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-56" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-56" target="FlamentA56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-56" target="FlamentB56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-56" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ChrisLM-56" target="CohenB.-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="40" target="Mulder.-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="40" target="GuetzkD-57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="40" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="40" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="40" target="Mulder.A60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="40" target="Mulder.B60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="40" target="80">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="40" target="Cohen..-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="40" target="Flament-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="FlamentB56" target="Mulder.-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="FlamentB56" target="Cohen..-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="FlamentB56" target="Lawson.-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LanzetRA56" target="Mulder.-56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LanzetRA56" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LanzetRA56" target="64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LanzetRA56" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LanzetRA56" target="Flament-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LanzetRA56" target="Cohen..A64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LanzetRB56" target="Shelly.-53">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LanzetRB56" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LanzetRB56" target="Cohen..-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LanzetRB56" target="Lawson.-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.-56" target="64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.-56" target="---">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="RobyL..A56" target="80">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RobyL..A56" target="Cohen..-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RobyL..A56" target="Flament-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RobyL..B56" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...-56" target="CohenB.-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ShawR..-56" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ShawR..-56" target="Shaw...-59">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trow...-57" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trow...-57" target="Shaw...-59">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RobyL..B57" target="ShurRLT-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GuetzkD-57" target="RobyL..A57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GuetzkD-57" target="63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GuetzkD-57" target="CohenB.-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RobyL..A57" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RobyL..A57" target="Flament-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RobyL..A57" target="93">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RobyL..A57" target="Cohen..B64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ShawRS.-57" target="64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ShawRS.-57" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="#FlamentA58" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="#FlamentA58" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="#FlamentA58" target="68">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...-58" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...-58" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.-58" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="62" target="Flament-60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="64" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...-59" target="---">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...-59" target="CohenB-B60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...-59" target="MohannA-60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...-59" target="ShurRLT-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...-59" target="93">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...-59" target="McWhinn-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.A59" target="68">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.A59" target="-">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.A59" target="CohenB-B60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.A59" target="Mulder.A60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.A59" target="Flament-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.A59" target="CohenB.-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.A59" target="CohenBW-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.A59" target="Flament-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.A59" target="93">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.A59" target="MacKenz-64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.B59" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="68" target="CohenB-B60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="68" target="MohannA-60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="68" target="ShurRLT-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="68" target="93">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="68" target="McWhinn-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Flament-60" target="Mulder.A60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Flament-60" target="Mulder.B60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Flament-60" target="Cohen.-C64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Flament-60" target="MacKenz-64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="CohenB-A60" target="CohenB-B60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="CohenB-A60" target="MohannA-60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="CohenB-A60" target="ShurRLT-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="CohenB-A60" target="93">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="CohenB-B60" target="MohannA-60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="CohenB-B60" target="ShurRLT-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="CohenB-B60" target="93">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="CohenB-B60" target="McWhinn-54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Guetzko-60" target="Cohen..A64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MohannA-60" target="ShurRLT-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MohannA-60" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.A60" target="Mulder.B60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.A60" target="Flament-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mulder.B60" target="Flament-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="FaucheM-60" target="Lawson.-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="FaucheM-60" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="80" target="Mulder.A60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="80" target="Mulder.B60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Flament-61" target="CohenBW-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cohen..-61" target="Flament-61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cohen..-61" target="CohenBW-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="CohenB.-61" target="MacKenz-64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="CohenBW-61" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GlanzeG-61" target="McWhinn-64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GlanzeG-61" target="Lawson.A64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GlanzeG-61" target="Lawson.B64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GlanzeG-61" target="Beaucha-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GlanzeG-61" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cohen..-62" target="CohenB.-62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cohen..-62" target="McWhinn-64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cohen..-62" target="Lawson.A64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cohen..-62" target="Lawson.B64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cohen..-62" target="Beaucha-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cohen..-62" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="CohenB.-62" target="Cohen.-C64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ShurRLT-62" target="93">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Flament-63" target="Carzo..-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LeavitK-63" target="Flament-63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LeavitK-63" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cohen..B64" target="MacKenz-64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cohen.-C64" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="McWhinn-64" target="Beaucha-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="McWhinn-64" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lawson.A64" target="Beaucha-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lawson.A64" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lawson.B64" target="Beaucha-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lawson.B64" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...-64" target="Beaucha-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Shaw...-64" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lawson.-65" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Beaucha-65" target="MorisSC-65">
+  <data key="d2">1.0</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,3165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">CASOS</data>
+<node id="Algeria">
+  <data key="d1">agent</data>
+</node>
+<node id="Argentina">
+  <data key="d1">agent</data>
+</node>
+<node id="Australia">
+  <data key="d1">agent</data>
+</node>
+<node id="Austria">
+  <data key="d1">agent</data>
+</node>
+<node id="Barbados">
+  <data key="d1">agent</data>
+</node>
+<node id="Bangladesh">
+  <data key="d1">agent</data>
+</node>
+<node id="Belgium">
+  <data key="d1">agent</data>
+</node>
+<node id="/Lux.">
+  <data key="d1">agent</data>
+</node>
+<node id="Belize">
+  <data key="d1">agent</data>
+</node>
+<node id="Bolivia">
+  <data key="d1">agent</data>
+</node>
+<node id="Brazil">
+  <data key="d1">agent</data>
+</node>
+<node id="Canada">
+  <data key="d1">agent</data>
+</node>
+<node id="Chile">
+  <data key="d1">agent</data>
+</node>
+<node id="China">
+  <data key="d1">agent</data>
+</node>
+<node id="Colombia">
+  <data key="d1">agent</data>
+</node>
+<node id="Croatia">
+  <data key="d1">agent</data>
+</node>
+<node id="Cyprus">
+  <data key="d1">agent</data>
+</node>
+<node id="Czech">
+  <data key="d1">agent</data>
+</node>
+<node id="Rep.">
+  <data key="d1">agent</data>
+</node>
+<node id="Denmark">
+  <data key="d1">agent</data>
+</node>
+<node id="Ecuador">
+  <data key="d1">agent</data>
+</node>
+<node id="Egypt">
+  <data key="d1">agent</data>
+</node>
+<node id="El">
+  <data key="d1">agent</data>
+</node>
+<node id="Salvador">
+  <data key="d1">agent</data>
+</node>
+<node id="Fiji">
+  <data key="d1">agent</data>
+</node>
+<node id="Finland">
+  <data key="d1">agent</data>
+</node>
+<node id="France">
+  <data key="d1">agent</data>
+</node>
+<node id="Mon.">
+  <data key="d1">agent</data>
+</node>
+<node id="French">
+  <data key="d1">agent</data>
+</node>
+<node id="Guiana">
+  <data key="d1">agent</data>
+</node>
+<node id="Germany">
+  <data key="d1">agent</data>
+</node>
+<node id="Greece">
+  <data key="d1">agent</data>
+</node>
+<node id="Guadeloupe">
+  <data key="d1">agent</data>
+</node>
+<node id="Guatemala">
+  <data key="d1">agent</data>
+</node>
+<node id="Honduras">
+  <data key="d1">agent</data>
+</node>
+<node id="Hong">
+  <data key="d1">agent</data>
+</node>
+<node id="Kong">
+  <data key="d1">agent</data>
+</node>
+<node id="Hungary">
+  <data key="d1">agent</data>
+</node>
+<node id="Iceland">
+  <data key="d1">agent</data>
+</node>
+<node id="India">
+  <data key="d1">agent</data>
+</node>
+<node id="Indonesia">
+  <data key="d1">agent</data>
+</node>
+<node id="Ireland">
+  <data key="d1">agent</data>
+</node>
+<node id="Israel">
+  <data key="d1">agent</data>
+</node>
+<node id="Italy">
+  <data key="d1">agent</data>
+</node>
+<node id="Japan">
+  <data key="d1">agent</data>
+</node>
+<node id="Jordan">
+  <data key="d1">agent</data>
+</node>
+<node id="Korea.">
+  <data key="d1">agent</data>
+</node>
+<node id="Of">
+  <data key="d1">agent</data>
+</node>
+<node id="Kuwait">
+  <data key="d1">agent</data>
+</node>
+<node id="Latvia">
+  <data key="d1">agent</data>
+</node>
+<node id="Madagascar">
+  <data key="d1">agent</data>
+</node>
+<node id="Malaysia">
+  <data key="d1">agent</data>
+</node>
+<node id="Martinique">
+  <data key="d1">agent</data>
+</node>
+<node id="Mauritius">
+  <data key="d1">agent</data>
+</node>
+<node id="Mexico">
+  <data key="d1">agent</data>
+</node>
+<node id="Morocco">
+  <data key="d1">agent</data>
+</node>
+<node id="Netherlands">
+  <data key="d1">agent</data>
+</node>
+<node id="New">
+  <data key="d1">agent</data>
+</node>
+<node id="Zealand">
+  <data key="d1">agent</data>
+</node>
+<node id="Nicaragua">
+  <data key="d1">agent</data>
+</node>
+<node id="Norway">
+  <data key="d1">agent</data>
+</node>
+<node id="Oman">
+  <data key="d1">agent</data>
+</node>
+<node id="Pakistan">
+  <data key="d1">agent</data>
+</node>
+<node id="Panama">
+  <data key="d1">agent</data>
+</node>
+<node id="Paraguay">
+  <data key="d1">agent</data>
+</node>
+<node id="Peru">
+  <data key="d1">agent</data>
+</node>
+<node id="Philippines">
+  <data key="d1">agent</data>
+</node>
+<node id="Poland">
+  <data key="d1">agent</data>
+</node>
+<node id="Portugal">
+  <data key="d1">agent</data>
+</node>
+<node id="Moldava.">
+  <data key="d1">agent</data>
+</node>
+<node id="Reunion">
+  <data key="d1">agent</data>
+</node>
+<node id="Romania">
+  <data key="d1">agent</data>
+</node>
+<node id="Seychelles">
+  <data key="d1">agent</data>
+</node>
+<node id="Singapore">
+  <data key="d1">agent</data>
+</node>
+<node id="Slovenia">
+  <data key="d1">agent</data>
+</node>
+<node id="Southern">
+  <data key="d1">agent</data>
+</node>
+<node id="Africa">
+  <data key="d1">agent</data>
+</node>
+<edge source="Argentina" target="Belize">
+  <data key="d2">2037.0</data>
+</edge>
+<edge source="Argentina" target="Bolivia">
+  <data key="d2">13898.0</data>
+</edge>
+<edge source="Argentina" target="Canada">
+  <data key="d2">14351.0</data>
+</edge>
+<edge source="Argentina" target="Morocco">
+  <data key="d2">13033.0</data>
+</edge>
+<edge source="Argentina" target="Southern">
+  <data key="d2">7854.0</data>
+</edge>
+<edge source="Australia" target="Bangladesh">
+  <data key="d2">304.0</data>
+</edge>
+<edge source="Australia" target="Canada">
+  <data key="d2">17197.0</data>
+</edge>
+<edge source="Australia" target="Egypt">
+  <data key="d2">10589.0</data>
+</edge>
+<edge source="Australia" target="Guatemala">
+  <data key="d2">3384.0</data>
+</edge>
+<edge source="Australia" target="Honduras">
+  <data key="d2">72387.0</data>
+</edge>
+<edge source="Australia" target="Japan">
+  <data key="d2">24560.0</data>
+</edge>
+<edge source="Australia" target="Latvia">
+  <data key="d2">76989.0</data>
+</edge>
+<edge source="Australia" target="New">
+  <data key="d2">9497.0</data>
+</edge>
+<edge source="Australia" target="Paraguay">
+  <data key="d2">42536.0</data>
+</edge>
+<edge source="Australia" target="Portugal">
+  <data key="d2">1716.0</data>
+</edge>
+<edge source="Austria" target="Algeria">
+  <data key="d2">3599.0</data>
+</edge>
+<edge source="Austria" target="Australia">
+  <data key="d2">15533.0</data>
+</edge>
+<edge source="Austria" target="Belgium">
+  <data key="d2">36169.0</data>
+</edge>
+<edge source="Austria" target="Colombia">
+  <data key="d2">9044.0</data>
+</edge>
+<edge source="Austria" target="Cyprus">
+  <data key="d2">48573.0</data>
+</edge>
+<edge source="Austria" target="Czech">
+  <data key="d2">25688.0</data>
+</edge>
+<edge source="Austria" target="Denmark">
+  <data key="d2">2916.0</data>
+</edge>
+<edge source="Austria" target="El">
+  <data key="d2">13274.0</data>
+</edge>
+<edge source="Austria" target="Salvador">
+  <data key="d2">14600.0</data>
+</edge>
+<edge source="Austria" target="Finland">
+  <data key="d2">996567.0</data>
+</edge>
+<edge source="Austria" target="France">
+  <data key="d2">7555.0</data>
+</edge>
+<edge source="Austria" target="Greece">
+  <data key="d2">90867.0</data>
+</edge>
+<edge source="Austria" target="Guadeloupe">
+  <data key="d2">806.0</data>
+</edge>
+<edge source="Austria" target="Honduras">
+  <data key="d2">19990.0</data>
+</edge>
+<edge source="Austria" target="Hong">
+  <data key="d2">8926.0</data>
+</edge>
+<edge source="Austria" target="Kong">
+  <data key="d2">10773.0</data>
+</edge>
+<edge source="Austria" target="Hungary">
+  <data key="d2">115397.0</data>
+</edge>
+<edge source="Austria" target="Israel">
+  <data key="d2">253.0</data>
+</edge>
+<edge source="Austria" target="Kuwait">
+  <data key="d2">44835.0</data>
+</edge>
+<edge source="Austria" target="Latvia">
+  <data key="d2">3071.0</data>
+</edge>
+<edge source="Austria" target="Malaysia">
+  <data key="d2">15952.0</data>
+</edge>
+<edge source="Austria" target="Zealand">
+  <data key="d2">15047.0</data>
+</edge>
+<edge source="Austria" target="Nicaragua">
+  <data key="d2">5449.0</data>
+</edge>
+<edge source="Austria" target="Norway">
+  <data key="d2">154.0</data>
+</edge>
+<edge source="Austria" target="Pakistan">
+  <data key="d2">6253.0</data>
+</edge>
+<edge source="Austria" target="Peru">
+  <data key="d2">35286.0</data>
+</edge>
+<edge source="Austria" target="Philippines">
+  <data key="d2">7741.0</data>
+</edge>
+<edge source="Austria" target="Poland">
+  <data key="d2">21348.0</data>
+</edge>
+<edge source="Austria" target="Moldava.">
+  <data key="d2">29524.0</data>
+</edge>
+<edge source="Austria" target="Rep.">
+  <data key="d2">159097.0</data>
+</edge>
+<edge source="Austria" target="Romania">
+  <data key="d2">1421.0</data>
+</edge>
+<edge source="Austria" target="Seychelles">
+  <data key="d2">5957.0</data>
+</edge>
+<edge source="Austria" target="Singapore">
+  <data key="d2">96667.0</data>
+</edge>
+<edge source="Barbados" target="/Lux.">
+  <data key="d2">502.0</data>
+</edge>
+<edge source="Barbados" target="Reunion">
+  <data key="d2">4491.0</data>
+</edge>
+<edge source="Belgium" target="Algeria">
+  <data key="d2">12994.0</data>
+</edge>
+<edge source="Belgium" target="Argentina">
+  <data key="d2">10198.0</data>
+</edge>
+<edge source="Belgium" target="Austria">
+  <data key="d2">32959.0</data>
+</edge>
+<edge source="Belgium" target="Bolivia">
+  <data key="d2">5043.0</data>
+</edge>
+<edge source="Belgium" target="Colombia">
+  <data key="d2">1433.0</data>
+</edge>
+<edge source="Belgium" target="Croatia">
+  <data key="d2">1000.0</data>
+</edge>
+<edge source="Belgium" target="Cyprus">
+  <data key="d2">6275.0</data>
+</edge>
+<edge source="Belgium" target="Czech">
+  <data key="d2">26894.0</data>
+</edge>
+<edge source="Belgium" target="Rep.">
+  <data key="d2">31829.0</data>
+</edge>
+<edge source="Belgium" target="Denmark">
+  <data key="d2">3662.0</data>
+</edge>
+<edge source="Belgium" target="El">
+  <data key="d2">9726.0</data>
+</edge>
+<edge source="Belgium" target="Salvador">
+  <data key="d2">101487.0</data>
+</edge>
+<edge source="Belgium" target="Finland">
+  <data key="d2">398266.0</data>
+</edge>
+<edge source="Belgium" target="France">
+  <data key="d2">22260.0</data>
+</edge>
+<edge source="Belgium" target="Mon.">
+  <data key="d2">1586.0</data>
+</edge>
+<edge source="Belgium" target="Guiana">
+  <data key="d2">2394.0</data>
+</edge>
+<edge source="Belgium" target="Greece">
+  <data key="d2">9062.0</data>
+</edge>
+<edge source="Belgium" target="Guatemala">
+  <data key="d2">8709.0</data>
+</edge>
+<edge source="Belgium" target="Hong">
+  <data key="d2">9288.0</data>
+</edge>
+<edge source="Belgium" target="Kong">
+  <data key="d2">15385.0</data>
+</edge>
+<edge source="Belgium" target="Hungary">
+  <data key="d2">79584.0</data>
+</edge>
+<edge source="Belgium" target="India">
+  <data key="d2">1170.0</data>
+</edge>
+<edge source="Belgium" target="Indonesia">
+  <data key="d2">26821.0</data>
+</edge>
+<edge source="Belgium" target="Italy">
+  <data key="d2">1518.0</data>
+</edge>
+<edge source="Belgium" target="Jordan">
+  <data key="d2">1811.0</data>
+</edge>
+<edge source="Belgium" target="Korea.">
+  <data key="d2">1594.0</data>
+</edge>
+<edge source="Belgium" target="Of">
+  <data key="d2">4899.0</data>
+</edge>
+<edge source="Belgium" target="Kuwait">
+  <data key="d2">474054.0</data>
+</edge>
+<edge source="Belgium" target="Latvia">
+  <data key="d2">3881.0</data>
+</edge>
+<edge source="Belgium" target="Malaysia">
+  <data key="d2">21765.0</data>
+</edge>
+<edge source="Belgium" target="Zealand">
+  <data key="d2">15503.0</data>
+</edge>
+<edge source="Belgium" target="Nicaragua">
+  <data key="d2">13031.0</data>
+</edge>
+<edge source="Belgium" target="Oman">
+  <data key="d2">2901.0</data>
+</edge>
+<edge source="Belgium" target="Pakistan">
+  <data key="d2">1651.0</data>
+</edge>
+<edge source="Belgium" target="Paraguay">
+  <data key="d2">17130.0</data>
+</edge>
+<edge source="Belgium" target="Peru">
+  <data key="d2">8289.0</data>
+</edge>
+<edge source="Belgium" target="Philippines">
+  <data key="d2">21759.0</data>
+</edge>
+<edge source="Belgium" target="Poland">
+  <data key="d2">42064.0</data>
+</edge>
+<edge source="Belgium" target="Portugal">
+  <data key="d2">1500.0</data>
+</edge>
+<edge source="Belgium" target="Moldava.">
+  <data key="d2">23430.0</data>
+</edge>
+<edge source="Belgium" target="Romania">
+  <data key="d2">6130.0</data>
+</edge>
+<edge source="Belgium" target="Seychelles">
+  <data key="d2">12629.0</data>
+</edge>
+<edge source="Belgium" target="Singapore">
+  <data key="d2">130180.0</data>
+</edge>
+<edge source="Belgium" target="Africa">
+  <data key="d2">4057.0</data>
+</edge>
+<edge source="Belize" target="Barbados">
+  <data key="d2">517.0</data>
+</edge>
+<edge source="Bolivia" target="Argentina">
+  <data key="d2">172885.0</data>
+</edge>
+<edge source="Bolivia" target="Barbados">
+  <data key="d2">231.0</data>
+</edge>
+<edge source="Bolivia" target="/Lux.">
+  <data key="d2">193.0</data>
+</edge>
+<edge source="Bolivia" target="Belize">
+  <data key="d2">15609.0</data>
+</edge>
+<edge source="Bolivia" target="Canada">
+  <data key="d2">61905.0</data>
+</edge>
+<edge source="Bolivia" target="China">
+  <data key="d2">13297.0</data>
+</edge>
+<edge source="Bolivia" target="Rep.">
+  <data key="d2">48218.0</data>
+</edge>
+<edge source="Bolivia" target="Ecuador">
+  <data key="d2">1998.0</data>
+</edge>
+<edge source="Bolivia" target="Egypt">
+  <data key="d2">358.0</data>
+</edge>
+<edge source="Bolivia" target="French">
+  <data key="d2">2646.0</data>
+</edge>
+<edge source="Bolivia" target="Guiana">
+  <data key="d2">1234.0</data>
+</edge>
+<edge source="Bolivia" target="Mexico">
+  <data key="d2">3415.0</data>
+</edge>
+<edge source="Bolivia" target="Morocco">
+  <data key="d2">30576.0</data>
+</edge>
+<edge source="Bolivia" target="Netherlands">
+  <data key="d2">15743.0</data>
+</edge>
+<edge source="Bolivia" target="Philippines">
+  <data key="d2">7416.0</data>
+</edge>
+<edge source="Bolivia" target="Reunion">
+  <data key="d2">936.0</data>
+</edge>
+<edge source="Bolivia" target="Slovenia">
+  <data key="d2">140405.0</data>
+</edge>
+<edge source="Bolivia" target="Southern">
+  <data key="d2">26605.0</data>
+</edge>
+<edge source="Bolivia" target="Africa">
+  <data key="d2">8052.0</data>
+</edge>
+<edge source="Brazil" target="Australia">
+  <data key="d2">13925.0</data>
+</edge>
+<edge source="Brazil" target="Barbados">
+  <data key="d2">614.0</data>
+</edge>
+<edge source="Brazil" target="/Lux.">
+  <data key="d2">210.0</data>
+</edge>
+<edge source="Brazil" target="Canada">
+  <data key="d2">5490.0</data>
+</edge>
+<edge source="Brazil" target="China">
+  <data key="d2">3704.0</data>
+</edge>
+<edge source="Brazil" target="Rep.">
+  <data key="d2">35460.0</data>
+</edge>
+<edge source="Brazil" target="India">
+  <data key="d2">2684.0</data>
+</edge>
+<edge source="Brazil" target="Indonesia">
+  <data key="d2">18832.0</data>
+</edge>
+<edge source="Brazil" target="Latvia">
+  <data key="d2">4312.0</data>
+</edge>
+<edge source="Brazil" target="Madagascar">
+  <data key="d2">334.0</data>
+</edge>
+<edge source="Brazil" target="Mexico">
+  <data key="d2">948.0</data>
+</edge>
+<edge source="Brazil" target="Netherlands">
+  <data key="d2">1788.0</data>
+</edge>
+<edge source="Brazil" target="Reunion">
+  <data key="d2">1126.0</data>
+</edge>
+<edge source="Brazil" target="Slovenia">
+  <data key="d2">2032120.0</data>
+</edge>
+<edge source="Brazil" target="Africa">
+  <data key="d2">2133.0</data>
+</edge>
+<edge source="Canada" target="Argentina">
+  <data key="d2">19116.0</data>
+</edge>
+<edge source="Canada" target="Belize">
+  <data key="d2">4114.0</data>
+</edge>
+<edge source="Canada" target="Morocco">
+  <data key="d2">890.0</data>
+</edge>
+<edge source="Canada" target="Netherlands">
+  <data key="d2">11265.0</data>
+</edge>
+<edge source="Canada" target="Southern">
+  <data key="d2">1482.0</data>
+</edge>
+<edge source="Chile" target="Algeria">
+  <data key="d2">11709.0</data>
+</edge>
+<edge source="Chile" target="Argentina">
+  <data key="d2">9033.0</data>
+</edge>
+<edge source="Chile" target="Australia">
+  <data key="d2">90620.0</data>
+</edge>
+<edge source="Chile" target="Barbados">
+  <data key="d2">312.0</data>
+</edge>
+<edge source="Chile" target="Bangladesh">
+  <data key="d2">5217.0</data>
+</edge>
+<edge source="Chile" target="Belgium">
+  <data key="d2">30181.0</data>
+</edge>
+<edge source="Chile" target="/Lux.">
+  <data key="d2">493.0</data>
+</edge>
+<edge source="Chile" target="Belize">
+  <data key="d2">1296.0</data>
+</edge>
+<edge source="Chile" target="Brazil">
+  <data key="d2">107506.0</data>
+</edge>
+<edge source="Chile" target="Canada">
+  <data key="d2">12624.0</data>
+</edge>
+<edge source="Chile" target="China">
+  <data key="d2">2537.0</data>
+</edge>
+<edge source="Chile" target="Colombia">
+  <data key="d2">2420.0</data>
+</edge>
+<edge source="Chile" target="Croatia">
+  <data key="d2">2418.0</data>
+</edge>
+<edge source="Chile" target="Czech">
+  <data key="d2">28148.0</data>
+</edge>
+<edge source="Chile" target="Rep.">
+  <data key="d2">3203.0</data>
+</edge>
+<edge source="Chile" target="Denmark">
+  <data key="d2">14342.0</data>
+</edge>
+<edge source="Chile" target="Ecuador">
+  <data key="d2">3066.0</data>
+</edge>
+<edge source="Chile" target="Egypt">
+  <data key="d2">1813.0</data>
+</edge>
+<edge source="Chile" target="El">
+  <data key="d2">12848.0</data>
+</edge>
+<edge source="Chile" target="Finland">
+  <data key="d2">405577.0</data>
+</edge>
+<edge source="Chile" target="France">
+  <data key="d2">21471.0</data>
+</edge>
+<edge source="Chile" target="French">
+  <data key="d2">1398.0</data>
+</edge>
+<edge source="Chile" target="Guiana">
+  <data key="d2">1180.0</data>
+</edge>
+<edge source="Chile" target="Germany">
+  <data key="d2">1210980.0</data>
+</edge>
+<edge source="Chile" target="Guatemala">
+  <data key="d2">3515.0</data>
+</edge>
+<edge source="Chile" target="Honduras">
+  <data key="d2">32817.0</data>
+</edge>
+<edge source="Chile" target="Hungary">
+  <data key="d2">69696.0</data>
+</edge>
+<edge source="Chile" target="Iceland">
+  <data key="d2">290585.0</data>
+</edge>
+<edge source="Chile" target="India">
+  <data key="d2">8014.0</data>
+</edge>
+<edge source="Chile" target="Indonesia">
+  <data key="d2">53582.0</data>
+</edge>
+<edge source="Chile" target="Ireland">
+  <data key="d2">9232.0</data>
+</edge>
+<edge source="Chile" target="Italy">
+  <data key="d2">1843.0</data>
+</edge>
+<edge source="Chile" target="Japan">
+  <data key="d2">39617.0</data>
+</edge>
+<edge source="Chile" target="Korea.">
+  <data key="d2">3506.0</data>
+</edge>
+<edge source="Chile" target="Of">
+  <data key="d2">44387.0</data>
+</edge>
+<edge source="Chile" target="Kuwait">
+  <data key="d2">77687.0</data>
+</edge>
+<edge source="Chile" target="Latvia">
+  <data key="d2">12810.0</data>
+</edge>
+<edge source="Chile" target="Malaysia">
+  <data key="d2">13802.0</data>
+</edge>
+<edge source="Chile" target="Mauritius">
+  <data key="d2">13953.0</data>
+</edge>
+<edge source="Chile" target="Netherlands">
+  <data key="d2">6238.0</data>
+</edge>
+<edge source="Chile" target="New">
+  <data key="d2">19865.0</data>
+</edge>
+<edge source="Chile" target="Zealand">
+  <data key="d2">7180.0</data>
+</edge>
+<edge source="Chile" target="Nicaragua">
+  <data key="d2">11485.0</data>
+</edge>
+<edge source="Chile" target="Oman">
+  <data key="d2">869.0</data>
+</edge>
+<edge source="Chile" target="Panama">
+  <data key="d2">167.0</data>
+</edge>
+<edge source="Chile" target="Paraguay">
+  <data key="d2">113147.0</data>
+</edge>
+<edge source="Chile" target="Philippines">
+  <data key="d2">23166.0</data>
+</edge>
+<edge source="Chile" target="Poland">
+  <data key="d2">59911.0</data>
+</edge>
+<edge source="Chile" target="Portugal">
+  <data key="d2">7923.0</data>
+</edge>
+<edge source="Chile" target="Moldava.">
+  <data key="d2">23543.0</data>
+</edge>
+<edge source="Chile" target="Reunion">
+  <data key="d2">1494.0</data>
+</edge>
+<edge source="Chile" target="Romania">
+  <data key="d2">2539.0</data>
+</edge>
+<edge source="Chile" target="Seychelles">
+  <data key="d2">4800.0</data>
+</edge>
+<edge source="Chile" target="Singapore">
+  <data key="d2">114947.0</data>
+</edge>
+<edge source="Chile" target="Slovenia">
+  <data key="d2">1066960.0</data>
+</edge>
+<edge source="Chile" target="Southern">
+  <data key="d2">2057.0</data>
+</edge>
+<edge source="China" target="Belize">
+  <data key="d2">1596.0</data>
+</edge>
+<edge source="China" target="Canada">
+  <data key="d2">4574.0</data>
+</edge>
+<edge source="China" target="Rep.">
+  <data key="d2">13093.0</data>
+</edge>
+<edge source="China" target="Ecuador">
+  <data key="d2">1735.0</data>
+</edge>
+<edge source="China" target="French">
+  <data key="d2">3643.0</data>
+</edge>
+<edge source="China" target="Guiana">
+  <data key="d2">1356.0</data>
+</edge>
+<edge source="China" target="Madagascar">
+  <data key="d2">482.0</data>
+</edge>
+<edge source="China" target="Mexico">
+  <data key="d2">1812.0</data>
+</edge>
+<edge source="China" target="Netherlands">
+  <data key="d2">8267.0</data>
+</edge>
+<edge source="China" target="Africa">
+  <data key="d2">9711.0</data>
+</edge>
+<edge source="Colombia" target="Peru">
+  <data key="d2">11930.0</data>
+</edge>
+<edge source="Cyprus" target="Austria">
+  <data key="d2">40019.0</data>
+</edge>
+<edge source="Cyprus" target="Colombia">
+  <data key="d2">2891.0</data>
+</edge>
+<edge source="Cyprus" target="Denmark">
+  <data key="d2">7985.0</data>
+</edge>
+<edge source="Cyprus" target="Finland">
+  <data key="d2">368238.0</data>
+</edge>
+<edge source="Cyprus" target="Greece">
+  <data key="d2">13004.0</data>
+</edge>
+<edge source="Cyprus" target="Zealand">
+  <data key="d2">8238.0</data>
+</edge>
+<edge source="Cyprus" target="Pakistan">
+  <data key="d2">1566.0</data>
+</edge>
+<edge source="Cyprus" target="Peru">
+  <data key="d2">4357.0</data>
+</edge>
+<edge source="Czech" target="Austria">
+  <data key="d2">20259.0</data>
+</edge>
+<edge source="Czech" target="Barbados">
+  <data key="d2">221.0</data>
+</edge>
+<edge source="Czech" target="Belgium">
+  <data key="d2">30876.0</data>
+</edge>
+<edge source="Czech" target="Croatia">
+  <data key="d2">1284.0</data>
+</edge>
+<edge source="Czech" target="El">
+  <data key="d2">16806.0</data>
+</edge>
+<edge source="Czech" target="Salvador">
+  <data key="d2">16572.0</data>
+</edge>
+<edge source="Czech" target="Finland">
+  <data key="d2">218619.0</data>
+</edge>
+<edge source="Czech" target="Greece">
+  <data key="d2">5297.0</data>
+</edge>
+<edge source="Czech" target="Guadeloupe">
+  <data key="d2">8844.0</data>
+</edge>
+<edge source="Czech" target="Israel">
+  <data key="d2">338.0</data>
+</edge>
+<edge source="Czech" target="Kuwait">
+  <data key="d2">76037.0</data>
+</edge>
+<edge source="Czech" target="Malaysia">
+  <data key="d2">81733.0</data>
+</edge>
+<edge source="Czech" target="Zealand">
+  <data key="d2">6576.0</data>
+</edge>
+<edge source="Czech" target="Moldava.">
+  <data key="d2">121647.0</data>
+</edge>
+<edge source="Czech" target="Rep.">
+  <data key="d2">34693.0</data>
+</edge>
+<edge source="Czech" target="Singapore">
+  <data key="d2">87959.0</data>
+</edge>
+<edge source="Rep." target="China">
+  <data key="d2">2684.0</data>
+</edge>
+<edge source="Rep." target="Netherlands">
+  <data key="d2">3450.0</data>
+</edge>
+<edge source="Rep." target="/Lux.">
+  <data key="d2">254.0</data>
+</edge>
+<edge source="Rep." target="Brazil">
+  <data key="d2">48804.0</data>
+</edge>
+<edge source="Rep." target="Rep.">
+  <data key="d2">1565.0</data>
+</edge>
+<edge source="Rep." target="Ecuador">
+  <data key="d2">3868.0</data>
+</edge>
+<edge source="Rep." target="French">
+  <data key="d2">9952.0</data>
+</edge>
+<edge source="Rep." target="Guiana">
+  <data key="d2">2636.0</data>
+</edge>
+<edge source="Rep." target="Madagascar">
+  <data key="d2">1289.0</data>
+</edge>
+<edge source="Rep." target="Mexico">
+  <data key="d2">2161.0</data>
+</edge>
+<edge source="Rep." target="Slovenia">
+  <data key="d2">221690.0</data>
+</edge>
+<edge source="Rep." target="Africa">
+  <data key="d2">2373.0</data>
+</edge>
+<edge source="Rep." target="Australia">
+  <data key="d2">20560.0</data>
+</edge>
+<edge source="Rep." target="Austria">
+  <data key="d2">130434.0</data>
+</edge>
+<edge source="Rep." target="Belgium">
+  <data key="d2">61176.0</data>
+</edge>
+<edge source="Rep." target="Bolivia">
+  <data key="d2">7603.0</data>
+</edge>
+<edge source="Rep." target="Canada">
+  <data key="d2">3572.0</data>
+</edge>
+<edge source="Rep." target="Colombia">
+  <data key="d2">3283.0</data>
+</edge>
+<edge source="Rep." target="Cyprus">
+  <data key="d2">6366.0</data>
+</edge>
+<edge source="Rep." target="Czech">
+  <data key="d2">24383.0</data>
+</edge>
+<edge source="Rep." target="Denmark">
+  <data key="d2">4881.0</data>
+</edge>
+<edge source="Rep." target="El">
+  <data key="d2">13425.0</data>
+</edge>
+<edge source="Rep." target="Finland">
+  <data key="d2">854660.0</data>
+</edge>
+<edge source="Rep." target="France">
+  <data key="d2">5633.0</data>
+</edge>
+<edge source="Rep." target="Greece">
+  <data key="d2">8937.0</data>
+</edge>
+<edge source="Rep." target="Guatemala">
+  <data key="d2">4232.0</data>
+</edge>
+<edge source="Rep." target="Hong">
+  <data key="d2">5246.0</data>
+</edge>
+<edge source="Rep." target="Kong">
+  <data key="d2">39365.0</data>
+</edge>
+<edge source="Rep." target="Hungary">
+  <data key="d2">130179.0</data>
+</edge>
+<edge source="Rep." target="Iceland">
+  <data key="d2">35681.0</data>
+</edge>
+<edge source="Rep." target="Italy">
+  <data key="d2">367.0</data>
+</edge>
+<edge source="Rep." target="Japan">
+  <data key="d2">14390.0</data>
+</edge>
+<edge source="Rep." target="Korea.">
+  <data key="d2">450.0</data>
+</edge>
+<edge source="Rep." target="Of">
+  <data key="d2">1596.0</data>
+</edge>
+<edge source="Rep." target="Kuwait">
+  <data key="d2">71833.0</data>
+</edge>
+<edge source="Rep." target="Latvia">
+  <data key="d2">3937.0</data>
+</edge>
+<edge source="Rep." target="Zealand">
+  <data key="d2">6396.0</data>
+</edge>
+<edge source="Rep." target="Nicaragua">
+  <data key="d2">10241.0</data>
+</edge>
+<edge source="Rep." target="Pakistan">
+  <data key="d2">1218.0</data>
+</edge>
+<edge source="Rep." target="Peru">
+  <data key="d2">3297.0</data>
+</edge>
+<edge source="Rep." target="Philippines">
+  <data key="d2">11709.0</data>
+</edge>
+<edge source="Rep." target="Poland">
+  <data key="d2">31176.0</data>
+</edge>
+<edge source="Rep." target="Moldava.">
+  <data key="d2">45523.0</data>
+</edge>
+<edge source="Rep." target="Seychelles">
+  <data key="d2">6227.0</data>
+</edge>
+<edge source="Rep." target="Singapore">
+  <data key="d2">160542.0</data>
+</edge>
+<edge source="Denmark" target="India">
+  <data key="d2">1873.0</data>
+</edge>
+<edge source="Denmark" target="Romania">
+  <data key="d2">2153.0</data>
+</edge>
+<edge source="Ecuador" target="French">
+  <data key="d2">7111.0</data>
+</edge>
+<edge source="Ecuador" target="Guiana">
+  <data key="d2">793.0</data>
+</edge>
+<edge source="Ecuador" target="Madagascar">
+  <data key="d2">2529.0</data>
+</edge>
+<edge source="Ecuador" target="Mexico">
+  <data key="d2">951.0</data>
+</edge>
+<edge source="El" target="Czech">
+  <data key="d2">12295.0</data>
+</edge>
+<edge source="El" target="Guadeloupe">
+  <data key="d2">814.0</data>
+</edge>
+<edge source="El" target="Israel">
+  <data key="d2">3531.0</data>
+</edge>
+<edge source="El" target="Malaysia">
+  <data key="d2">57521.0</data>
+</edge>
+<edge source="El" target="Zealand">
+  <data key="d2">7793.0</data>
+</edge>
+<edge source="El" target="Pakistan">
+  <data key="d2">3593.0</data>
+</edge>
+<edge source="El" target="Moldava.">
+  <data key="d2">108793.0</data>
+</edge>
+<edge source="Salvador" target="Algeria">
+  <data key="d2">82104.0</data>
+</edge>
+<edge source="Salvador" target="Argentina">
+  <data key="d2">29305.0</data>
+</edge>
+<edge source="Salvador" target="Australia">
+  <data key="d2">20979.0</data>
+</edge>
+<edge source="Salvador" target="Austria">
+  <data key="d2">45643.0</data>
+</edge>
+<edge source="Salvador" target="Belgium">
+  <data key="d2">523392.0</data>
+</edge>
+<edge source="Salvador" target="Bolivia">
+  <data key="d2">28613.0</data>
+</edge>
+<edge source="Salvador" target="Brazil">
+  <data key="d2">50382.0</data>
+</edge>
+<edge source="Salvador" target="Canada">
+  <data key="d2">3861.0</data>
+</edge>
+<edge source="Salvador" target="China">
+  <data key="d2">4080.0</data>
+</edge>
+<edge source="Salvador" target="Croatia">
+  <data key="d2">3445.0</data>
+</edge>
+<edge source="Salvador" target="Cyprus">
+  <data key="d2">12434.0</data>
+</edge>
+<edge source="Salvador" target="Czech">
+  <data key="d2">38405.0</data>
+</edge>
+<edge source="Salvador" target="Denmark">
+  <data key="d2">9579.0</data>
+</edge>
+<edge source="Salvador" target="El">
+  <data key="d2">19778.0</data>
+</edge>
+<edge source="Salvador" target="Fiji">
+  <data key="d2">23023.0</data>
+</edge>
+<edge source="Salvador" target="Finland">
+  <data key="d2">742989.0</data>
+</edge>
+<edge source="Salvador" target="France">
+  <data key="d2">34415.0</data>
+</edge>
+<edge source="Salvador" target="Mon.">
+  <data key="d2">47886.0</data>
+</edge>
+<edge source="Salvador" target="Greece">
+  <data key="d2">10031.0</data>
+</edge>
+<edge source="Salvador" target="Guadeloupe">
+  <data key="d2">1666.0</data>
+</edge>
+<edge source="Salvador" target="Guatemala">
+  <data key="d2">13223.0</data>
+</edge>
+<edge source="Salvador" target="Hong">
+  <data key="d2">16335.0</data>
+</edge>
+<edge source="Salvador" target="Kong">
+  <data key="d2">27960.0</data>
+</edge>
+<edge source="Salvador" target="Hungary">
+  <data key="d2">289608.0</data>
+</edge>
+<edge source="Salvador" target="Iceland">
+  <data key="d2">64256.0</data>
+</edge>
+<edge source="Salvador" target="India">
+  <data key="d2">2160.0</data>
+</edge>
+<edge source="Salvador" target="Indonesia">
+  <data key="d2">24057.0</data>
+</edge>
+<edge source="Salvador" target="Ireland">
+  <data key="d2">7155.0</data>
+</edge>
+<edge source="Salvador" target="Israel">
+  <data key="d2">935.0</data>
+</edge>
+<edge source="Salvador" target="Italy">
+  <data key="d2">7753.0</data>
+</edge>
+<edge source="Salvador" target="Jordan">
+  <data key="d2">52146.0</data>
+</edge>
+<edge source="Salvador" target="Korea.">
+  <data key="d2">6364.0</data>
+</edge>
+<edge source="Salvador" target="Rep.">
+  <data key="d2">184576.0</data>
+</edge>
+<edge source="Salvador" target="Of">
+  <data key="d2">40391.0</data>
+</edge>
+<edge source="Salvador" target="Kuwait">
+  <data key="d2">160645.0</data>
+</edge>
+<edge source="Salvador" target="Malaysia">
+  <data key="d2">70505.0</data>
+</edge>
+<edge source="Salvador" target="Martinique">
+  <data key="d2">1998.0</data>
+</edge>
+<edge source="Salvador" target="Mauritius">
+  <data key="d2">3623.0</data>
+</edge>
+<edge source="Salvador" target="Zealand">
+  <data key="d2">13104.0</data>
+</edge>
+<edge source="Salvador" target="Nicaragua">
+  <data key="d2">73710.0</data>
+</edge>
+<edge source="Salvador" target="Oman">
+  <data key="d2">67464.0</data>
+</edge>
+<edge source="Salvador" target="Pakistan">
+  <data key="d2">6886.0</data>
+</edge>
+<edge source="Salvador" target="Panama">
+  <data key="d2">449.0</data>
+</edge>
+<edge source="Salvador" target="Paraguay">
+  <data key="d2">20354.0</data>
+</edge>
+<edge source="Salvador" target="Peru">
+  <data key="d2">23704.0</data>
+</edge>
+<edge source="Salvador" target="Philippines">
+  <data key="d2">21617.0</data>
+</edge>
+<edge source="Salvador" target="Poland">
+  <data key="d2">354356.0</data>
+</edge>
+<edge source="Salvador" target="Portugal">
+  <data key="d2">974.0</data>
+</edge>
+<edge source="Salvador" target="Moldava.">
+  <data key="d2">68207.0</data>
+</edge>
+<edge source="Salvador" target="Romania">
+  <data key="d2">41597.0</data>
+</edge>
+<edge source="Salvador" target="Seychelles">
+  <data key="d2">58815.0</data>
+</edge>
+<edge source="Salvador" target="Singapore">
+  <data key="d2">306259.0</data>
+</edge>
+<edge source="Salvador" target="Slovenia">
+  <data key="d2">328783.0</data>
+</edge>
+<edge source="Salvador" target="Southern">
+  <data key="d2">1442.0</data>
+</edge>
+<edge source="Salvador" target="Africa">
+  <data key="d2">2197.0</data>
+</edge>
+<edge source="Finland" target="Algeria">
+  <data key="d2">23436.0</data>
+</edge>
+<edge source="Finland" target="Argentina">
+  <data key="d2">29333.0</data>
+</edge>
+<edge source="Finland" target="Australia">
+  <data key="d2">99820.0</data>
+</edge>
+<edge source="Finland" target="Austria">
+  <data key="d2">1143070.0</data>
+</edge>
+<edge source="Finland" target="Barbados">
+  <data key="d2">341.0</data>
+</edge>
+<edge source="Finland" target="Bangladesh">
+  <data key="d2">2205.0</data>
+</edge>
+<edge source="Finland" target="Belgium">
+  <data key="d2">798074.0</data>
+</edge>
+<edge source="Finland" target="Belize">
+  <data key="d2">1711.0</data>
+</edge>
+<edge source="Finland" target="Bolivia">
+  <data key="d2">76524.0</data>
+</edge>
+<edge source="Finland" target="Brazil">
+  <data key="d2">93533.0</data>
+</edge>
+<edge source="Finland" target="Canada">
+  <data key="d2">17066.0</data>
+</edge>
+<edge source="Finland" target="Chile">
+  <data key="d2">57365.0</data>
+</edge>
+<edge source="Finland" target="China">
+  <data key="d2">12449.0</data>
+</edge>
+<edge source="Finland" target="Colombia">
+  <data key="d2">19657.0</data>
+</edge>
+<edge source="Finland" target="Croatia">
+  <data key="d2">7835.0</data>
+</edge>
+<edge source="Finland" target="Cyprus">
+  <data key="d2">158277.0</data>
+</edge>
+<edge source="Finland" target="Czech">
+  <data key="d2">358165.0</data>
+</edge>
+<edge source="Finland" target="Rep.">
+  <data key="d2">970830.0</data>
+</edge>
+<edge source="Finland" target="Denmark">
+  <data key="d2">25891.0</data>
+</edge>
+<edge source="Finland" target="Ecuador">
+  <data key="d2">2675.0</data>
+</edge>
+<edge source="Finland" target="El">
+  <data key="d2">141617.0</data>
+</edge>
+<edge source="Finland" target="Salvador">
+  <data key="d2">222186.0</data>
+</edge>
+<edge source="Finland" target="Fiji">
+  <data key="d2">12714.0</data>
+</edge>
+<edge source="Finland" target="France">
+  <data key="d2">85851.0</data>
+</edge>
+<edge source="Finland" target="Mon.">
+  <data key="d2">1242.0</data>
+</edge>
+<edge source="Finland" target="French">
+  <data key="d2">3791.0</data>
+</edge>
+<edge source="Finland" target="Guiana">
+  <data key="d2">1507.0</data>
+</edge>
+<edge source="Finland" target="Germany">
+  <data key="d2">76823.0</data>
+</edge>
+<edge source="Finland" target="Greece">
+  <data key="d2">129067.0</data>
+</edge>
+<edge source="Finland" target="Guadeloupe">
+  <data key="d2">11662.0</data>
+</edge>
+<edge source="Finland" target="Guatemala">
+  <data key="d2">39164.0</data>
+</edge>
+<edge source="Finland" target="Honduras">
+  <data key="d2">53149.0</data>
+</edge>
+<edge source="Finland" target="Hong">
+  <data key="d2">55202.0</data>
+</edge>
+<edge source="Finland" target="Kong">
+  <data key="d2">68854.0</data>
+</edge>
+<edge source="Finland" target="Hungary">
+  <data key="d2">689710.0</data>
+</edge>
+<edge source="Finland" target="Iceland">
+  <data key="d2">156272.0</data>
+</edge>
+<edge source="Finland" target="India">
+  <data key="d2">5695.0</data>
+</edge>
+<edge source="Finland" target="Indonesia">
+  <data key="d2">147775.0</data>
+</edge>
+<edge source="Finland" target="Ireland">
+  <data key="d2">22008.0</data>
+</edge>
+<edge source="Finland" target="Israel">
+  <data key="d2">5835.0</data>
+</edge>
+<edge source="Finland" target="Italy">
+  <data key="d2">816.0</data>
+</edge>
+<edge source="Finland" target="Japan">
+  <data key="d2">47215.0</data>
+</edge>
+<edge source="Finland" target="Jordan">
+  <data key="d2">855.0</data>
+</edge>
+<edge source="Finland" target="Korea.">
+  <data key="d2">1750.0</data>
+</edge>
+<edge source="Finland" target="Of">
+  <data key="d2">58662.0</data>
+</edge>
+<edge source="Finland" target="Kuwait">
+  <data key="d2">1148110.0</data>
+</edge>
+<edge source="Finland" target="Latvia">
+  <data key="d2">14160.0</data>
+</edge>
+<edge source="Finland" target="Madagascar">
+  <data key="d2">549.0</data>
+</edge>
+<edge source="Finland" target="Malaysia">
+  <data key="d2">135528.0</data>
+</edge>
+<edge source="Finland" target="Martinique">
+  <data key="d2">3788.0</data>
+</edge>
+<edge source="Finland" target="Mauritius">
+  <data key="d2">4717.0</data>
+</edge>
+<edge source="Finland" target="Mexico">
+  <data key="d2">983.0</data>
+</edge>
+<edge source="Finland" target="Morocco">
+  <data key="d2">2158.0</data>
+</edge>
+<edge source="Finland" target="Netherlands">
+  <data key="d2">6065.0</data>
+</edge>
+<edge source="Finland" target="New">
+  <data key="d2">5947.0</data>
+</edge>
+<edge source="Finland" target="Zealand">
+  <data key="d2">239865.0</data>
+</edge>
+<edge source="Finland" target="Nicaragua">
+  <data key="d2">75301.0</data>
+</edge>
+<edge source="Finland" target="Norway">
+  <data key="d2">221.0</data>
+</edge>
+<edge source="Finland" target="Oman">
+  <data key="d2">1188.0</data>
+</edge>
+<edge source="Finland" target="Pakistan">
+  <data key="d2">40489.0</data>
+</edge>
+<edge source="Finland" target="Panama">
+  <data key="d2">2812.0</data>
+</edge>
+<edge source="Finland" target="Paraguay">
+  <data key="d2">113459.0</data>
+</edge>
+<edge source="Finland" target="Peru">
+  <data key="d2">68588.0</data>
+</edge>
+<edge source="Finland" target="Philippines">
+  <data key="d2">99410.0</data>
+</edge>
+<edge source="Finland" target="Poland">
+  <data key="d2">475694.0</data>
+</edge>
+<edge source="Finland" target="Portugal">
+  <data key="d2">4250.0</data>
+</edge>
+<edge source="Finland" target="Moldava.">
+  <data key="d2">437006.0</data>
+</edge>
+<edge source="Finland" target="Reunion">
+  <data key="d2">835.0</data>
+</edge>
+<edge source="Finland" target="Romania">
+  <data key="d2">15582.0</data>
+</edge>
+<edge source="Finland" target="Seychelles">
+  <data key="d2">90816.0</data>
+</edge>
+<edge source="Finland" target="Singapore">
+  <data key="d2">882784.0</data>
+</edge>
+<edge source="Finland" target="Slovenia">
+  <data key="d2">781766.0</data>
+</edge>
+<edge source="Finland" target="Southern">
+  <data key="d2">1855.0</data>
+</edge>
+<edge source="Finland" target="Africa">
+  <data key="d2">13060.0</data>
+</edge>
+<edge source="France" target="Croatia">
+  <data key="d2">13534.0</data>
+</edge>
+<edge source="France" target="Guiana">
+  <data key="d2">424.0</data>
+</edge>
+<edge source="France" target="India">
+  <data key="d2">849.0</data>
+</edge>
+<edge source="France" target="Pakistan">
+  <data key="d2">1677.0</data>
+</edge>
+<edge source="French" target="/Lux.">
+  <data key="d2">399.0</data>
+</edge>
+<edge source="French" target="Ecuador">
+  <data key="d2">11049.0</data>
+</edge>
+<edge source="French" target="Guiana">
+  <data key="d2">2804.0</data>
+</edge>
+<edge source="French" target="Madagascar">
+  <data key="d2">1401.0</data>
+</edge>
+<edge source="Guiana" target="Ecuador">
+  <data key="d2">2934.0</data>
+</edge>
+<edge source="Guiana" target="Madagascar">
+  <data key="d2">1032.0</data>
+</edge>
+<edge source="Germany" target="Argentina">
+  <data key="d2">12574.0</data>
+</edge>
+<edge source="Germany" target="Australia">
+  <data key="d2">13644.0</data>
+</edge>
+<edge source="Germany" target="Bangladesh">
+  <data key="d2">1050.0</data>
+</edge>
+<edge source="Germany" target="Bolivia">
+  <data key="d2">7147.0</data>
+</edge>
+<edge source="Germany" target="Chile">
+  <data key="d2">271849.0</data>
+</edge>
+<edge source="Germany" target="Rep.">
+  <data key="d2">1195.0</data>
+</edge>
+<edge source="Germany" target="Denmark">
+  <data key="d2">2695.0</data>
+</edge>
+<edge source="Germany" target="Ecuador">
+  <data key="d2">1112.0</data>
+</edge>
+<edge source="Germany" target="Egypt">
+  <data key="d2">677.0</data>
+</edge>
+<edge source="Germany" target="French">
+  <data key="d2">1929.0</data>
+</edge>
+<edge source="Germany" target="Guiana">
+  <data key="d2">485.0</data>
+</edge>
+<edge source="Germany" target="Honduras">
+  <data key="d2">12604.0</data>
+</edge>
+<edge source="Germany" target="Kong">
+  <data key="d2">9218.0</data>
+</edge>
+<edge source="Germany" target="Iceland">
+  <data key="d2">45445.0</data>
+</edge>
+<edge source="Germany" target="Japan">
+  <data key="d2">24159.0</data>
+</edge>
+<edge source="Germany" target="Korea.">
+  <data key="d2">1356.0</data>
+</edge>
+<edge source="Germany" target="Kuwait">
+  <data key="d2">33281.0</data>
+</edge>
+<edge source="Germany" target="Latvia">
+  <data key="d2">4059.0</data>
+</edge>
+<edge source="Germany" target="Mexico">
+  <data key="d2">1346.0</data>
+</edge>
+<edge source="Germany" target="Morocco">
+  <data key="d2">2655.0</data>
+</edge>
+<edge source="Germany" target="New">
+  <data key="d2">23396.0</data>
+</edge>
+<edge source="Germany" target="Panama">
+  <data key="d2">274.0</data>
+</edge>
+<edge source="Germany" target="Paraguay">
+  <data key="d2">55398.0</data>
+</edge>
+<edge source="Germany" target="Philippines">
+  <data key="d2">21277.0</data>
+</edge>
+<edge source="Germany" target="Portugal">
+  <data key="d2">3703.0</data>
+</edge>
+<edge source="Germany" target="Of">
+  <data key="d2">23642.0</data>
+</edge>
+<edge source="Germany" target="Singapore">
+  <data key="d2">108585.0</data>
+</edge>
+<edge source="Germany" target="Slovenia">
+  <data key="d2">135643.0</data>
+</edge>
+<edge source="Germany" target="Southern">
+  <data key="d2">1971.0</data>
+</edge>
+<edge source="Germany" target="Africa">
+  <data key="d2">2767.0</data>
+</edge>
+<edge source="Greece" target="Austria">
+  <data key="d2">31549.0</data>
+</edge>
+<edge source="Greece" target="Colombia">
+  <data key="d2">1865.0</data>
+</edge>
+<edge source="Greece" target="Finland">
+  <data key="d2">158903.0</data>
+</edge>
+<edge source="Greece" target="Norway">
+  <data key="d2">194.0</data>
+</edge>
+<edge source="Greece" target="Pakistan">
+  <data key="d2">3913.0</data>
+</edge>
+<edge source="Guatemala" target="Algeria">
+  <data key="d2">4890.0</data>
+</edge>
+<edge source="Guatemala" target="Australia">
+  <data key="d2">16982.0</data>
+</edge>
+<edge source="Guatemala" target="Bangladesh">
+  <data key="d2">1089.0</data>
+</edge>
+<edge source="Guatemala" target="Denmark">
+  <data key="d2">4306.0</data>
+</edge>
+<edge source="Guatemala" target="Egypt">
+  <data key="d2">484.0</data>
+</edge>
+<edge source="Guatemala" target="India">
+  <data key="d2">2606.0</data>
+</edge>
+<edge source="Guatemala" target="Ireland">
+  <data key="d2">6408.0</data>
+</edge>
+<edge source="Guatemala" target="Italy">
+  <data key="d2">343.0</data>
+</edge>
+<edge source="Guatemala" target="Japan">
+  <data key="d2">15817.0</data>
+</edge>
+<edge source="Guatemala" target="Korea.">
+  <data key="d2">3288.0</data>
+</edge>
+<edge source="Guatemala" target="Latvia">
+  <data key="d2">2923.0</data>
+</edge>
+<edge source="Guatemala" target="Martinique">
+  <data key="d2">4151.0</data>
+</edge>
+<edge source="Guatemala" target="New">
+  <data key="d2">7885.0</data>
+</edge>
+<edge source="Guatemala" target="Panama">
+  <data key="d2">207.0</data>
+</edge>
+<edge source="Guatemala" target="Paraguay">
+  <data key="d2">23269.0</data>
+</edge>
+<edge source="Guatemala" target="Philippines">
+  <data key="d2">9483.0</data>
+</edge>
+<edge source="Guatemala" target="Portugal">
+  <data key="d2">7451.0</data>
+</edge>
+<edge source="Guatemala" target="Reunion">
+  <data key="d2">622.0</data>
+</edge>
+<edge source="Guatemala" target="Singapore">
+  <data key="d2">100138.0</data>
+</edge>
+<edge source="Guatemala" target="Slovenia">
+  <data key="d2">240032.0</data>
+</edge>
+<edge source="Honduras" target="Iceland">
+  <data key="d2">65894.0</data>
+</edge>
+<edge source="Honduras" target="Japan">
+  <data key="d2">32298.0</data>
+</edge>
+<edge source="Honduras" target="New">
+  <data key="d2">6469.0</data>
+</edge>
+<edge source="Honduras" target="Portugal">
+  <data key="d2">1011.0</data>
+</edge>
+<edge source="Hong" target="Singapore">
+  <data key="d2">152674.0</data>
+</edge>
+<edge source="Kong" target="Pakistan">
+  <data key="d2">1524.0</data>
+</edge>
+<edge source="Kong" target="Philippines">
+  <data key="d2">7621.0</data>
+</edge>
+<edge source="Hungary" target="Algeria">
+  <data key="d2">48478.0</data>
+</edge>
+<edge source="Hungary" target="Argentina">
+  <data key="d2">38225.0</data>
+</edge>
+<edge source="Hungary" target="Australia">
+  <data key="d2">46977.0</data>
+</edge>
+<edge source="Hungary" target="Austria">
+  <data key="d2">216031.0</data>
+</edge>
+<edge source="Hungary" target="Barbados">
+  <data key="d2">290.0</data>
+</edge>
+<edge source="Hungary" target="Belgium">
+  <data key="d2">192407.0</data>
+</edge>
+<edge source="Hungary" target="Belize">
+  <data key="d2">843.0</data>
+</edge>
+<edge source="Hungary" target="Bolivia">
+  <data key="d2">31563.0</data>
+</edge>
+<edge source="Hungary" target="Brazil">
+  <data key="d2">56025.0</data>
+</edge>
+<edge source="Hungary" target="Canada">
+  <data key="d2">15325.0</data>
+</edge>
+<edge source="Hungary" target="Chile">
+  <data key="d2">54888.0</data>
+</edge>
+<edge source="Hungary" target="China">
+  <data key="d2">7573.0</data>
+</edge>
+<edge source="Hungary" target="Colombia">
+  <data key="d2">22229.0</data>
+</edge>
+<edge source="Hungary" target="Croatia">
+  <data key="d2">21483.0</data>
+</edge>
+<edge source="Hungary" target="Cyprus">
+  <data key="d2">38564.0</data>
+</edge>
+<edge source="Hungary" target="Czech">
+  <data key="d2">50685.0</data>
+</edge>
+<edge source="Hungary" target="Rep.">
+  <data key="d2">289190.0</data>
+</edge>
+<edge source="Hungary" target="Denmark">
+  <data key="d2">26232.0</data>
+</edge>
+<edge source="Hungary" target="Ecuador">
+  <data key="d2">1696.0</data>
+</edge>
+<edge source="Hungary" target="El">
+  <data key="d2">40169.0</data>
+</edge>
+<edge source="Hungary" target="Salvador">
+  <data key="d2">74172.0</data>
+</edge>
+<edge source="Hungary" target="Fiji">
+  <data key="d2">1243.0</data>
+</edge>
+<edge source="Hungary" target="Finland">
+  <data key="d2">1019390.0</data>
+</edge>
+<edge source="Hungary" target="France">
+  <data key="d2">138424.0</data>
+</edge>
+<edge source="Hungary" target="Mon.">
+  <data key="d2">6045.0</data>
+</edge>
+<edge source="Hungary" target="French">
+  <data key="d2">1574.0</data>
+</edge>
+<edge source="Hungary" target="Germany">
+  <data key="d2">41006.0</data>
+</edge>
+<edge source="Hungary" target="Greece">
+  <data key="d2">58484.0</data>
+</edge>
+<edge source="Hungary" target="Guadeloupe">
+  <data key="d2">2058.0</data>
+</edge>
+<edge source="Hungary" target="Guatemala">
+  <data key="d2">16450.0</data>
+</edge>
+<edge source="Hungary" target="Honduras">
+  <data key="d2">51412.0</data>
+</edge>
+<edge source="Hungary" target="Hong">
+  <data key="d2">13825.0</data>
+</edge>
+<edge source="Hungary" target="Kong">
+  <data key="d2">106401.0</data>
+</edge>
+<edge source="Hungary" target="Iceland">
+  <data key="d2">43990.0</data>
+</edge>
+<edge source="Hungary" target="India">
+  <data key="d2">19263.0</data>
+</edge>
+<edge source="Hungary" target="Indonesia">
+  <data key="d2">33031.0</data>
+</edge>
+<edge source="Hungary" target="Ireland">
+  <data key="d2">34341.0</data>
+</edge>
+<edge source="Hungary" target="Israel">
+  <data key="d2">629.0</data>
+</edge>
+<edge source="Hungary" target="Italy">
+  <data key="d2">832.0</data>
+</edge>
+<edge source="Hungary" target="Japan">
+  <data key="d2">20465.0</data>
+</edge>
+<edge source="Hungary" target="Jordan">
+  <data key="d2">4083.0</data>
+</edge>
+<edge source="Hungary" target="Korea.">
+  <data key="d2">1670.0</data>
+</edge>
+<edge source="Hungary" target="Of">
+  <data key="d2">27963.0</data>
+</edge>
+<edge source="Hungary" target="Kuwait">
+  <data key="d2">144785.0</data>
+</edge>
+<edge source="Hungary" target="Latvia">
+  <data key="d2">9437.0</data>
+</edge>
+<edge source="Hungary" target="Malaysia">
+  <data key="d2">50337.0</data>
+</edge>
+<edge source="Hungary" target="Martinique">
+  <data key="d2">3791.0</data>
+</edge>
+<edge source="Hungary" target="Mauritius">
+  <data key="d2">5189.0</data>
+</edge>
+<edge source="Hungary" target="Mexico">
+  <data key="d2">2560.0</data>
+</edge>
+<edge source="Hungary" target="Morocco">
+  <data key="d2">1331.0</data>
+</edge>
+<edge source="Hungary" target="Netherlands">
+  <data key="d2">3885.0</data>
+</edge>
+<edge source="Hungary" target="Zealand">
+  <data key="d2">85965.0</data>
+</edge>
+<edge source="Hungary" target="Nicaragua">
+  <data key="d2">103927.0</data>
+</edge>
+<edge source="Hungary" target="Norway">
+  <data key="d2">144.0</data>
+</edge>
+<edge source="Hungary" target="Oman">
+  <data key="d2">6776.0</data>
+</edge>
+<edge source="Hungary" target="Pakistan">
+  <data key="d2">19454.0</data>
+</edge>
+<edge source="Hungary" target="Panama">
+  <data key="d2">441.0</data>
+</edge>
+<edge source="Hungary" target="Paraguay">
+  <data key="d2">70177.0</data>
+</edge>
+<edge source="Hungary" target="Peru">
+  <data key="d2">51024.0</data>
+</edge>
+<edge source="Hungary" target="Philippines">
+  <data key="d2">31140.0</data>
+</edge>
+<edge source="Hungary" target="Poland">
+  <data key="d2">401791.0</data>
+</edge>
+<edge source="Hungary" target="Portugal">
+  <data key="d2">1398.0</data>
+</edge>
+<edge source="Hungary" target="Moldava.">
+  <data key="d2">79917.0</data>
+</edge>
+<edge source="Hungary" target="Reunion">
+  <data key="d2">1159.0</data>
+</edge>
+<edge source="Hungary" target="Romania">
+  <data key="d2">30694.0</data>
+</edge>
+<edge source="Hungary" target="Seychelles">
+  <data key="d2">70624.0</data>
+</edge>
+<edge source="Hungary" target="Singapore">
+  <data key="d2">322587.0</data>
+</edge>
+<edge source="Hungary" target="Slovenia">
+  <data key="d2">305554.0</data>
+</edge>
+<edge source="Hungary" target="Southern">
+  <data key="d2">4701.0</data>
+</edge>
+<edge source="Hungary" target="Africa">
+  <data key="d2">13418.0</data>
+</edge>
+<edge source="Iceland" target="Algeria">
+  <data key="d2">4189.0</data>
+</edge>
+<edge source="Iceland" target="Australia">
+  <data key="d2">115283.0</data>
+</edge>
+<edge source="Iceland" target="Barbados">
+  <data key="d2">293.0</data>
+</edge>
+<edge source="Iceland" target="Bangladesh">
+  <data key="d2">4056.0</data>
+</edge>
+<edge source="Iceland" target="Belgium">
+  <data key="d2">46948.0</data>
+</edge>
+<edge source="Iceland" target="Bolivia">
+  <data key="d2">23335.0</data>
+</edge>
+<edge source="Iceland" target="Brazil">
+  <data key="d2">149047.0</data>
+</edge>
+<edge source="Iceland" target="Canada">
+  <data key="d2">6195.0</data>
+</edge>
+<edge source="Iceland" target="Chile">
+  <data key="d2">339757.0</data>
+</edge>
+<edge source="Iceland" target="China">
+  <data key="d2">6483.0</data>
+</edge>
+<edge source="Iceland" target="Croatia">
+  <data key="d2">1717.0</data>
+</edge>
+<edge source="Iceland" target="Czech">
+  <data key="d2">11399.0</data>
+</edge>
+<edge source="Iceland" target="Rep.">
+  <data key="d2">30748.0</data>
+</edge>
+<edge source="Iceland" target="Denmark">
+  <data key="d2">7454.0</data>
+</edge>
+<edge source="Iceland" target="Ecuador">
+  <data key="d2">724.0</data>
+</edge>
+<edge source="Iceland" target="Egypt">
+  <data key="d2">644.0</data>
+</edge>
+<edge source="Iceland" target="El">
+  <data key="d2">11286.0</data>
+</edge>
+<edge source="Iceland" target="Finland">
+  <data key="d2">209465.0</data>
+</edge>
+<edge source="Iceland" target="France">
+  <data key="d2">6180.0</data>
+</edge>
+<edge source="Iceland" target="French">
+  <data key="d2">1012.0</data>
+</edge>
+<edge source="Iceland" target="Germany">
+  <data key="d2">306474.0</data>
+</edge>
+<edge source="Iceland" target="Greece">
+  <data key="d2">8010.0</data>
+</edge>
+<edge source="Iceland" target="Guatemala">
+  <data key="d2">27655.0</data>
+</edge>
+<edge source="Iceland" target="Honduras">
+  <data key="d2">134557.0</data>
+</edge>
+<edge source="Iceland" target="Hong">
+  <data key="d2">11597.0</data>
+</edge>
+<edge source="Iceland" target="Kong">
+  <data key="d2">7488.0</data>
+</edge>
+<edge source="Iceland" target="Hungary">
+  <data key="d2">69372.0</data>
+</edge>
+<edge source="Iceland" target="India">
+  <data key="d2">1273.0</data>
+</edge>
+<edge source="Iceland" target="Indonesia">
+  <data key="d2">489714.0</data>
+</edge>
+<edge source="Iceland" target="Ireland">
+  <data key="d2">9189.0</data>
+</edge>
+<edge source="Iceland" target="Italy">
+  <data key="d2">2042.0</data>
+</edge>
+<edge source="Iceland" target="Japan">
+  <data key="d2">423412.0</data>
+</edge>
+<edge source="Iceland" target="Korea.">
+  <data key="d2">1278.0</data>
+</edge>
+<edge source="Iceland" target="Of">
+  <data key="d2">749039.0</data>
+</edge>
+<edge source="Iceland" target="Kuwait">
+  <data key="d2">98557.0</data>
+</edge>
+<edge source="Iceland" target="Latvia">
+  <data key="d2">15470.0</data>
+</edge>
+<edge source="Iceland" target="Madagascar">
+  <data key="d2">1399.0</data>
+</edge>
+<edge source="Iceland" target="Malaysia">
+  <data key="d2">14864.0</data>
+</edge>
+<edge source="Iceland" target="Martinique">
+  <data key="d2">1594.0</data>
+</edge>
+<edge source="Iceland" target="Mauritius">
+  <data key="d2">10388.0</data>
+</edge>
+<edge source="Iceland" target="Morocco">
+  <data key="d2">875.0</data>
+</edge>
+<edge source="Iceland" target="Netherlands">
+  <data key="d2">2477.0</data>
+</edge>
+<edge source="Iceland" target="New">
+  <data key="d2">138348.0</data>
+</edge>
+<edge source="Iceland" target="Paraguay">
+  <data key="d2">349443.0</data>
+</edge>
+<edge source="Iceland" target="Philippines">
+  <data key="d2">24555.0</data>
+</edge>
+<edge source="Iceland" target="Poland">
+  <data key="d2">60330.0</data>
+</edge>
+<edge source="Iceland" target="Portugal">
+  <data key="d2">12016.0</data>
+</edge>
+<edge source="Iceland" target="Moldava.">
+  <data key="d2">102912.0</data>
+</edge>
+<edge source="Iceland" target="Reunion">
+  <data key="d2">641.0</data>
+</edge>
+<edge source="Iceland" target="Romania">
+  <data key="d2">1765.0</data>
+</edge>
+<edge source="Iceland" target="Seychelles">
+  <data key="d2">29234.0</data>
+</edge>
+<edge source="Iceland" target="Singapore">
+  <data key="d2">220662.0</data>
+</edge>
+<edge source="Iceland" target="Slovenia">
+  <data key="d2">1982650.0</data>
+</edge>
+<edge source="Iceland" target="Africa">
+  <data key="d2">4831.0</data>
+</edge>
+<edge source="Indonesia" target="Algeria">
+  <data key="d2">3156.0</data>
+</edge>
+<edge source="Indonesia" target="Australia">
+  <data key="d2">45517.0</data>
+</edge>
+<edge source="Indonesia" target="Bangladesh">
+  <data key="d2">1121.0</data>
+</edge>
+<edge source="Indonesia" target="Brazil">
+  <data key="d2">53800.0</data>
+</edge>
+<edge source="Indonesia" target="Canada">
+  <data key="d2">4326.0</data>
+</edge>
+<edge source="Indonesia" target="Chile">
+  <data key="d2">127810.0</data>
+</edge>
+<edge source="Indonesia" target="Finland">
+  <data key="d2">145719.0</data>
+</edge>
+<edge source="Indonesia" target="Germany">
+  <data key="d2">65315.0</data>
+</edge>
+<edge source="Indonesia" target="Guatemala">
+  <data key="d2">9808.0</data>
+</edge>
+<edge source="Indonesia" target="Honduras">
+  <data key="d2">41827.0</data>
+</edge>
+<edge source="Indonesia" target="Kong">
+  <data key="d2">5822.0</data>
+</edge>
+<edge source="Indonesia" target="Iceland">
+  <data key="d2">390581.0</data>
+</edge>
+<edge source="Indonesia" target="India">
+  <data key="d2">1841.0</data>
+</edge>
+<edge source="Indonesia" target="Ireland">
+  <data key="d2">2819.0</data>
+</edge>
+<edge source="Indonesia" target="Japan">
+  <data key="d2">31255.0</data>
+</edge>
+<edge source="Indonesia" target="Of">
+  <data key="d2">56160.0</data>
+</edge>
+<edge source="Indonesia" target="Kuwait">
+  <data key="d2">45349.0</data>
+</edge>
+<edge source="Indonesia" target="Latvia">
+  <data key="d2">6472.0</data>
+</edge>
+<edge source="Indonesia" target="Mauritius">
+  <data key="d2">15469.0</data>
+</edge>
+<edge source="Indonesia" target="New">
+  <data key="d2">17031.0</data>
+</edge>
+<edge source="Indonesia" target="Paraguay">
+  <data key="d2">50098.0</data>
+</edge>
+<edge source="Indonesia" target="Philippines">
+  <data key="d2">17826.0</data>
+</edge>
+<edge source="Indonesia" target="Poland">
+  <data key="d2">20135.0</data>
+</edge>
+<edge source="Indonesia" target="Portugal">
+  <data key="d2">6441.0</data>
+</edge>
+<edge source="Indonesia" target="Romania">
+  <data key="d2">1446.0</data>
+</edge>
+<edge source="Indonesia" target="Seychelles">
+  <data key="d2">6336.0</data>
+</edge>
+<edge source="Indonesia" target="Slovenia">
+  <data key="d2">571623.0</data>
+</edge>
+<edge source="Japan" target="Australia">
+  <data key="d2">18508.0</data>
+</edge>
+<edge source="Japan" target="Egypt">
+  <data key="d2">385.0</data>
+</edge>
+<edge source="Japan" target="Honduras">
+  <data key="d2">7993.0</data>
+</edge>
+<edge source="Japan" target="Iceland">
+  <data key="d2">30051.0</data>
+</edge>
+<edge source="Japan" target="Korea.">
+  <data key="d2">995.0</data>
+</edge>
+<edge source="Japan" target="New">
+  <data key="d2">5027.0</data>
+</edge>
+<edge source="Japan" target="Paraguay">
+  <data key="d2">260968.0</data>
+</edge>
+<edge source="Japan" target="Portugal">
+  <data key="d2">3903.0</data>
+</edge>
+<edge source="Japan" target="Of">
+  <data key="d2">15889.0</data>
+</edge>
+<edge source="Of" target="Australia">
+  <data key="d2">14377.0</data>
+</edge>
+<edge source="Of" target="Egypt">
+  <data key="d2">756.0</data>
+</edge>
+<edge source="Of" target="Honduras">
+  <data key="d2">7799.0</data>
+</edge>
+<edge source="Of" target="Iceland">
+  <data key="d2">145781.0</data>
+</edge>
+<edge source="Of" target="Japan">
+  <data key="d2">22074.0</data>
+</edge>
+<edge source="Of" target="Panama">
+  <data key="d2">3179.0</data>
+</edge>
+<edge source="Of" target="Paraguay">
+  <data key="d2">26035.0</data>
+</edge>
+<edge source="Of" target="Portugal">
+  <data key="d2">4364.0</data>
+</edge>
+<edge source="Kuwait" target="Argentina">
+  <data key="d2">6932.0</data>
+</edge>
+<edge source="Kuwait" target="Austria">
+  <data key="d2">41195.0</data>
+</edge>
+<edge source="Kuwait" target="Belgium">
+  <data key="d2">587725.0</data>
+</edge>
+<edge source="Kuwait" target="Bolivia">
+  <data key="d2">6310.0</data>
+</edge>
+<edge source="Kuwait" target="Colombia">
+  <data key="d2">1352.0</data>
+</edge>
+<edge source="Kuwait" target="Croatia">
+  <data key="d2">1194.0</data>
+</edge>
+<edge source="Kuwait" target="Cyprus">
+  <data key="d2">9265.0</data>
+</edge>
+<edge source="Kuwait" target="Czech">
+  <data key="d2">48335.0</data>
+</edge>
+<edge source="Kuwait" target="Denmark">
+  <data key="d2">5832.0</data>
+</edge>
+<edge source="Kuwait" target="El">
+  <data key="d2">15373.0</data>
+</edge>
+<edge source="Kuwait" target="Salvador">
+  <data key="d2">12512.0</data>
+</edge>
+<edge source="Kuwait" target="Finland">
+  <data key="d2">653983.0</data>
+</edge>
+<edge source="Kuwait" target="France">
+  <data key="d2">8786.0</data>
+</edge>
+<edge source="Kuwait" target="Greece">
+  <data key="d2">10503.0</data>
+</edge>
+<edge source="Kuwait" target="Guadeloupe">
+  <data key="d2">4373.0</data>
+</edge>
+<edge source="Kuwait" target="Guatemala">
+  <data key="d2">3059.0</data>
+</edge>
+<edge source="Kuwait" target="Honduras">
+  <data key="d2">39619.0</data>
+</edge>
+<edge source="Kuwait" target="Hong">
+  <data key="d2">10567.0</data>
+</edge>
+<edge source="Kuwait" target="Kong">
+  <data key="d2">13670.0</data>
+</edge>
+<edge source="Kuwait" target="Hungary">
+  <data key="d2">111298.0</data>
+</edge>
+<edge source="Kuwait" target="India">
+  <data key="d2">1041.0</data>
+</edge>
+<edge source="Kuwait" target="Israel">
+  <data key="d2">506.0</data>
+</edge>
+<edge source="Kuwait" target="Italy">
+  <data key="d2">393.0</data>
+</edge>
+<edge source="Kuwait" target="Japan">
+  <data key="d2">12909.0</data>
+</edge>
+<edge source="Kuwait" target="Korea.">
+  <data key="d2">592.0</data>
+</edge>
+<edge source="Kuwait" target="Of">
+  <data key="d2">1475.0</data>
+</edge>
+<edge source="Kuwait" target="Malaysia">
+  <data key="d2">18272.0</data>
+</edge>
+<edge source="Kuwait" target="Martinique">
+  <data key="d2">1742.0</data>
+</edge>
+<edge source="Kuwait" target="Mauritius">
+  <data key="d2">5752.0</data>
+</edge>
+<edge source="Kuwait" target="New">
+  <data key="d2">4305.0</data>
+</edge>
+<edge source="Kuwait" target="Zealand">
+  <data key="d2">11309.0</data>
+</edge>
+<edge source="Kuwait" target="Nicaragua">
+  <data key="d2">19173.0</data>
+</edge>
+<edge source="Kuwait" target="Pakistan">
+  <data key="d2">1929.0</data>
+</edge>
+<edge source="Kuwait" target="Paraguay">
+  <data key="d2">23651.0</data>
+</edge>
+<edge source="Kuwait" target="Peru">
+  <data key="d2">2815.0</data>
+</edge>
+<edge source="Kuwait" target="Philippines">
+  <data key="d2">8530.0</data>
+</edge>
+<edge source="Kuwait" target="Poland">
+  <data key="d2">38204.0</data>
+</edge>
+<edge source="Kuwait" target="Portugal">
+  <data key="d2">916.0</data>
+</edge>
+<edge source="Kuwait" target="Moldava.">
+  <data key="d2">55480.0</data>
+</edge>
+<edge source="Kuwait" target="Rep.">
+  <data key="d2">53919.0</data>
+</edge>
+<edge source="Kuwait" target="Romania">
+  <data key="d2">1724.0</data>
+</edge>
+<edge source="Kuwait" target="Seychelles">
+  <data key="d2">7270.0</data>
+</edge>
+<edge source="Kuwait" target="Singapore">
+  <data key="d2">230744.0</data>
+</edge>
+<edge source="Kuwait" target="Africa">
+  <data key="d2">2187.0</data>
+</edge>
+<edge source="Latvia" target="Australia">
+  <data key="d2">91691.0</data>
+</edge>
+<edge source="Latvia" target="Egypt">
+  <data key="d2">6253.0</data>
+</edge>
+<edge source="Malaysia" target="Czech">
+  <data key="d2">27963.0</data>
+</edge>
+<edge source="Malaysia" target="El">
+  <data key="d2">15224.0</data>
+</edge>
+<edge source="Malaysia" target="Guadeloupe">
+  <data key="d2">4907.0</data>
+</edge>
+<edge source="Malaysia" target="Panama">
+  <data key="d2">197.0</data>
+</edge>
+<edge source="Malaysia" target="Moldava.">
+  <data key="d2">83159.0</data>
+</edge>
+<edge source="Mexico" target="Rep.">
+  <data key="d2">1223.0</data>
+</edge>
+<edge source="Mexico" target="Ecuador">
+  <data key="d2">710.0</data>
+</edge>
+<edge source="Mexico" target="French">
+  <data key="d2">1629.0</data>
+</edge>
+<edge source="Mexico" target="Guiana">
+  <data key="d2">755.0</data>
+</edge>
+<edge source="Mexico" target="Madagascar">
+  <data key="d2">787.0</data>
+</edge>
+<edge source="Netherlands" target="Belize">
+  <data key="d2">3397.0</data>
+</edge>
+<edge source="Netherlands" target="French">
+  <data key="d2">906.0</data>
+</edge>
+<edge source="Netherlands" target="Italy">
+  <data key="d2">772.0</data>
+</edge>
+<edge source="Zealand" target="Cyprus">
+  <data key="d2">12719.0</data>
+</edge>
+<edge source="Zealand" target="Czech">
+  <data key="d2">23826.0</data>
+</edge>
+<edge source="Zealand" target="Finland">
+  <data key="d2">360130.0</data>
+</edge>
+<edge source="Zealand" target="Israel">
+  <data key="d2">537.0</data>
+</edge>
+<edge source="Zealand" target="Moldava.">
+  <data key="d2">18936.0</data>
+</edge>
+<edge source="Nicaragua" target="Kong">
+  <data key="d2">5754.0</data>
+</edge>
+<edge source="Nicaragua" target="Of">
+  <data key="d2">2051.0</data>
+</edge>
+<edge source="Nicaragua" target="Poland">
+  <data key="d2">101038.0</data>
+</edge>
+<edge source="Nicaragua" target="Moldava.">
+  <data key="d2">15812.0</data>
+</edge>
+<edge source="Norway" target="Pakistan">
+  <data key="d2">1670.0</data>
+</edge>
+<edge source="Pakistan" target="India">
+  <data key="d2">994.0</data>
+</edge>
+<edge source="Pakistan" target="Norway">
+  <data key="d2">514.0</data>
+</edge>
+<edge source="Paraguay" target="Australia">
+  <data key="d2">19856.0</data>
+</edge>
+<edge source="Paraguay" target="Bangladesh">
+  <data key="d2">833.0</data>
+</edge>
+<edge source="Paraguay" target="Chile">
+  <data key="d2">22469.0</data>
+</edge>
+<edge source="Paraguay" target="Egypt">
+  <data key="d2">1297.0</data>
+</edge>
+<edge source="Paraguay" target="Germany">
+  <data key="d2">55176.0</data>
+</edge>
+<edge source="Paraguay" target="Guatemala">
+  <data key="d2">8861.0</data>
+</edge>
+<edge source="Paraguay" target="Honduras">
+  <data key="d2">39206.0</data>
+</edge>
+<edge source="Paraguay" target="Iceland">
+  <data key="d2">31011.0</data>
+</edge>
+<edge source="Paraguay" target="Japan">
+  <data key="d2">223382.0</data>
+</edge>
+<edge source="Paraguay" target="Korea.">
+  <data key="d2">1181.0</data>
+</edge>
+<edge source="Paraguay" target="Latvia">
+  <data key="d2">3027.0</data>
+</edge>
+<edge source="Paraguay" target="Martinique">
+  <data key="d2">1173.0</data>
+</edge>
+<edge source="Paraguay" target="Mauritius">
+  <data key="d2">2588.0</data>
+</edge>
+<edge source="Paraguay" target="New">
+  <data key="d2">21744.0</data>
+</edge>
+<edge source="Paraguay" target="Panama">
+  <data key="d2">1692.0</data>
+</edge>
+<edge source="Paraguay" target="Portugal">
+  <data key="d2">12253.0</data>
+</edge>
+<edge source="Paraguay" target="Of">
+  <data key="d2">81685.0</data>
+</edge>
+<edge source="Peru" target="Austria">
+  <data key="d2">25786.0</data>
+</edge>
+<edge source="Peru" target="Colombia">
+  <data key="d2">32529.0</data>
+</edge>
+<edge source="Peru" target="Finland">
+  <data key="d2">98586.0</data>
+</edge>
+<edge source="Peru" target="Greece">
+  <data key="d2">4682.0</data>
+</edge>
+<edge source="Peru" target="Hungary">
+  <data key="d2">48996.0</data>
+</edge>
+<edge source="Philippines" target="Kong">
+  <data key="d2">11562.0</data>
+</edge>
+<edge source="Philippines" target="Italy">
+  <data key="d2">330.0</data>
+</edge>
+<edge source="Philippines" target="Korea.">
+  <data key="d2">6805.0</data>
+</edge>
+<edge source="Philippines" target="Oman">
+  <data key="d2">2566.0</data>
+</edge>
+<edge source="Philippines" target="Panama">
+  <data key="d2">2833.0</data>
+</edge>
+<edge source="Poland" target="Algeria">
+  <data key="d2">8017.0</data>
+</edge>
+<edge source="Poland" target="Argentina">
+  <data key="d2">20995.0</data>
+</edge>
+<edge source="Poland" target="Belgium">
+  <data key="d2">40454.0</data>
+</edge>
+<edge source="Poland" target="/Lux.">
+  <data key="d2">558.0</data>
+</edge>
+<edge source="Poland" target="Belize">
+  <data key="d2">1528.0</data>
+</edge>
+<edge source="Poland" target="Bolivia">
+  <data key="d2">4659.0</data>
+</edge>
+<edge source="Poland" target="Canada">
+  <data key="d2">21783.0</data>
+</edge>
+<edge source="Poland" target="China">
+  <data key="d2">6121.0</data>
+</edge>
+<edge source="Poland" target="Croatia">
+  <data key="d2">2920.0</data>
+</edge>
+<edge source="Poland" target="Denmark">
+  <data key="d2">3837.0</data>
+</edge>
+<edge source="Poland" target="Ecuador">
+  <data key="d2">1405.0</data>
+</edge>
+<edge source="Poland" target="El">
+  <data key="d2">9082.0</data>
+</edge>
+<edge source="Poland" target="Salvador">
+  <data key="d2">16791.0</data>
+</edge>
+<edge source="Poland" target="Finland">
+  <data key="d2">169826.0</data>
+</edge>
+<edge source="Poland" target="France">
+  <data key="d2">12263.0</data>
+</edge>
+<edge source="Poland" target="Guiana">
+  <data key="d2">635.0</data>
+</edge>
+<edge source="Poland" target="Greece">
+  <data key="d2">6014.0</data>
+</edge>
+<edge source="Poland" target="Kong">
+  <data key="d2">10859.0</data>
+</edge>
+<edge source="Poland" target="Hungary">
+  <data key="d2">104241.0</data>
+</edge>
+<edge source="Poland" target="India">
+  <data key="d2">2505.0</data>
+</edge>
+<edge source="Poland" target="Ireland">
+  <data key="d2">3123.0</data>
+</edge>
+<edge source="Poland" target="Rep.">
+  <data key="d2">43041.0</data>
+</edge>
+<edge source="Poland" target="Of">
+  <data key="d2">24253.0</data>
+</edge>
+<edge source="Poland" target="Madagascar">
+  <data key="d2">2337.0</data>
+</edge>
+<edge source="Poland" target="Morocco">
+  <data key="d2">1643.0</data>
+</edge>
+<edge source="Poland" target="Netherlands">
+  <data key="d2">3536.0</data>
+</edge>
+<edge source="Poland" target="New">
+  <data key="d2">6023.0</data>
+</edge>
+<edge source="Poland" target="Zealand">
+  <data key="d2">8747.0</data>
+</edge>
+<edge source="Poland" target="Nicaragua">
+  <data key="d2">132214.0</data>
+</edge>
+<edge source="Poland" target="Philippines">
+  <data key="d2">9174.0</data>
+</edge>
+<edge source="Poland" target="Romania">
+  <data key="d2">4650.0</data>
+</edge>
+<edge source="Poland" target="Seychelles">
+  <data key="d2">5510.0</data>
+</edge>
+<edge source="Poland" target="Singapore">
+  <data key="d2">84460.0</data>
+</edge>
+<edge source="Poland" target="Southern">
+  <data key="d2">3479.0</data>
+</edge>
+<edge source="Poland" target="Africa">
+  <data key="d2">6272.0</data>
+</edge>
+<edge source="Moldava." target="Argentina">
+  <data key="d2">10327.0</data>
+</edge>
+<edge source="Moldava." target="Australia">
+  <data key="d2">32204.0</data>
+</edge>
+<edge source="Moldava." target="Austria">
+  <data key="d2">22120.0</data>
+</edge>
+<edge source="Moldava." target="Belgium">
+  <data key="d2">43088.0</data>
+</edge>
+<edge source="Moldava." target="Belize">
+  <data key="d2">575.0</data>
+</edge>
+<edge source="Moldava." target="Bolivia">
+  <data key="d2">15059.0</data>
+</edge>
+<edge source="Moldava." target="Canada">
+  <data key="d2">6484.0</data>
+</edge>
+<edge source="Moldava." target="China">
+  <data key="d2">2865.0</data>
+</edge>
+<edge source="Moldava." target="Colombia">
+  <data key="d2">2321.0</data>
+</edge>
+<edge source="Moldava." target="Croatia">
+  <data key="d2">1241.0</data>
+</edge>
+<edge source="Moldava." target="Cyprus">
+  <data key="d2">7890.0</data>
+</edge>
+<edge source="Moldava." target="Czech">
+  <data key="d2">167793.0</data>
+</edge>
+<edge source="Moldava." target="Rep.">
+  <data key="d2">1308.0</data>
+</edge>
+<edge source="Moldava." target="El">
+  <data key="d2">105299.0</data>
+</edge>
+<edge source="Moldava." target="Salvador">
+  <data key="d2">6898.0</data>
+</edge>
+<edge source="Moldava." target="Finland">
+  <data key="d2">251479.0</data>
+</edge>
+<edge source="Moldava." target="Greece">
+  <data key="d2">13221.0</data>
+</edge>
+<edge source="Moldava." target="Guadeloupe">
+  <data key="d2">6599.0</data>
+</edge>
+<edge source="Moldava." target="Guatemala">
+  <data key="d2">4122.0</data>
+</edge>
+<edge source="Moldava." target="Hungary">
+  <data key="d2">30136.0</data>
+</edge>
+<edge source="Moldava." target="Iceland">
+  <data key="d2">59827.0</data>
+</edge>
+<edge source="Moldava." target="Indonesia">
+  <data key="d2">28814.0</data>
+</edge>
+<edge source="Moldava." target="Israel">
+  <data key="d2">2195.0</data>
+</edge>
+<edge source="Moldava." target="Italy">
+  <data key="d2">234.0</data>
+</edge>
+<edge source="Moldava." target="Of">
+  <data key="d2">1852.0</data>
+</edge>
+<edge source="Moldava." target="Kuwait">
+  <data key="d2">149173.0</data>
+</edge>
+<edge source="Moldava." target="Latvia">
+  <data key="d2">5164.0</data>
+</edge>
+<edge source="Moldava." target="Malaysia">
+  <data key="d2">206891.0</data>
+</edge>
+<edge source="Moldava." target="Mexico">
+  <data key="d2">861.0</data>
+</edge>
+<edge source="Moldava." target="Netherlands">
+  <data key="d2">6509.0</data>
+</edge>
+<edge source="Moldava." target="Zealand">
+  <data key="d2">21084.0</data>
+</edge>
+<edge source="Moldava." target="Pakistan">
+  <data key="d2">2826.0</data>
+</edge>
+<edge source="Moldava." target="Paraguay">
+  <data key="d2">33275.0</data>
+</edge>
+<edge source="Moldava." target="Peru">
+  <data key="d2">2867.0</data>
+</edge>
+<edge source="Moldava." target="Philippines">
+  <data key="d2">10219.0</data>
+</edge>
+<edge source="Moldava." target="Poland">
+  <data key="d2">23565.0</data>
+</edge>
+<edge source="Moldava." target="Seychelles">
+  <data key="d2">5582.0</data>
+</edge>
+<edge source="Moldava." target="Singapore">
+  <data key="d2">131895.0</data>
+</edge>
+<edge source="Moldava." target="Slovenia">
+  <data key="d2">153074.0</data>
+</edge>
+<edge source="Moldava." target="Africa">
+  <data key="d2">3286.0</data>
+</edge>
+<edge source="Reunion" target="Barbados">
+  <data key="d2">1061.0</data>
+</edge>
+<edge source="Reunion" target="/Lux.">
+  <data key="d2">151.0</data>
+</edge>
+<edge source="Romania" target="Algeria">
+  <data key="d2">6283.0</data>
+</edge>
+<edge source="Romania" target="Of">
+  <data key="d2">1849.0</data>
+</edge>
+<edge source="Seychelles" target="Algeria">
+  <data key="d2">7761.0</data>
+</edge>
+<edge source="Seychelles" target="France">
+  <data key="d2">4621.0</data>
+</edge>
+<edge source="Seychelles" target="India">
+  <data key="d2">1640.0</data>
+</edge>
+<edge source="Seychelles" target="Pakistan">
+  <data key="d2">1598.0</data>
+</edge>
+<edge source="Seychelles" target="Romania">
+  <data key="d2">6054.0</data>
+</edge>
+<edge source="Singapore" target="Algeria">
+  <data key="d2">6183.0</data>
+</edge>
+<edge source="Singapore" target="Argentina">
+  <data key="d2">9988.0</data>
+</edge>
+<edge source="Singapore" target="Australia">
+  <data key="d2">82737.0</data>
+</edge>
+<edge source="Singapore" target="Austria">
+  <data key="d2">28793.0</data>
+</edge>
+<edge source="Singapore" target="Barbados">
+  <data key="d2">3574.0</data>
+</edge>
+<edge source="Singapore" target="Belgium">
+  <data key="d2">109144.0</data>
+</edge>
+<edge source="Singapore" target="/Lux.">
+  <data key="d2">1067.0</data>
+</edge>
+<edge source="Singapore" target="Bolivia">
+  <data key="d2">9428.0</data>
+</edge>
+<edge source="Singapore" target="Brazil">
+  <data key="d2">78570.0</data>
+</edge>
+<edge source="Singapore" target="Canada">
+  <data key="d2">11294.0</data>
+</edge>
+<edge source="Singapore" target="Chile">
+  <data key="d2">45013.0</data>
+</edge>
+<edge source="Singapore" target="China">
+  <data key="d2">7956.0</data>
+</edge>
+<edge source="Singapore" target="Colombia">
+  <data key="d2">5563.0</data>
+</edge>
+<edge source="Singapore" target="Croatia">
+  <data key="d2">16821.0</data>
+</edge>
+<edge source="Singapore" target="Cyprus">
+  <data key="d2">12045.0</data>
+</edge>
+<edge source="Singapore" target="Czech">
+  <data key="d2">59006.0</data>
+</edge>
+<edge source="Singapore" target="Denmark">
+  <data key="d2">18523.0</data>
+</edge>
+<edge source="Singapore" target="Egypt">
+  <data key="d2">1066.0</data>
+</edge>
+<edge source="Singapore" target="El">
+  <data key="d2">36078.0</data>
+</edge>
+<edge source="Singapore" target="Salvador">
+  <data key="d2">17678.0</data>
+</edge>
+<edge source="Singapore" target="Finland">
+  <data key="d2">399199.0</data>
+</edge>
+<edge source="Singapore" target="France">
+  <data key="d2">16174.0</data>
+</edge>
+<edge source="Singapore" target="Germany">
+  <data key="d2">190501.0</data>
+</edge>
+<edge source="Singapore" target="Greece">
+  <data key="d2">16104.0</data>
+</edge>
+<edge source="Singapore" target="Guadeloupe">
+  <data key="d2">9822.0</data>
+</edge>
+<edge source="Singapore" target="Guatemala">
+  <data key="d2">19072.0</data>
+</edge>
+<edge source="Singapore" target="Honduras">
+  <data key="d2">13811.0</data>
+</edge>
+<edge source="Singapore" target="Hong">
+  <data key="d2">260930.0</data>
+</edge>
+<edge source="Singapore" target="Kong">
+  <data key="d2">31607.0</data>
+</edge>
+<edge source="Singapore" target="Hungary">
+  <data key="d2">177880.0</data>
+</edge>
+<edge source="Singapore" target="Iceland">
+  <data key="d2">67967.0</data>
+</edge>
+<edge source="Singapore" target="India">
+  <data key="d2">3315.0</data>
+</edge>
+<edge source="Singapore" target="Indonesia">
+  <data key="d2">108865.0</data>
+</edge>
+<edge source="Singapore" target="Ireland">
+  <data key="d2">20171.0</data>
+</edge>
+<edge source="Singapore" target="Israel">
+  <data key="d2">397.0</data>
+</edge>
+<edge source="Singapore" target="Italy">
+  <data key="d2">3550.0</data>
+</edge>
+<edge source="Singapore" target="Japan">
+  <data key="d2">42323.0</data>
+</edge>
+<edge source="Singapore" target="Korea.">
+  <data key="d2">4971.0</data>
+</edge>
+<edge source="Singapore" target="Of">
+  <data key="d2">28510.0</data>
+</edge>
+<edge source="Singapore" target="Kuwait">
+  <data key="d2">199080.0</data>
+</edge>
+<edge source="Singapore" target="Latvia">
+  <data key="d2">22291.0</data>
+</edge>
+<edge source="Singapore" target="Malaysia">
+  <data key="d2">410961.0</data>
+</edge>
+<edge source="Singapore" target="Martinique">
+  <data key="d2">11803.0</data>
+</edge>
+<edge source="Singapore" target="Mauritius">
+  <data key="d2">15832.0</data>
+</edge>
+<edge source="Singapore" target="Netherlands">
+  <data key="d2">2005.0</data>
+</edge>
+<edge source="Singapore" target="New">
+  <data key="d2">7705.0</data>
+</edge>
+<edge source="Singapore" target="Zealand">
+  <data key="d2">15021.0</data>
+</edge>
+<edge source="Singapore" target="Nicaragua">
+  <data key="d2">24761.0</data>
+</edge>
+<edge source="Singapore" target="Pakistan">
+  <data key="d2">2250.0</data>
+</edge>
+<edge source="Singapore" target="Panama">
+  <data key="d2">2833.0</data>
+</edge>
+<edge source="Singapore" target="Paraguay">
+  <data key="d2">86549.0</data>
+</edge>
+<edge source="Singapore" target="Philippines">
+  <data key="d2">64027.0</data>
+</edge>
+<edge source="Singapore" target="Poland">
+  <data key="d2">123163.0</data>
+</edge>
+<edge source="Singapore" target="Portugal">
+  <data key="d2">4798.0</data>
+</edge>
+<edge source="Singapore" target="Moldava.">
+  <data key="d2">124480.0</data>
+</edge>
+<edge source="Singapore" target="Rep.">
+  <data key="d2">46636.0</data>
+</edge>
+<edge source="Singapore" target="Reunion">
+  <data key="d2">4784.0</data>
+</edge>
+<edge source="Singapore" target="Romania">
+  <data key="d2">2560.0</data>
+</edge>
+<edge source="Singapore" target="Seychelles">
+  <data key="d2">25310.0</data>
+</edge>
+<edge source="Singapore" target="Slovenia">
+  <data key="d2">355999.0</data>
+</edge>
+<edge source="Singapore" target="Southern">
+  <data key="d2">984.0</data>
+</edge>
+<edge source="Singapore" target="Africa">
+  <data key="d2">4397.0</data>
+</edge>
+<edge source="Slovenia" target="Algeria">
+  <data key="d2">40151.0</data>
+</edge>
+<edge source="Slovenia" target="Argentina">
+  <data key="d2">147671.0</data>
+</edge>
+<edge source="Slovenia" target="Australia">
+  <data key="d2">250407.0</data>
+</edge>
+<edge source="Slovenia" target="Austria">
+  <data key="d2">37419.0</data>
+</edge>
+<edge source="Slovenia" target="Barbados">
+  <data key="d2">11210.0</data>
+</edge>
+<edge source="Slovenia" target="Bangladesh">
+  <data key="d2">1195.0</data>
+</edge>
+<edge source="Slovenia" target="Belgium">
+  <data key="d2">94976.0</data>
+</edge>
+<edge source="Slovenia" target="/Lux.">
+  <data key="d2">7062.0</data>
+</edge>
+<edge source="Slovenia" target="Belize">
+  <data key="d2">11062.0</data>
+</edge>
+<edge source="Slovenia" target="Bolivia">
+  <data key="d2">169859.0</data>
+</edge>
+<edge source="Slovenia" target="Brazil">
+  <data key="d2">3059240.0</data>
+</edge>
+<edge source="Slovenia" target="Canada">
+  <data key="d2">73311.0</data>
+</edge>
+<edge source="Slovenia" target="Chile">
+  <data key="d2">120410.0</data>
+</edge>
+<edge source="Slovenia" target="China">
+  <data key="d2">85382.0</data>
+</edge>
+<edge source="Slovenia" target="Colombia">
+  <data key="d2">1211.0</data>
+</edge>
+<edge source="Slovenia" target="Croatia">
+  <data key="d2">2709.0</data>
+</edge>
+<edge source="Slovenia" target="Czech">
+  <data key="d2">22108.0</data>
+</edge>
+<edge source="Slovenia" target="Rep.">
+  <data key="d2">47707.0</data>
+</edge>
+<edge source="Slovenia" target="Denmark">
+  <data key="d2">33476.0</data>
+</edge>
+<edge source="Slovenia" target="Ecuador">
+  <data key="d2">21231.0</data>
+</edge>
+<edge source="Slovenia" target="Egypt">
+  <data key="d2">800.0</data>
+</edge>
+<edge source="Slovenia" target="El">
+  <data key="d2">27014.0</data>
+</edge>
+<edge source="Slovenia" target="Salvador">
+  <data key="d2">5786.0</data>
+</edge>
+<edge source="Slovenia" target="Fiji">
+  <data key="d2">556.0</data>
+</edge>
+<edge source="Slovenia" target="Finland">
+  <data key="d2">422693.0</data>
+</edge>
+<edge source="Slovenia" target="France">
+  <data key="d2">12213.0</data>
+</edge>
+<edge source="Slovenia" target="Mon.">
+  <data key="d2">2141.0</data>
+</edge>
+<edge source="Slovenia" target="French">
+  <data key="d2">29274.0</data>
+</edge>
+<edge source="Slovenia" target="Guiana">
+  <data key="d2">17983.0</data>
+</edge>
+<edge source="Slovenia" target="Germany">
+  <data key="d2">152931.0</data>
+</edge>
+<edge source="Slovenia" target="Greece">
+  <data key="d2">7496.0</data>
+</edge>
+<edge source="Slovenia" target="Guadeloupe">
+  <data key="d2">2828.0</data>
+</edge>
+<edge source="Slovenia" target="Guatemala">
+  <data key="d2">29306.0</data>
+</edge>
+<edge source="Slovenia" target="Honduras">
+  <data key="d2">62471.0</data>
+</edge>
+<edge source="Slovenia" target="Hong">
+  <data key="d2">71520.0</data>
+</edge>
+<edge source="Slovenia" target="Kong">
+  <data key="d2">99026.0</data>
+</edge>
+<edge source="Slovenia" target="Hungary">
+  <data key="d2">113558.0</data>
+</edge>
+<edge source="Slovenia" target="Iceland">
+  <data key="d2">680292.0</data>
+</edge>
+<edge source="Slovenia" target="India">
+  <data key="d2">2619.0</data>
+</edge>
+<edge source="Slovenia" target="Indonesia">
+  <data key="d2">286198.0</data>
+</edge>
+<edge source="Slovenia" target="Ireland">
+  <data key="d2">14070.0</data>
+</edge>
+<edge source="Slovenia" target="Italy">
+  <data key="d2">786.0</data>
+</edge>
+<edge source="Slovenia" target="Japan">
+  <data key="d2">76791.0</data>
+</edge>
+<edge source="Slovenia" target="Jordan">
+  <data key="d2">1433.0</data>
+</edge>
+<edge source="Slovenia" target="Korea.">
+  <data key="d2">480.0</data>
+</edge>
+<edge source="Slovenia" target="Of">
+  <data key="d2">181924.0</data>
+</edge>
+<edge source="Slovenia" target="Kuwait">
+  <data key="d2">102783.0</data>
+</edge>
+<edge source="Slovenia" target="Latvia">
+  <data key="d2">40786.0</data>
+</edge>
+<edge source="Slovenia" target="Madagascar">
+  <data key="d2">5598.0</data>
+</edge>
+<edge source="Slovenia" target="Malaysia">
+  <data key="d2">55418.0</data>
+</edge>
+<edge source="Slovenia" target="Martinique">
+  <data key="d2">2786.0</data>
+</edge>
+<edge source="Slovenia" target="Mauritius">
+  <data key="d2">4387.0</data>
+</edge>
+<edge source="Slovenia" target="Mexico">
+  <data key="d2">33670.0</data>
+</edge>
+<edge source="Slovenia" target="Morocco">
+  <data key="d2">2808.0</data>
+</edge>
+<edge source="Slovenia" target="Netherlands">
+  <data key="d2">44921.0</data>
+</edge>
+<edge source="Slovenia" target="New">
+  <data key="d2">103484.0</data>
+</edge>
+<edge source="Slovenia" target="Zealand">
+  <data key="d2">9890.0</data>
+</edge>
+<edge source="Slovenia" target="Nicaragua">
+  <data key="d2">5617.0</data>
+</edge>
+<edge source="Slovenia" target="Paraguay">
+  <data key="d2">202843.0</data>
+</edge>
+<edge source="Slovenia" target="Philippines">
+  <data key="d2">64465.0</data>
+</edge>
+<edge source="Slovenia" target="Poland">
+  <data key="d2">65224.0</data>
+</edge>
+<edge source="Slovenia" target="Portugal">
+  <data key="d2">2902.0</data>
+</edge>
+<edge source="Slovenia" target="Moldava.">
+  <data key="d2">70568.0</data>
+</edge>
+<edge source="Slovenia" target="Reunion">
+  <data key="d2">23795.0</data>
+</edge>
+<edge source="Slovenia" target="Romania">
+  <data key="d2">7717.0</data>
+</edge>
+<edge source="Slovenia" target="Seychelles">
+  <data key="d2">19258.0</data>
+</edge>
+<edge source="Slovenia" target="Singapore">
+  <data key="d2">469992.0</data>
+</edge>
+<edge source="Slovenia" target="Southern">
+  <data key="d2">4898.0</data>
+</edge>
+<edge source="Slovenia" target="Africa">
+  <data key="d2">93511.0</data>
+</edge>
+<edge source="Africa" target="Belize">
+  <data key="d2">1503.0</data>
+</edge>
+<edge source="Africa" target="Canada">
+  <data key="d2">7886.0</data>
+</edge>
+<edge source="Africa" target="China">
+  <data key="d2">23556.0</data>
+</edge>
+<edge source="Africa" target="Rep.">
+  <data key="d2">2837.0</data>
+</edge>
+<edge source="Africa" target="French">
+  <data key="d2">2330.0</data>
+</edge>
+<edge source="Africa" target="Guiana">
+  <data key="d2">489.0</data>
+</edge>
+<edge source="Africa" target="Madagascar">
+  <data key="d2">2994.0</data>
+</edge>
+<edge source="Africa" target="Mexico">
+  <data key="d2">3293.0</data>
+</edge>
+<edge source="Africa" target="Morocco">
+  <data key="d2">1486.0</data>
+</edge>
+<edge source="Africa" target="Netherlands">
+  <data key="d2">10377.0</data>
+</edge>
+<edge source="Africa" target="Reunion">
+  <data key="d2">1401.0</data>
+</edge>
+</graph></graphml>

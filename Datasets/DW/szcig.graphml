@@ -1,0 +1,453 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">CASOS</data>
+<node id="VAG">
+  <data key="d1">agent</data>
+</node>
+<node id="DEUBK">
+  <data key="d1">agent</data>
+</node>
+<node id="ALINZ">
+  <data key="d1">agent</data>
+</node>
+<node id="SIEMN">
+  <data key="d1">agent</data>
+</node>
+<node id="RUHRK">
+  <data key="d1">agent</data>
+</node>
+<node id="DIMLR">
+  <data key="d1">agent</data>
+</node>
+<node id="HAPAG">
+  <data key="d1">agent</data>
+</node>
+<node id="KRUPP">
+  <data key="d1">agent</data>
+</node>
+<node id="RWE">
+  <data key="d1">agent</data>
+</node>
+<node id="KREDT">
+  <data key="d1">agent</data>
+</node>
+<node id="THYSN">
+  <data key="d1">agent</data>
+</node>
+<node id="MANES">
+  <data key="d1">agent</data>
+</node>
+<node id="DRESB">
+  <data key="d1">agent</data>
+</node>
+<node id="KARST">
+  <data key="d1">agent</data>
+</node>
+<node id="VEBA">
+  <data key="d1">agent</data>
+</node>
+<edge source="VAG" target="DEUBK">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="VAG" target="ALINZ">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="VAG" target="RUHRK">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="VAG" target="KRUPP">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="VAG" target="RWE">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="VAG" target="KREDT">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="VAG" target="THYSN">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="VAG" target="MANES">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="VAG" target="DRESB">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="VAG" target="KARST">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="DEUBK" target="VAG">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="DEUBK" target="ALINZ">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="DEUBK" target="SIEMN">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="DEUBK" target="RUHRK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="DEUBK" target="DIMLR">
+  <data key="d2">4.0</data>
+</edge>
+<edge source="DEUBK" target="HAPAG">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="DEUBK" target="RWE">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="DEUBK" target="KREDT">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="DEUBK" target="THYSN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="DEUBK" target="MANES">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="DEUBK" target="KARST">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="ALINZ" target="VAG">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ALINZ" target="DEUBK">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="ALINZ" target="SIEMN">
+  <data key="d2">6.0</data>
+</edge>
+<edge source="ALINZ" target="RUHRK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ALINZ" target="DIMLR">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="ALINZ" target="HAPAG">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="ALINZ" target="KRUPP">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ALINZ" target="RWE">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="ALINZ" target="THYSN">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="ALINZ" target="MANES">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="ALINZ" target="DRESB">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ALINZ" target="KARST">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="SIEMN" target="DEUBK">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="SIEMN" target="ALINZ">
+  <data key="d2">6.0</data>
+</edge>
+<edge source="SIEMN" target="RUHRK">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="SIEMN" target="DIMLR">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="SIEMN" target="HAPAG">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="SIEMN" target="THYSN">
+  <data key="d2">4.0</data>
+</edge>
+<edge source="SIEMN" target="MANES">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="SIEMN" target="DRESB">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RUHRK" target="VAG">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="RUHRK" target="DEUBK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RUHRK" target="ALINZ">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RUHRK" target="SIEMN">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="RUHRK" target="DIMLR">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RUHRK" target="HAPAG">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RUHRK" target="KRUPP">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="RUHRK" target="RWE">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RUHRK" target="KREDT">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RUHRK" target="THYSN">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="RUHRK" target="MANES">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RUHRK" target="DRESB">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="DIMLR" target="DEUBK">
+  <data key="d2">4.0</data>
+</edge>
+<edge source="DIMLR" target="ALINZ">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="DIMLR" target="SIEMN">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="DIMLR" target="RUHRK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="DIMLR" target="HAPAG">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="DIMLR" target="KRUPP">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="DIMLR" target="RWE">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="DIMLR" target="THYSN">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="DIMLR" target="DRESB">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HAPAG" target="DEUBK">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="HAPAG" target="ALINZ">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="HAPAG" target="SIEMN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HAPAG" target="RUHRK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HAPAG" target="DIMLR">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HAPAG" target="KRUPP">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HAPAG" target="RWE">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HAPAG" target="THYSN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HAPAG" target="DRESB">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="HAPAG" target="KARST">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KRUPP" target="VAG">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="KRUPP" target="ALINZ">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KRUPP" target="RUHRK">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="KRUPP" target="DIMLR">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="KRUPP" target="HAPAG">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KRUPP" target="RWE">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="KRUPP" target="KREDT">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KRUPP" target="THYSN">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="KRUPP" target="DRESB">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="RWE" target="VAG">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="RWE" target="DEUBK">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="RWE" target="ALINZ">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="RWE" target="RUHRK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RWE" target="DIMLR">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="RWE" target="HAPAG">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RWE" target="KRUPP">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="RWE" target="KREDT">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="RWE" target="THYSN">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="RWE" target="DRESB">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RWE" target="KARST">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KREDT" target="VAG">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="KREDT" target="DEUBK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KREDT" target="RUHRK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KREDT" target="KRUPP">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KREDT" target="RWE">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="KREDT" target="THYSN">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="KREDT" target="MANES">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KREDT" target="KARST">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="THYSN" target="VAG">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="THYSN" target="DEUBK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="THYSN" target="ALINZ">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="THYSN" target="SIEMN">
+  <data key="d2">4.0</data>
+</edge>
+<edge source="THYSN" target="RUHRK">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="THYSN" target="DIMLR">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="THYSN" target="HAPAG">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="THYSN" target="KRUPP">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="THYSN" target="RWE">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="THYSN" target="KREDT">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="THYSN" target="DRESB">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MANES" target="VAG">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MANES" target="DEUBK">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="MANES" target="ALINZ">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="MANES" target="SIEMN">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="MANES" target="RUHRK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MANES" target="KREDT">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="DRESB" target="VAG">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="DRESB" target="ALINZ">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="DRESB" target="SIEMN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="DRESB" target="RUHRK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="DRESB" target="DIMLR">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="DRESB" target="HAPAG">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="DRESB" target="KRUPP">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="DRESB" target="RWE">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="DRESB" target="THYSN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="DRESB" target="KARST">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KARST" target="VAG">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KARST" target="DEUBK">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="KARST" target="ALINZ">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KARST" target="HAPAG">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KARST" target="RWE">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KARST" target="KREDT">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KARST" target="DRESB">
+  <data key="d2">1.0</data>
+</edge>
+</graph></graphml>

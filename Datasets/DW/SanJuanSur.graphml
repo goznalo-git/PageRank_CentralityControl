@@ -1,0 +1,822 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">CASOS</data>
+<node id="f1">
+  <data key="d1">agent</data>
+</node>
+<node id="f2">
+  <data key="d1">agent</data>
+</node>
+<node id="f3">
+  <data key="d1">agent</data>
+</node>
+<node id="f4">
+  <data key="d1">agent</data>
+</node>
+<node id="f5">
+  <data key="d1">agent</data>
+</node>
+<node id="f6">
+  <data key="d1">agent</data>
+</node>
+<node id="f7">
+  <data key="d1">agent</data>
+</node>
+<node id="f8">
+  <data key="d1">agent</data>
+</node>
+<node id="f9">
+  <data key="d1">agent</data>
+</node>
+<node id="f10">
+  <data key="d1">agent</data>
+</node>
+<node id="f11">
+  <data key="d1">agent</data>
+</node>
+<node id="f12">
+  <data key="d1">agent</data>
+</node>
+<node id="f13">
+  <data key="d1">agent</data>
+</node>
+<node id="f14">
+  <data key="d1">agent</data>
+</node>
+<node id="f15">
+  <data key="d1">agent</data>
+</node>
+<node id="v16">
+  <data key="d1">agent</data>
+</node>
+<node id="f17">
+  <data key="d1">agent</data>
+</node>
+<node id="f18">
+  <data key="d1">agent</data>
+</node>
+<node id="f19">
+  <data key="d1">agent</data>
+</node>
+<node id="f20">
+  <data key="d1">agent</data>
+</node>
+<node id="f21">
+  <data key="d1">agent</data>
+</node>
+<node id="f22">
+  <data key="d1">agent</data>
+</node>
+<node id="f23">
+  <data key="d1">agent</data>
+</node>
+<node id="f24">
+  <data key="d1">agent</data>
+</node>
+<node id="f25">
+  <data key="d1">agent</data>
+</node>
+<node id="f26">
+  <data key="d1">agent</data>
+</node>
+<node id="f27">
+  <data key="d1">agent</data>
+</node>
+<node id="f28">
+  <data key="d1">agent</data>
+</node>
+<node id="f29">
+  <data key="d1">agent</data>
+</node>
+<node id="f30">
+  <data key="d1">agent</data>
+</node>
+<node id="f31">
+  <data key="d1">agent</data>
+</node>
+<node id="f32">
+  <data key="d1">agent</data>
+</node>
+<node id="f33">
+  <data key="d1">agent</data>
+</node>
+<node id="f34">
+  <data key="d1">agent</data>
+</node>
+<node id="f35">
+  <data key="d1">agent</data>
+</node>
+<node id="f36">
+  <data key="d1">agent</data>
+</node>
+<node id="f37">
+  <data key="d1">agent</data>
+</node>
+<node id="f38">
+  <data key="d1">agent</data>
+</node>
+<node id="f39">
+  <data key="d1">agent</data>
+</node>
+<node id="f40">
+  <data key="d1">agent</data>
+</node>
+<node id="f41">
+  <data key="d1">agent</data>
+</node>
+<node id="f42">
+  <data key="d1">agent</data>
+</node>
+<node id="f43">
+  <data key="d1">agent</data>
+</node>
+<node id="f44">
+  <data key="d1">agent</data>
+</node>
+<node id="f45">
+  <data key="d1">agent</data>
+</node>
+<node id="f46">
+  <data key="d1">agent</data>
+</node>
+<node id="f47">
+  <data key="d1">agent</data>
+</node>
+<node id="f48">
+  <data key="d1">agent</data>
+</node>
+<node id="f49">
+  <data key="d1">agent</data>
+</node>
+<node id="f50">
+  <data key="d1">agent</data>
+</node>
+<node id="f51">
+  <data key="d1">agent</data>
+</node>
+<node id="f52">
+  <data key="d1">agent</data>
+</node>
+<node id="f53">
+  <data key="d1">agent</data>
+</node>
+<node id="f54">
+  <data key="d1">agent</data>
+</node>
+<node id="f55">
+  <data key="d1">agent</data>
+</node>
+<node id="f56">
+  <data key="d1">agent</data>
+</node>
+<node id="f57">
+  <data key="d1">agent</data>
+</node>
+<node id="f58">
+  <data key="d1">agent</data>
+</node>
+<node id="f59">
+  <data key="d1">agent</data>
+</node>
+<node id="f60">
+  <data key="d1">agent</data>
+</node>
+<node id="f61">
+  <data key="d1">agent</data>
+</node>
+<node id="f62">
+  <data key="d1">agent</data>
+</node>
+<node id="f63">
+  <data key="d1">agent</data>
+</node>
+<node id="f64">
+  <data key="d1">agent</data>
+</node>
+<node id="f65">
+  <data key="d1">agent</data>
+</node>
+<node id="f66">
+  <data key="d1">agent</data>
+</node>
+<node id="f67">
+  <data key="d1">agent</data>
+</node>
+<node id="f68">
+  <data key="d1">agent</data>
+</node>
+<node id="f69">
+  <data key="d1">agent</data>
+</node>
+<node id="f70">
+  <data key="d1">agent</data>
+</node>
+<node id="f71">
+  <data key="d1">agent</data>
+</node>
+<node id="f72">
+  <data key="d1">agent</data>
+</node>
+<node id="f73">
+  <data key="d1">agent</data>
+</node>
+<node id="f74">
+  <data key="d1">agent</data>
+</node>
+<node id="f75">
+  <data key="d1">agent</data>
+</node>
+<edge source="f1" target="f71">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f1" target="f72">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f1" target="f75">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f2" target="f27">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f2" target="f64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f3" target="f20">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f3" target="f24">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f3" target="f32">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f4" target="f25">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f4" target="f34">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f4" target="f40">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f5" target="f4">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f5" target="f58">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f6" target="f24">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f6" target="f34">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f6" target="f61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f7" target="f31">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f7" target="f34">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f8" target="f47">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f8" target="f55">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f8" target="f56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f9" target="f8">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f9" target="f11">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f9" target="f32">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f10" target="f13">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f10" target="f51">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f10" target="f74">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f11" target="f9">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f11" target="f32">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f11" target="f47">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f12" target="f8">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f12" target="f9">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f12" target="f11">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f13" target="f10">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f13" target="f34">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f13" target="f39">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f14" target="f3">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f14" target="f69">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f15" target="f45">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f15" target="f66">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="v16" target="f17">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="v16" target="f33">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="v16" target="f60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f17" target="f14">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f17" target="f39">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f18" target="f4">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f18" target="f7">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f18" target="f39">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f19" target="f7">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f19" target="f34">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f19" target="f75">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f20" target="f3">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f20" target="f24">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f20" target="f32">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f21" target="f20">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f21" target="f22">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f21" target="f23">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f22" target="f10">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f22" target="f21">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f22" target="f23">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f23" target="f6">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f23" target="f21">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f23" target="f22">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f24" target="f6">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f24" target="f20">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f24" target="f61">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f25" target="f4">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f25" target="f69">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f26" target="f3">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f26" target="f27">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f27" target="f26">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f28" target="f29">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f28" target="f73">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f28" target="f74">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f29" target="f28">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f30" target="f15">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f30" target="f39">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f30" target="f66">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f31" target="f7">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f31" target="f34">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f31" target="f40">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f32" target="f9">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f32" target="f11">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f32" target="f20">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f33" target="f9">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f33" target="f11">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f34" target="f7">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f34" target="f31">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f34" target="f48">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f35" target="f9">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f35" target="f31">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f35" target="f34">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f36" target="f5">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f36" target="f8">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f36" target="f38">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f37" target="f38">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f37" target="f57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f37" target="f63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f38" target="f36">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f38" target="f46">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f38" target="f63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f39" target="f15">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f39" target="f30">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f39" target="f34">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f40" target="f4">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f40" target="f34">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f40" target="f41">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f41" target="f4">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f41" target="f34">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f41" target="f40">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f42" target="f9">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f42" target="f45">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f43" target="f45">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f43" target="f66">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f44" target="f45">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f45" target="f15">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f45" target="f42">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f45" target="f43">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f46" target="f8">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f46" target="f38">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f47" target="f8">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f47" target="f11">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f47" target="f32">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f48" target="f7">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f48" target="f31">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f48" target="f34">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f49" target="f10">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f49" target="f51">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f50" target="f34">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f51" target="f10">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f51" target="f52">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f51" target="f60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f52" target="f60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f53" target="f45">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f53" target="f52">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f53" target="f60">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f54" target="f1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f54" target="f56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f54" target="f71">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f55" target="f8">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f55" target="f56">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f55" target="f64">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f56" target="f8">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f56" target="f55">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f56" target="f71">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f57" target="f38">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f57" target="f45">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f57" target="f63">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f58" target="f5">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f58" target="f25">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f59" target="f41">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f59" target="f74">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f59" target="f75">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f60" target="f51">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f60" target="f52">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f61" target="f6">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f61" target="f22">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f61" target="f24">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f62" target="f65">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f62" target="f66">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f62" target="f68">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f63" target="f37">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f63" target="f38">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f63" target="f57">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f64" target="f39">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f64" target="f55">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f65" target="f62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f65" target="f69">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f65" target="f73">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f66" target="f7">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f66" target="f45">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f66" target="f62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f67" target="f62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f67" target="f66">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f67" target="f68">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f68" target="f19">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f68" target="f62">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f68" target="f67">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f69" target="f4">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f69" target="f7">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f69" target="f25">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f70" target="f37">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f70" target="f38">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f71" target="f1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f71" target="f54">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f71" target="f72">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f72" target="f1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f72" target="f9">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f72" target="f71">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f73" target="f10">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f73" target="f74">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f73" target="f75">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f74" target="f10">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f74" target="f73">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f75" target="f31">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f75" target="f73">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="f75" target="f74">
+  <data key="d2">1.0</data>
+</edge>
+</graph></graphml>

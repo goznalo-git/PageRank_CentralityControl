@@ -1,0 +1,402 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">CASOS</data>
+<node id="GAVEV">
+  <data key="d1">agent</data>
+</node>
+<node id="KOTUN">
+  <data key="d1">agent</data>
+</node>
+<node id="OVE">
+  <data key="d1">agent</data>
+</node>
+<node id="ALIKA">
+  <data key="d1">agent</data>
+</node>
+<node id="NAGAM">
+  <data key="d1">agent</data>
+</node>
+<node id="GAHUK">
+  <data key="d1">agent</data>
+</node>
+<node id="MASIL">
+  <data key="d1">agent</data>
+</node>
+<node id="UKUDZ">
+  <data key="d1">agent</data>
+</node>
+<node id="NOTOH">
+  <data key="d1">agent</data>
+</node>
+<node id="KOHIK">
+  <data key="d1">agent</data>
+</node>
+<node id="GEHAM">
+  <data key="d1">agent</data>
+</node>
+<node id="ASARO">
+  <data key="d1">agent</data>
+</node>
+<node id="UHETO">
+  <data key="d1">agent</data>
+</node>
+<node id="SEUVE">
+  <data key="d1">agent</data>
+</node>
+<node id="NAGAD">
+  <data key="d1">agent</data>
+</node>
+<node id="GAMA">
+  <data key="d1">agent</data>
+</node>
+<edge source="GAVEV" target="KOTUN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAVEV" target="NAGAD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAVEV" target="GAMA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAVEV" target="OVE">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAVEV" target="ALIKA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAVEV" target="NAGAM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAVEV" target="GAHUK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAVEV" target="ASARO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KOTUN" target="GAVEV">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KOTUN" target="NAGAD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KOTUN" target="GAMA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KOTUN" target="OVE">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KOTUN" target="NAGAM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KOTUN" target="GAHUK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KOTUN" target="NOTOH">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KOTUN" target="KOHIK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="OVE" target="ALIKA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="OVE" target="GAHUK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="OVE" target="MASIL">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="OVE" target="UKUDZ">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="OVE" target="GAVEV">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="OVE" target="KOTUN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ALIKA" target="OVE">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ALIKA" target="UKUDZ">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ALIKA" target="GAVEV">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NAGAM" target="MASIL">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NAGAM" target="NOTOH">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NAGAM" target="SEUVE">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NAGAM" target="GAVEV">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NAGAM" target="KOTUN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NAGAM" target="NAGAD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NAGAM" target="GAMA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAHUK" target="OVE">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAHUK" target="MASIL">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAHUK" target="UKUDZ">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAHUK" target="GEHAM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAHUK" target="ASARO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAHUK" target="GAVEV">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAHUK" target="KOTUN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAHUK" target="NOTOH">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAHUK" target="UHETO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAHUK" target="GAMA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MASIL" target="OVE">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MASIL" target="NAGAM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MASIL" target="GAHUK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MASIL" target="UKUDZ">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MASIL" target="GEHAM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MASIL" target="ASARO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MASIL" target="UHETO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UKUDZ" target="OVE">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UKUDZ" target="ALIKA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UKUDZ" target="GAHUK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UKUDZ" target="MASIL">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UKUDZ" target="GEHAM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UKUDZ" target="ASARO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UKUDZ" target="SEUVE">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NOTOH" target="NAGAM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NOTOH" target="KOHIK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NOTOH" target="UHETO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NOTOH" target="KOTUN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NOTOH" target="GAHUK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NOTOH" target="GEHAM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NOTOH" target="NAGAD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KOHIK" target="NOTOH">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KOHIK" target="UHETO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KOHIK" target="KOTUN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KOHIK" target="GEHAM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KOHIK" target="NAGAD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GEHAM" target="GAHUK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GEHAM" target="MASIL">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GEHAM" target="UKUDZ">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GEHAM" target="ASARO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GEHAM" target="NOTOH">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GEHAM" target="KOHIK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GEHAM" target="UHETO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GEHAM" target="NAGAD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GEHAM" target="GAMA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ASARO" target="GAHUK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ASARO" target="MASIL">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ASARO" target="UKUDZ">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ASARO" target="GEHAM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ASARO" target="GAVEV">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ASARO" target="SEUVE">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ASARO" target="NAGAD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ASARO" target="GAMA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UHETO" target="MASIL">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UHETO" target="NOTOH">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UHETO" target="KOHIK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UHETO" target="SEUVE">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UHETO" target="GAHUK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UHETO" target="GEHAM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UHETO" target="NAGAD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UHETO" target="GAMA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="SEUVE" target="NAGAM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="SEUVE" target="UHETO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="SEUVE" target="UKUDZ">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="SEUVE" target="ASARO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="SEUVE" target="GAMA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NAGAD" target="GAVEV">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NAGAD" target="KOTUN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NAGAD" target="GAMA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NAGAD" target="NAGAM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NAGAD" target="NOTOH">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NAGAD" target="KOHIK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NAGAD" target="GEHAM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NAGAD" target="ASARO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NAGAD" target="UHETO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAMA" target="GAVEV">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAMA" target="KOTUN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAMA" target="NAGAD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAMA" target="NAGAM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAMA" target="GAHUK">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAMA" target="GEHAM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAMA" target="ASARO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAMA" target="UHETO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="GAMA" target="SEUVE">
+  <data key="d2">1.0</data>
+</edge>
+</graph></graphml>

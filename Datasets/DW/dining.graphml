@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">CASOS</data>
+<node id="Ada">
+  <data key="d1">agent</data>
+</node>
+<node id="Cora">
+  <data key="d1">agent</data>
+</node>
+<node id="Louise">
+  <data key="d1">agent</data>
+</node>
+<node id="Jean">
+  <data key="d1">agent</data>
+</node>
+<node id="Helen">
+  <data key="d1">agent</data>
+</node>
+<node id="Martha">
+  <data key="d1">agent</data>
+</node>
+<node id="Alice">
+  <data key="d1">agent</data>
+</node>
+<node id="Robin">
+  <data key="d1">agent</data>
+</node>
+<node id="Marion">
+  <data key="d1">agent</data>
+</node>
+<node id="Maxine">
+  <data key="d1">agent</data>
+</node>
+<node id="Lena">
+  <data key="d1">agent</data>
+</node>
+<node id="Hazel">
+  <data key="d1">agent</data>
+</node>
+<node id="Hilda">
+  <data key="d1">agent</data>
+</node>
+<node id="Frances">
+  <data key="d1">agent</data>
+</node>
+<node id="Eva">
+  <data key="d1">agent</data>
+</node>
+<node id="Ruth">
+  <data key="d1">agent</data>
+</node>
+<node id="Edna">
+  <data key="d1">agent</data>
+</node>
+<node id="Adele">
+  <data key="d1">agent</data>
+</node>
+<node id="Jane">
+  <data key="d1">agent</data>
+</node>
+<node id="Anna">
+  <data key="d1">agent</data>
+</node>
+<node id="Mary">
+  <data key="d1">agent</data>
+</node>
+<node id="Betty">
+  <data key="d1">agent</data>
+</node>
+<node id="Ella">
+  <data key="d1">agent</data>
+</node>
+<node id="Ellen">
+  <data key="d1">agent</data>
+</node>
+<node id="Laura">
+  <data key="d1">agent</data>
+</node>
+<node id="Irene">
+  <data key="d1">agent</data>
+</node>
+<edge source="Ada" target="Cora">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ada" target="Louise">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Cora" target="Ada">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cora" target="Jean">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Louise" target="Marion">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Louise" target="Lena">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Jean" target="Helen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Jean" target="Robin">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Helen" target="Jean">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Helen" target="Eva">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Martha" target="Marion">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Martha" target="Anna">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Alice" target="Martha">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Alice" target="Eva">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Robin" target="Helen">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Robin" target="Eva">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Marion" target="Martha">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Marion" target="Frances">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Maxine" target="Eva">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Maxine" target="Adele">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lena" target="Louise">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Lena" target="Marion">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Hazel" target="Hilda">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Hazel" target="Anna">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Hilda" target="Hazel">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Hilda" target="Betty">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Frances" target="Marion">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Frances" target="Eva">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Eva" target="Marion">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Eva" target="Maxine">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ruth" target="Hilda">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Ruth" target="Jane">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Edna" target="Adele">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Edna" target="Mary">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Adele" target="Marion">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Adele" target="Frances">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Jane" target="Adele">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Jane" target="Mary">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Anna" target="Maxine">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Anna" target="Lena">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Mary" target="Edna">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mary" target="Jane">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Betty" target="Hilda">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Betty" target="Edna">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ella" target="Helen">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Ella" target="Ellen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ellen" target="Edna">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Ellen" target="Anna">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Laura" target="Eva">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Laura" target="Edna">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Irene" target="Hilda">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Irene" target="Ellen">
+  <data key="d2">2.0</data>
+</edge>
+</graph></graphml>

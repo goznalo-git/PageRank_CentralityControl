@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">CASOS</data>
+<node id="Adelaide">
+  <data key="d1">Agent</data>
+</node>
+<node id="Affair">
+  <data key="d1">Agent</data>
+</node>
+<node id="Allen">
+  <data key="d1">Agent</data>
+</node>
+<node id="Asa">
+  <data key="d1">Agent</data>
+</node>
+<node id="Asa Harmon">
+  <data key="d1">Agent</data>
+</node>
+<node id="Bud">
+  <data key="d1">Agent</data>
+</node>
+<node id="Calvin">
+  <data key="d1">Agent</data>
+</node>
+<node id="Elizabeth M">
+  <data key="d1">Agent</data>
+</node>
+<node id="Fanny">
+  <data key="d1">Agent</data>
+</node>
+<node id="Floyd M">
+  <data key="d1">Agent</data>
+</node>
+<node id="Frank">
+  <data key="d1">Agent</data>
+</node>
+<node id="Jacob">
+  <data key="d1">Agent</data>
+</node>
+<node id="Jeff">
+  <data key="d1">Agent</data>
+</node>
+<node id="Josephine">
+  <data key="d1">Agent</data>
+</node>
+<node id="Larkin">
+  <data key="d1">Agent</data>
+</node>
+<node id="Liburn">
+  <data key="d1">Agent</data>
+</node>
+<node id="Lorenzo">
+  <data key="d1">Agent</data>
+</node>
+<node id="Mary Katherine">
+  <data key="d1">Agent</data>
+</node>
+<node id="Mary M">
+  <data key="d1">Agent</data>
+</node>
+<node id="Nancy M">
+  <data key="d1">Agent</data>
+</node>
+<node id="Paris">
+  <data key="d1">Agent</data>
+</node>
+<node id="Pharmer">
+  <data key="d1">Agent</data>
+</node>
+<node id="Randolph">
+  <data key="d1">Agent</data>
+</node>
+<node id="Randolph Jr">
+  <data key="d1">Agent</data>
+</node>
+<node id="Roseanna">
+  <data key="d1">Agent</data>
+</node>
+<node id="Sally">
+  <data key="d1">Agent</data>
+</node>
+<node id="Sam">
+  <data key="d1">Agent</data>
+</node>
+<node id="Samuel">
+  <data key="d1">Agent</data>
+</node>
+<node id="Sarah">
+  <data key="d1">Agent</data>
+</node>
+<node id="Selkirk">
+  <data key="d1">Agent</data>
+</node>
+<node id="Tolbert">
+  <data key="d1">Agent</data>
+</node>
+<node id="Trinvilla">
+  <data key="d1">Agent</data>
+</node>
+<node id="Uncle Jim">
+  <data key="d1">Agent</data>
+</node>
+<node id="William M">
+  <data key="d1">Agent</data>
+</node>
+<node id="William">
+  <data key="d1">Agent</data>
+</node>
+<node id="William Stanton">
+  <data key="d1">Agent</data>
+</node>
+<node id="America">
+  <data key="d1">Agent</data>
+</node>
+<node id="Bad Lias">
+  <data key="d1">Agent</data>
+</node>
+<node id="Big Eaf">
+  <data key="d1">Agent</data>
+</node>
+<node id="Deacon">
+  <data key="d1">Agent</data>
+</node>
+<node id="Devil Anse">
+  <data key="d1">Agent</data>
+</node>
+<node id="Elias">
+  <data key="d1">Agent</data>
+</node>
+<node id="Eliason">
+  <data key="d1">Agent</data>
+</node>
+<node id="Eliason Mounts">
+  <data key="d1">Agent</data>
+</node>
+<node id="Elizabeth H">
+  <data key="d1">Agent</data>
+</node>
+<node id="Elliott">
+  <data key="d1">Agent</data>
+</node>
+<node id="Ephraim">
+  <data key="d1">Agent</data>
+</node>
+<node id="Floyd H">
+  <data key="d1">Agent</data>
+</node>
+<node id="Good Lias">
+  <data key="d1">Agent</data>
+</node>
+<node id="Henry D">
+  <data key="d1">Agent</data>
+</node>
+<node id="Jacon">
+  <data key="d1">Agent</data>
+</node>
+<node id="Jim Vance">
+  <data key="d1">Agent</data>
+</node>
+<node id="Jonse">
+  <data key="d1">Agent</data>
+</node>
+<node id="Joseph">
+  <data key="d1">Agent</data>
+</node>
+<node id="Martha">
+  <data key="d1">Agent</data>
+</node>
+<node id="Mary H">
+  <data key="d1">Agent</data>
+</node>
+<node id="Nancy H">
+  <data key="d1">Agent</data>
+</node>
+<node id="Preacher">
+  <data key="d1">Agent</data>
+</node>
+<node id="Robt E Lee">
+  <data key="d1">Agent</data>
+</node>
+<node id="Rosada">
+  <data key="d1">Agent</data>
+</node>
+<node id="Stanton">
+  <data key="d1">Agent</data>
+</node>
+<node id="Tennis">
+  <data key="d1">Agent</data>
+</node>
+<node id="Troy">
+  <data key="d1">Agent</data>
+</node>
+<node id="Two Gun Sid">
+  <data key="d1">Agent</data>
+</node>
+<node id="Uncle Wall">
+  <data key="d1">Agent</data>
+</node>
+<node id="Willis Wilson">
+  <data key="d1">Agent</data>
+</node>
+</graph></graphml>

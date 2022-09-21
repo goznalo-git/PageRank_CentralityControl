@@ -1,0 +1,2268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">CASOS</data>
+<node id="gaza_strip">
+  <data key="d1">location</data>
+</node>
+<node id="training_camp">
+  <data key="d1">resource</data>
+</node>
+<node id="iraq">
+  <data key="d1">location</data>
+</node>
+<node id="al-musayyi">
+  <data key="d1">location</data>
+</node>
+<node id="iran">
+  <data key="d1">location</data>
+</node>
+<node id="synagogu">
+  <data key="d1">location</data>
+</node>
+<node id="italy">
+  <data key="d1">location</data>
+</node>
+<node id="switzerland">
+  <data key="d1">location</data>
+</node>
+<node id="moscow">
+  <data key="d1">location</data>
+</node>
+<node id="al-rafah">
+  <data key="d1">location</data>
+</node>
+<node id="ain_saheb">
+  <data key="d1">location</data>
+</node>
+<node id="exil">
+  <data key="d1">location</data>
+</node>
+<node id="kibbutz">
+  <data key="d1">location</data>
+</node>
+<node id="turkei">
+  <data key="d1">location</data>
+</node>
+<node id="israel">
+  <data key="d1">location</data>
+</node>
+<node id="gaza_city">
+  <data key="d1">location</data>
+</node>
+<node id="camp_david">
+  <data key="d1">location</data>
+</node>
+<node id="asia">
+  <data key="d1">location</data>
+</node>
+<node id="doha">
+  <data key="d1">location</data>
+</node>
+<node id="kafr_saba">
+  <data key="d1">location</data>
+</node>
+<node id="enclav">
+  <data key="d1">resource</data>
+</node>
+<node id="terrorist_camp">
+  <data key="d1">resource</data>
+</node>
+<node id="netherland">
+  <data key="d1">location</data>
+</node>
+<node id="jenin">
+  <data key="d1">location</data>
+</node>
+<node id="lebanon">
+  <data key="d1">location</data>
+</node>
+<node id="istanbul">
+  <data key="d1">location</data>
+</node>
+<node id="karnei_shomron">
+  <data key="d1">location</data>
+</node>
+<node id="russia">
+  <data key="d1">location</data>
+</node>
+<node id="beirut">
+  <data key="d1">location</data>
+</node>
+<node id="damascu">
+  <data key="d1">location</data>
+</node>
+<node id="golan_heights">
+  <data key="d1">location</data>
+</node>
+<node id="denmark">
+  <data key="d1">location</data>
+</node>
+<node id="africa">
+  <data key="d1">location</data>
+</node>
+<node id="tulkarm">
+  <data key="d1">location</data>
+</node>
+<node id="kashmir">
+  <data key="d1">location</data>
+</node>
+<node id="jerusalem">
+  <data key="d1">location</data>
+</node>
+<node id="chechnya">
+  <data key="d1">location</data>
+</node>
+<node id="baghdad">
+  <data key="d1">location</data>
+</node>
+<node id="london">
+  <data key="d1">location</data>
+</node>
+<node id="mideast">
+  <data key="d1">location</data>
+</node>
+<node id="nasiriya">
+  <data key="d1">location</data>
+</node>
+<node id="yemen">
+  <data key="d1">location</data>
+</node>
+<node id="qatar">
+  <data key="d1">location</data>
+</node>
+<node id="givat_zeev">
+  <data key="d1">location</data>
+</node>
+<node id="refugee_camp">
+  <data key="d1">resource</data>
+</node>
+<node id="germani">
+  <data key="d1">location</data>
+</node>
+<node id="hebron">
+  <data key="d1">location</data>
+</node>
+<node id="shlomi">
+  <data key="d1">location</data>
+</node>
+<node id="syria">
+  <data key="d1">location</data>
+</node>
+<node id="saudi_arabia">
+  <data key="d1">location</data>
+</node>
+<node id="middle_east">
+  <data key="d1">location</data>
+</node>
+<node id="west_bank">
+  <data key="d1">location</data>
+</node>
+<node id="palestine">
+  <data key="d1">location</data>
+</node>
+<node id="algeria">
+  <data key="d1">location</data>
+</node>
+<node id="europ">
+  <data key="d1">location</data>
+</node>
+<node id="afghanistan">
+  <data key="d1">location</data>
+</node>
+<node id="khan_yuni">
+  <data key="d1">location</data>
+</node>
+<node id="bulgaria">
+  <data key="d1">location</data>
+</node>
+<node id="egypt">
+  <data key="d1">location</data>
+</node>
+<node id="saftawi">
+  <data key="d1">location</data>
+</node>
+<node id="haifa">
+  <data key="d1">location</data>
+</node>
+<node id="usa">
+  <data key="d1">location</data>
+</node>
+<node id="casablanca">
+  <data key="d1">location</data>
+</node>
+<node id="ramallah">
+  <data key="d1">location</data>
+</node>
+<node id="morocco">
+  <data key="d1">location</data>
+</node>
+<node id="aachen">
+  <data key="d1">location</data>
+</node>
+<node id="fbi">
+  <data key="d1">knowledge</data>
+</node>
+<node id="agenc">
+  <data key="d1">organization</data>
+</node>
+<node id="polic">
+  <data key="d1">resource</data>
+</node>
+<node id="treasury">
+  <data key="d1">organization</data>
+</node>
+<node id="islamic_jihad">
+  <data key="d1">organization</data>
+</node>
+<node id="committe">
+  <data key="d1">organization</data>
+</node>
+<node id="palestinian_authority">
+  <data key="d1">organization</data>
+</node>
+<node id="consul">
+  <data key="d1">organization</data>
+</node>
+<node id="guerrilla">
+  <data key="d1">organization</data>
+</node>
+<node id="administr">
+  <data key="d1">organization</data>
+</node>
+<node id="militia">
+  <data key="d1">resource</data>
+</node>
+<node id="network">
+  <data key="d1">organization</data>
+</node>
+<node id="european_union">
+  <data key="d1">organization</data>
+</node>
+<node id="marin">
+  <data key="d1">resource</data>
+</node>
+<node id="united_nations">
+  <data key="d1">organization</data>
+</node>
+<node id="popular_front_for_the_liberation_of_palestine">
+  <data key="d1">organization</data>
+</node>
+<node id="hawala">
+  <data key="d1">resource</data>
+</node>
+<node id="al-masri_brigad">
+  <data key="d1">organization</data>
+</node>
+<node id="treasuridepart">
+  <data key="d1">organization</data>
+</node>
+<node id="headquart">
+  <data key="d1">organization</data>
+</node>
+<node id="artilleri">
+  <data key="d1">resource</data>
+</node>
+<node id="deleg">
+  <data key="d1">organization</data>
+</node>
+<node id="al-aksa">
+  <data key="d1">organization</data>
+</node>
+<node id="cell">
+  <data key="d1">organization</data>
+</node>
+<node id="authority">
+  <data key="d1">organization</data>
+</node>
+<node id="plo">
+  <data key="d1">organization</data>
+</node>
+<node id="al-qaeda">
+  <data key="d1">organization</data>
+</node>
+<node id="taliban">
+  <data key="d1">organization</data>
+</node>
+<node id="troop">
+  <data key="d1">resource</data>
+</node>
+<node id="hezbollah">
+  <data key="d1">organization</data>
+</node>
+<node id="council">
+  <data key="d1">organization</data>
+</node>
+<node id="al-fatah">
+  <data key="d1">organization</data>
+</node>
+<node id="hamas">
+  <data key="d1">organization</data>
+</node>
+<node id="militari">
+  <data key="d1">resource</data>
+</node>
+<node id="shia">
+  <data key="d1">organization</data>
+</node>
+<node id="mafia">
+  <data key="d1">organization</data>
+</node>
+<node id="armi">
+  <data key="d1">resource</data>
+</node>
+<node id="israel_military">
+  <data key="d1">organization</data>
+</node>
+<node id="marwan_barghouti">
+  <data key="d1">agent</data>
+</node>
+<node id="muhammad_sidr">
+  <data key="d1">agent</data>
+</node>
+<node id="bernard_sabella">
+  <data key="d1">agent</data>
+</node>
+<node id="mahmoud_al-zahar">
+  <data key="d1">agent</data>
+</node>
+<node id="juan_zarat">
+  <data key="d1">agent</data>
+</node>
+<node id="bill_clinton">
+  <data key="d1">agent</data>
+</node>
+<node id="matthew_levitt">
+  <data key="d1">agent</data>
+</node>
+<node id="mohammed_hindi">
+  <data key="d1">agent</data>
+</node>
+<node id="abu_hafs">
+  <data key="d1">agent</data>
+</node>
+<node id="muhammad_dahlan">
+  <data key="d1">agent</data>
+</node>
+<node id="sirhan_sirhan">
+  <data key="d1">agent</data>
+</node>
+<node id="mokled_humaid">
+  <data key="d1">agent</data>
+</node>
+<node id="jacob_dallal">
+  <data key="d1">agent</data>
+</node>
+<node id="omar_sulieman">
+  <data key="d1">agent</data>
+</node>
+<node id="yasser_arafat">
+  <data key="d1">agent</data>
+</node>
+<node id="yosif_lapid">
+  <data key="d1">agent</data>
+</node>
+<node id="hassan_moayad">
+  <data key="d1">agent</data>
+</node>
+<node id="imad_falouji">
+  <data key="d1">agent</data>
+</node>
+<node id="raanan_gissin">
+  <data key="d1">agent</data>
+</node>
+<node id="saeb_erekat">
+  <data key="d1">agent</data>
+</node>
+<node id="abdel_nasser">
+  <data key="d1">agent</data>
+</node>
+<node id="ismail_abu_shanab">
+  <data key="d1">agent</data>
+</node>
+<node id="shaul_mofaz">
+  <data key="d1">agent</data>
+</node>
+<node id="zelimkhan_yandarbiev">
+  <data key="d1">agent</data>
+</node>
+<node id="georg_bush">
+  <data key="d1">agent</data>
+</node>
+<node id="haviv_dodon">
+  <data key="d1">agent</data>
+</node>
+<node id="muhammad_horani">
+  <data key="d1">agent</data>
+</node>
+<node id="michael_chandler">
+  <data key="d1">agent</data>
+</node>
+<node id="ariel_sharon">
+  <data key="d1">agent</data>
+</node>
+<node id="saddam_hussein">
+  <data key="d1">agent</data>
+</node>
+<node id="hans_blix">
+  <data key="d1">agent</data>
+</node>
+<node id="antonio_martino">
+  <data key="d1">agent</data>
+</node>
+<node id="walker_lindh">
+  <data key="d1">agent</data>
+</node>
+<node id="muhammad_faraj">
+  <data key="d1">agent</data>
+</node>
+<node id="hani_al-hasan">
+  <data key="d1">agent</data>
+</node>
+<node id="bin_laden">
+  <data key="d1">agent</data>
+</node>
+<node id="dore_gold">
+  <data key="d1">agent</data>
+</node>
+<node id="kofi_annan">
+  <data key="d1">agent</data>
+</node>
+<node id="samer_ufi">
+  <data key="d1">agent</data>
+</node>
+<node id="colin_powel">
+  <data key="d1">agent</data>
+</node>
+<node id="mahmoud_amr">
+  <data key="d1">agent</data>
+</node>
+<node id="hassan_nasrallah">
+  <data key="d1">agent</data>
+</node>
+<node id="aziz_al-rantisi">
+  <data key="d1">agent</data>
+</node>
+<node id="ibrahim_maqadmeh">
+  <data key="d1">agent</data>
+</node>
+<node id="hanadi_jaradat">
+  <data key="d1">agent</data>
+</node>
+<node id="mahmoud_abbas">
+  <data key="d1">agent</data>
+</node>
+<node id="gideon_meir">
+  <data key="d1">agent</data>
+</node>
+<node id="crime">
+  <data key="d1">task</data>
+</node>
+<node id="intifada">
+  <data key="d1">task</data>
+</node>
+<node id="takeov">
+  <data key="d1">task</data>
+</node>
+<node id="airstrike">
+  <data key="d1">task</data>
+</node>
+<node id="raid">
+  <data key="d1">task</data>
+</node>
+<node id="kidnap">
+  <data key="d1">task</data>
+</node>
+<node id="serv">
+  <data key="d1">task</data>
+</node>
+<node id="traine">
+  <data key="d1">task</data>
+</node>
+<node id="aide">
+  <data key="d1">task</data>
+</node>
+<node id="war">
+  <data key="d1">task</data>
+</node>
+<node id="gulfwar">
+  <data key="d1">task</data>
+</node>
+<node id="support">
+  <data key="d1">resource</data>
+</node>
+<node id="kill">
+  <data key="d1">task</data>
+</node>
+<node id="rocket-test">
+  <data key="d1">task</data>
+</node>
+<node id="flight">
+  <data key="d1">task</data>
+</node>
+<node id="suspect">
+  <data key="d1">task</data>
+</node>
+<node id="collabor">
+  <data key="d1">task</data>
+</node>
+<node id="arrest">
+  <data key="d1">task</data>
+</node>
+<node id="accus">
+  <data key="d1">task</data>
+</node>
+<node id="weapons-monitor">
+  <data key="d1">knowledge</data>
+</node>
+<node id="confisc">
+  <data key="d1">task</data>
+</node>
+<node id="airstrik">
+  <data key="d1">task</data>
+</node>
+<node id="financi">
+  <data key="d1">resource</data>
+</node>
+<node id="missil">
+  <data key="d1">resource</data>
+</node>
+<node id="hospit">
+  <data key="d1">resource</data>
+</node>
+<node id="airfram">
+  <data key="d1">resource</data>
+</node>
+<node id="ah-64_apache">
+  <data key="d1">resource</data>
+</node>
+<node id="bethlehem_university">
+  <data key="d1">knowledge</data>
+</node>
+<node id="katyusha">
+  <data key="d1">resource</data>
+</node>
+<node id="account">
+  <data key="d1">resource</data>
+</node>
+<node id="sponsor">
+  <data key="d1">resource</data>
+</node>
+<node id="asset">
+  <data key="d1">resource</data>
+</node>
+<node id="engin">
+  <data key="d1">resource</data>
+</node>
+<node id="weapon">
+  <data key="d1">resource</data>
+</node>
+<node id="gunship">
+  <data key="d1">resource</data>
+</node>
+<node id="car-bomb">
+  <data key="d1">resource</data>
+</node>
+<node id="contact">
+  <data key="d1">resource</data>
+</node>
+<node id="allianc">
+  <data key="d1">resource</data>
+</node>
+<node id="missile-storag">
+  <data key="d1">resource</data>
+</node>
+<node id="antitank">
+  <data key="d1">resource</data>
+</node>
+<node id="connect">
+  <data key="d1">resource</data>
+</node>
+<node id="al-samoud">
+  <data key="d1">resource</data>
+</node>
+<node id="mortar">
+  <data key="d1">resource</data>
+</node>
+<node id="helicopt">
+  <data key="d1">resource</data>
+</node>
+<node id="arm">
+  <data key="d1">resource</data>
+</node>
+<node id="aid">
+  <data key="d1">resource</data>
+</node>
+<node id="warhead">
+  <data key="d1">resource</data>
+</node>
+<node id="job">
+  <data key="d1">resource</data>
+</node>
+<node id="affili">
+  <data key="d1">resource</data>
+</node>
+<node id="rocket">
+  <data key="d1">resource</data>
+</node>
+<node id="stronghold">
+  <data key="d1">resource</data>
+</node>
+<node id="facility">
+  <data key="d1">resource</data>
+</node>
+<node id="camp">
+  <data key="d1">resource</data>
+</node>
+<node id="57mm">
+  <data key="d1">resource</data>
+</node>
+<node id="sociologist">
+  <data key="d1">resource</data>
+</node>
+<node id="school">
+  <data key="d1">resource</data>
+</node>
+<node id="cargo">
+  <data key="d1">resource</data>
+</node>
+<node id="soldier">
+  <data key="d1">role</data>
+</node>
+<node id="antiaircraft">
+  <data key="d1">resource</data>
+</node>
+<node id="airspac">
+  <data key="d1">resource</data>
+</node>
+<node id="canist">
+  <data key="d1">resource</data>
+</node>
+<node id="warplan">
+  <data key="d1">resource</data>
+</node>
+<node id="qassam">
+  <data key="d1">resource</data>
+</node>
+<node id="assist">
+  <data key="d1">resource</data>
+</node>
+<node id="financ">
+  <data key="d1">resource</data>
+</node>
+<node id="monei">
+  <data key="d1">resource</data>
+</node>
+<node id="leadership">
+  <data key="d1">resource</data>
+</node>
+<node id="biologicalweapon">
+  <data key="d1">resource</data>
+</node>
+<node id="manual">
+  <data key="d1">knowledge</data>
+</node>
+<node id="televis">
+  <data key="d1">knowledge</data>
+</node>
+<node id="interview">
+  <data key="d1">knowledge</data>
+</node>
+<node id="monitor">
+  <data key="d1">knowledge</data>
+</node>
+<node id="testimoni">
+  <data key="d1">knowledge</data>
+</node>
+<node id="monitoring">
+  <data key="d1">knowledge</data>
+</node>
+<node id="messag">
+  <data key="d1">knowledge</data>
+</node>
+<node id="intellig">
+  <data key="d1">knowledge</data>
+</node>
+<node id="media">
+  <data key="d1">knowledge</data>
+</node>
+<node id="satellit">
+  <data key="d1">knowledge</data>
+</node>
+<node id="observ">
+  <data key="d1">knowledge</data>
+</node>
+<node id="identif">
+  <data key="d1">knowledge</data>
+</node>
+<node id="footag">
+  <data key="d1">knowledge</data>
+</node>
+<node id="broadcast">
+  <data key="d1">knowledge</data>
+</node>
+<node id="videotap">
+  <data key="d1">knowledge</data>
+</node>
+<node id="al-jazeera">
+  <data key="d1">knowledge</data>
+</node>
+<node id="identifi">
+  <data key="d1">knowledge</data>
+</node>
+<node id="telephon">
+  <data key="d1">knowledge</data>
+</node>
+<node id="psycholog">
+  <data key="d1">knowledge</data>
+</node>
+<node id="report">
+  <data key="d1">knowledge</data>
+</node>
+<node id="studi">
+  <data key="d1">knowledge</data>
+</node>
+<node id="video">
+  <data key="d1">knowledge</data>
+</node>
+<node id="analyst">
+  <data key="d1">role</data>
+</node>
+<node id="inform">
+  <data key="d1">knowledge</data>
+</node>
+<node id="call">
+  <data key="d1">knowledge</data>
+</node>
+<node id="fax">
+  <data key="d1">knowledge</data>
+</node>
+<node id="tape">
+  <data key="d1">knowledge</data>
+</node>
+<node id="evid">
+  <data key="d1">knowledge</data>
+</node>
+<node id="map">
+  <data key="d1">knowledge</data>
+</node>
+<node id="refuge">
+  <data key="d1">role</data>
+</node>
+<node id="deputi">
+  <data key="d1">role</data>
+</node>
+<node id="director">
+  <data key="d1">role</data>
+</node>
+<node id="leader">
+  <data key="d1">role</data>
+</node>
+<node id="senior">
+  <data key="d1">role</data>
+</node>
+<node id="bodyguard">
+  <data key="d1">role</data>
+</node>
+<node id="suicide_bomber">
+  <data key="d1">role</data>
+</node>
+<node id="chairman">
+  <data key="d1">role</data>
+</node>
+<node id="advis">
+  <data key="d1">role</data>
+</node>
+<node id="diplomat">
+  <data key="d1">role</data>
+</node>
+<node id="cleric">
+  <data key="d1">role</data>
+</node>
+<node id="gunmen">
+  <data key="d1">role</data>
+</node>
+<node id="lawyer">
+  <data key="d1">role</data>
+</node>
+<node id="student">
+  <data key="d1">role</data>
+</node>
+<node id="ceo">
+  <data key="d1">role</data>
+</node>
+<node id="inspector">
+  <data key="d1">role</data>
+</node>
+<node id="bomb-mak">
+  <data key="d1">role</data>
+</node>
+<node id="chief">
+  <data key="d1">role</data>
+</node>
+<node id="ambassador">
+  <data key="d1">role</data>
+</node>
+<edge source="gaza_strip" target="hanadi_jaradat">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gaza_strip" target="hamas">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="gaza_strip" target="israel">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="gaza_strip" target="kill">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iraq" target="weapon">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="iraq" target="report">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iraq" target="weapons-monitor">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="iraq" target="colin_powel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iraq" target="georg_bush">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iraq" target="michael_chandler">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iraq" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iraq" target="gaza_strip">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iraq" target="war">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-musayyi" target="rocket-test">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="synagogu" target="istanbul">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="italy" target="antonio_martino">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-rafah" target="missil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-rafah" target="united_nations">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ain_saheb" target="camp">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="exil" target="muhammad_horani">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kibbutz" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkei" target="iraq">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkei" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="armi">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="israel" target="artilleri">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="leadership">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="militari">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="call">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="aziz_al-rantisi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="muhammad_horani">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="shaul_mofaz">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="israel" target="sirhan_sirhan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="al-fatah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="hamas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="hezbollah">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="israel" target="palestinian_authority">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="israel" target="golan_heights">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="israel">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="israel" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="syria">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="israel" target="west_bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="accus">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="israel" target="airstrik">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="gaza_city" target="ismail_abu_shanab">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gaza_city" target="saftawi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gaza_city" target="kill">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="asia" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="doha" target="qatar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kafr_saba" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="enclav" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="terrorist_camp" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="terrorist_camp" target="syria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="netherland" target="denmark">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="netherland" target="switzerland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="militari">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="raanan_gissin">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="hezbollah">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="lebanon" target="united_nations">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="syria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="kill">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="damascu" target="serv">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="golan_heights" target="call">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="golan_heights" target="hezbollah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="golan_heights" target="syria">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="denmark" target="switzerland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tulkarm" target="refugee_camp">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tulkarm" target="sirhan_sirhan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tulkarm" target="israel">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="tulkarm" target="suspect">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kashmir" target="chechnya">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jerusalem" target="muhammad_horani">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jerusalem" target="middle_east">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chechnya" target="deleg">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mideast" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mideast" target="airstrike">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="nasiriya" target="iraq">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yemen" target="hassan_moayad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="givat_zeev" target="jerusalem">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="refugee_camp" target="west_bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="germani" target="mahmoud_amr">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="germani" target="al-aksa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shlomi" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shlomi" target="accus">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="syria" target="militari">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="syria" target="sponsor">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="syria" target="support">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="syria" target="hezbollah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="syria" target="popular_front_for_the_liberation_of_palestine">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="syria" target="united_nations">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="syria" target="iran">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="syria" target="israel">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="syria" target="lebanon">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="syria" target="syria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="al-qaeda">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="algeria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="iraq">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="morocco">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="middle_east" target="hezbollah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="middle_east" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="middle_east" target="syria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="middle_east" target="war">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="west_bank" target="psycholog">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="west_bank" target="studi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="west_bank" target="hamas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="west_bank" target="gaza_strip">
+  <data key="d2">5.0</data>
+</edge>
+<edge source="west_bank" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="west_bank" target="jenin">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="west_bank" target="karnei_shomron">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="west_bank" target="ramallah">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="europ" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europ" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="al-qaeda">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="khan_yuni" target="refugee_camp">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="intellig">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="yasser_arafat">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="algeria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saftawi" target="mokled_humaid">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saftawi" target="kill">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="haifa" target="kill">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="usa" target="ah-64_apache">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="usa" target="helicopt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="usa" target="intellig">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="usa" target="map">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="usa" target="hassan_moayad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="usa" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="usa" target="airstrik">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="casablanca" target="morocco">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ramallah" target="committe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fbi" target="analyst">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fbi" target="hassan_moayad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="agenc" target="beirut">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="polic" target="hospit">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="treasury" target="assist">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="islamic_jihad" target="al-aksa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="islamic_jihad" target="hamas">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="islamic_jihad" target="militari">
+  <data key="d2">5.0</data>
+</edge>
+<edge source="islamic_jihad" target="hebron">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="islamic_jihad" target="syria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="committe" target="yasser_arafat">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="palestinian_authority" target="arrest">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="palestinian_authority" target="ariel_sharon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="palestinian_authority" target="muhammad_horani">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="palestinian_authority" target="hamas">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="palestinian_authority" target="palestinian_authority">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="consul" target="istanbul">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="guerrilla" target="hezbollah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="administr" target="iraq">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="administr" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="network" target="al-jazeera">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="network" target="fbi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="network" target="inform">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="network" target="report">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="network" target="hawala">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="european_union" target="russia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="marin" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_nations" target="report">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_nations" target="colin_powel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_nations" target="hans_blix">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_nations" target="zelimkhan_yandarbiev">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_nations" target="al-qaeda">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_nations" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_nations" target="syria">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="united_nations" target="weapon">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="hawala" target="monei">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-masri_brigad" target="abu_hafs">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="treasuridepart" target="al-aksa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="headquart" target="aachen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="headquart" target="gaza_strip">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="headquart" target="ramallah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="headquart" target="west_bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="deleg" target="united_nations">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-aksa" target="kidnap">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-aksa" target="sirhan_sirhan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-aksa" target="headquart">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-aksa" target="aachen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-aksa" target="germani">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-aksa" target="asset">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="cell" target="west_bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="plo" target="committe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="plo" target="ramallah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-qaeda" target="kill">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-qaeda" target="manual">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-qaeda" target="report">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="al-qaeda" target="georg_bush">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-qaeda" target="saddam_hussein">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-qaeda" target="administr">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-qaeda" target="al-qaeda">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-qaeda" target="militari">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-qaeda" target="network">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="al-qaeda" target="chechnya">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-qaeda" target="training_camp">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-qaeda" target="affili">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="taliban" target="war">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="taliban" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="troop" target="kill">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="troop" target="iraq">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="troop" target="usa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hezbollah" target="kill">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hezbollah" target="call">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hezbollah" target="hassan_nasrallah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hezbollah" target="raanan_gissin">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hezbollah" target="artilleri">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="hezbollah" target="guerrilla">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hezbollah" target="militia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hezbollah" target="shia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hezbollah" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hezbollah" target="israel">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="hezbollah" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hezbollah" target="syria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hezbollah" target="antiaircraft">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hezbollah" target="antitank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hezbollah" target="missil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="council" target="accus">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="council" target="shlomi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-fatah" target="messag">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-fatah" target="muhammad_horani">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-fatah" target="yasser_arafat">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-fatah" target="al-samoud">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-fatah" target="missil">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="hamas" target="arrest">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hamas" target="kill">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="hamas" target="aziz_al-rantisi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hamas" target="bin_laden">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hamas" target="ibrahim_maqadmeh">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hamas" target="muhammad_dahlan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hamas" target="al-aksa">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="hamas" target="hamas">
+  <data key="d2">7.0</data>
+</edge>
+<edge source="hamas" target="headquart">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hamas" target="islamic_jihad">
+  <data key="d2">5.0</data>
+</edge>
+<edge source="hamas" target="militari">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hamas" target="treasuridepart">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hamas" target="damascu">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hamas" target="gaza_strip">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hamas" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hamas" target="rocket">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hamas" target="sponsor">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hamas" target="stronghold">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="militari" target="footag">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="militari" target="report">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="militari" target="video">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="militari" target="jacob_dallal">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="militari" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="militari" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="militari" target="syria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shia" target="militia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mafia" target="arrest">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mafia" target="crime">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="armi" target="call">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="armi" target="kill">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel_military" target="west_bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bernard_sabella" target="sociologist">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="juan_zarat" target="assist">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="juan_zarat" target="treasuridepart">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="juan_zarat" target="treasury">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bill_clinton" target="camp_david">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="matthew_levitt" target="fbi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="abu_hafs" target="al-masri_brigad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="muhammad_dahlan" target="hamas">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="mokled_humaid" target="militari">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mokled_humaid" target="islamic_jihad">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="omar_sulieman" target="intellig">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="omar_sulieman" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yasser_arafat" target="aziz_al-rantisi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yasser_arafat" target="georg_bush">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yasser_arafat" target="mahmoud_abbas">
+  <data key="d2">4.0</data>
+</edge>
+<edge source="yasser_arafat" target="yasser_arafat">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yasser_arafat" target="palestine">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yasser_arafat" target="ramallah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yasser_arafat" target="administr">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yasser_arafat" target="hamas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yasser_arafat" target="headquart">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yasser_arafat" target="plo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hassan_moayad" target="arrest">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hassan_moayad" target="monei">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="imad_falouji" target="call">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="imad_falouji" target="hamas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="raanan_gissin" target="flight">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saeb_erekat" target="authority">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="abdel_nasser" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ismail_abu_shanab" target="hamas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shaul_mofaz" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shaul_mofaz" target="militari">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="georg_bush" target="iraq">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="georg_bush" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="georg_bush" target="administr">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="muhammad_horani" target="marwan_barghouti">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="muhammad_horani" target="yasser_arafat">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="muhammad_horani" target="support">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="muhammad_horani" target="al-fatah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="michael_chandler" target="colin_powel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="michael_chandler" target="monitor">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="michael_chandler" target="committe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ariel_sharon" target="raid">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ariel_sharon" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saddam_hussein" target="georg_bush">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saddam_hussein" target="iraq">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saddam_hussein" target="administr">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saddam_hussein" target="al-qaeda">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="hans_blix" target="council">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="muhammad_faraj" target="samer_ufi">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="hani_al-hasan" target="job">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bin_laden" target="al-aksa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kofi_annan" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="samer_ufi" target="videotap">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="colin_powel" target="satellit">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="colin_powel" target="weapons-monitor">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="colin_powel" target="iraq">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="colin_powel" target="missil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="colin_powel" target="al-qaeda">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="colin_powel" target="united_nations">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="aziz_al-rantisi" target="mahmoud_abbas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="aziz_al-rantisi" target="hamas">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="mahmoud_abbas" target="muhammad_dahlan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="crime" target="arrest">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="intifada" target="map">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="takeov" target="moscow">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airstrike" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="raid" target="kill">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="traine" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="aide" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="war" target="georg_bush">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="war" target="saddam_hussein">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="war" target="al-qaeda">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="war" target="hamas">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="war" target="hezbollah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="war" target="iraq">
+  <data key="d2">6.0</data>
+</edge>
+<edge source="war" target="syria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gulfwar" target="iraq">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="support" target="yasser_arafat">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="support" target="report">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="support" target="arm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="support" target="soldier">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="support" target="hamas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="support" target="raid">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kill" target="haviv_dodon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kill" target="ismail_abu_shanab">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kill" target="mokled_humaid">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kill" target="hamas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kill" target="hezbollah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kill" target="islamic_jihad">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="kill" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kill" target="usa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kill" target="collabor">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kill" target="suspect">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="kill" target="ah-64_apache">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kill" target="soldier">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="suspect" target="zelimkhan_yandarbiev">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="suspect" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="suspect" target="identifi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="suspect" target="inform">
+  <data key="d2">4.0</data>
+</edge>
+<edge source="suspect" target="aide">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="suspect" target="collabor">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="arrest" target="muhammad_sidr">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="arrest" target="hamas">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="arrest" target="islamic_jihad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="arrest" target="polic">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="accus" target="hamas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="accus" target="syria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="accus" target="sponsor">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="confisc" target="weapon">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="airstrik" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airstrik" target="raid">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="financi" target="network">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="missil" target="airfram">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="missil" target="engin">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="missil" target="mortar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="missil" target="hezbollah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="missil" target="united_nations">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="missil" target="al-musayyi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hospit" target="hebron">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airfram" target="cargo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ah-64_apache" target="helicopt">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="katyusha" target="rocket">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="account" target="antiaircraft">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sponsor" target="syria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asset" target="treasuridepart">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="engin" target="al-rafah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="weapon" target="mortar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="weapon" target="hans_blix">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="weapon" target="mahmoud_abbas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="weapon" target="hamas">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="car-bomb" target="kill">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="contact" target="palestinian_authority">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="allianc" target="walker_lindh">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="missile-storag" target="canist">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="missile-storag" target="warhead">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="antitank" target="missil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="antitank" target="mortar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="connect" target="al-qaeda">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-samoud" target="engin">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="al-samoud" target="missil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mortar" target="antiaircraft">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="helicopt" target="gunship">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="helicopt" target="missil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="helicopt" target="kill">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="helicopt" target="gaza_city">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="arm" target="missil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="arm" target="intifada">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="arm" target="kill">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="aid" target="hamas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="aid" target="treasuridepart">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="warhead" target="airfram">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="warhead" target="canist">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="warhead" target="missil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="job" target="muhammad_dahlan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="affili" target="al-qaeda">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="rocket" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="stronghold" target="islamic_jihad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="stronghold" target="gaza_strip">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="camp" target="colin_powel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="camp" target="syria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="57mm" target="antiaircraft">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sociologist" target="bethlehem_university">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="school" target="agenc">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="soldier" target="kill">
+  <data key="d2">5.0</data>
+</edge>
+<edge source="airspac" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="canist" target="airfram">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="canist" target="canist">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="canist" target="missil">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="canist" target="warhead">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="warplan" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="qassam" target="rocket">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="financ" target="report">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="financ" target="support">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="monei" target="report">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="monei" target="arm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="monei" target="hamas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="leadership" target="militari">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="leadership" target="yasser_arafat">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="leadership" target="hamas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="biologicalweapon" target="report">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="manual" target="intellig">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="televis" target="network">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="televis" target="al-jazeera">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="televis" target="broadcast">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="televis" target="monitor">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="monitor" target="committe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="monitoring" target="united_nations">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="messag" target="support">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="intellig" target="al-rafah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="intellig" target="al-qaeda">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="intellig" target="hezbollah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="media" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="satellit" target="observ">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="observ" target="engin">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="observ" target="missil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="identif" target="missil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="footag" target="camp">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="identifi" target="ain_saheb">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="identifi" target="muhammad_faraj">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="telephon" target="call">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="telephon" target="interview">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="psycholog" target="bulgaria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="report" target="michael_chandler">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="report" target="missil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="report" target="hamas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="report" target="report">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="studi" target="bulgaria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="studi" target="psycholog">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="video" target="footag">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="analyst" target="hamas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="inform" target="damascu">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="inform" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="inform" target="collabor">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="inform" target="muhammad_faraj">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="inform" target="financi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="inform" target="network">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="inform" target="identifi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="inform" target="intellig">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="call" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="call" target="syria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="call" target="terrorist_camp">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="call" target="abu_hafs">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="call" target="muhammad_horani">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="call" target="al-masri_brigad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="call" target="hamas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fax" target="agenc">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tape" target="televis">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="evid" target="war">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="evid" target="saddam_hussein">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="evid" target="al-qaeda">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="evid" target="testimoni">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="map" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="map" target="palestinian_authority">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="map" target="call">
+  <data key="d2">2.0</data>
+</edge>
+</graph></graphml>

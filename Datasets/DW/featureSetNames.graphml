@@ -1,0 +1,576 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">CASOS</data>
+<node id="followingCount">
+  <data key="d1">Agent</data>
+</node>
+<node id="followerCount">
+  <data key="d1">Agent</data>
+</node>
+<node id="tweetCount">
+  <data key="d1">Agent</data>
+</node>
+<node id="tweetsCollected">
+  <data key="d1">Agent</data>
+</node>
+<node id="lastTweet">
+  <data key="d1">Agent</data>
+</node>
+<node id="creation_date">
+  <data key="d1">Agent</data>
+</node>
+<node id="urlRatio">
+  <data key="d1">Agent</data>
+</node>
+<node id="mentionRatio">
+  <data key="d1">Agent</data>
+</node>
+<node id="am">
+  <data key="d1">Agent</data>
+</node>
+<node id="ar">
+  <data key="d1">Agent</data>
+</node>
+<node id="bg">
+  <data key="d1">Agent</data>
+</node>
+<node id="bn">
+  <data key="d1">Agent</data>
+</node>
+<node id="bo">
+  <data key="d1">Agent</data>
+</node>
+<node id="bs">
+  <data key="d1">Agent</data>
+</node>
+<node id="chr">
+  <data key="d1">Agent</data>
+</node>
+<node id="ckb">
+  <data key="d1">Agent</data>
+</node>
+<node id="cy">
+  <data key="d1">Agent</data>
+</node>
+<node id="da">
+  <data key="d1">Agent</data>
+</node>
+<node id="de">
+  <data key="d1">Agent</data>
+</node>
+<node id="dv">
+  <data key="d1">Agent</data>
+</node>
+<node id="el">
+  <data key="d1">Agent</data>
+</node>
+<node id="en">
+  <data key="d1">Agent</data>
+</node>
+<node id="es">
+  <data key="d1">Agent</data>
+</node>
+<node id="et">
+  <data key="d1">Agent</data>
+</node>
+<node id="fa">
+  <data key="d1">Agent</data>
+</node>
+<node id="fi">
+  <data key="d1">Agent</data>
+</node>
+<node id="fr">
+  <data key="d1">Agent</data>
+</node>
+<node id="gu">
+  <data key="d1">Agent</data>
+</node>
+<node id="hi">
+  <data key="d1">Agent</data>
+</node>
+<node id="hr">
+  <data key="d1">Agent</data>
+</node>
+<node id="ht">
+  <data key="d1">Agent</data>
+</node>
+<node id="hu">
+  <data key="d1">Agent</data>
+</node>
+<node id="hy">
+  <data key="d1">Agent</data>
+</node>
+<node id="in.">
+  <data key="d1">Agent</data>
+</node>
+<node id="is">
+  <data key="d1">Agent</data>
+</node>
+<node id="it">
+  <data key="d1">Agent</data>
+</node>
+<node id="iu">
+  <data key="d1">Agent</data>
+</node>
+<node id="iw">
+  <data key="d1">Agent</data>
+</node>
+<node id="ja">
+  <data key="d1">Agent</data>
+</node>
+<node id="ka">
+  <data key="d1">Agent</data>
+</node>
+<node id="km">
+  <data key="d1">Agent</data>
+</node>
+<node id="kn">
+  <data key="d1">Agent</data>
+</node>
+<node id="ko">
+  <data key="d1">Agent</data>
+</node>
+<node id="lo">
+  <data key="d1">Agent</data>
+</node>
+<node id="lt">
+  <data key="d1">Agent</data>
+</node>
+<node id="lv">
+  <data key="d1">Agent</data>
+</node>
+<node id="ml">
+  <data key="d1">Agent</data>
+</node>
+<node id="mr">
+  <data key="d1">Agent</data>
+</node>
+<node id="my">
+  <data key="d1">Agent</data>
+</node>
+<node id="ne">
+  <data key="d1">Agent</data>
+</node>
+<node id="nl">
+  <data key="d1">Agent</data>
+</node>
+<node id="no">
+  <data key="d1">Agent</data>
+</node>
+<node id="or">
+  <data key="d1">Agent</data>
+</node>
+<node id="pa">
+  <data key="d1">Agent</data>
+</node>
+<node id="pl">
+  <data key="d1">Agent</data>
+</node>
+<node id="ps">
+  <data key="d1">Agent</data>
+</node>
+<node id="pt">
+  <data key="d1">Agent</data>
+</node>
+<node id="ro">
+  <data key="d1">Agent</data>
+</node>
+<node id="ru">
+  <data key="d1">Agent</data>
+</node>
+<node id="sd">
+  <data key="d1">Agent</data>
+</node>
+<node id="si">
+  <data key="d1">Agent</data>
+</node>
+<node id="sk">
+  <data key="d1">Agent</data>
+</node>
+<node id="sl">
+  <data key="d1">Agent</data>
+</node>
+<node id="sr">
+  <data key="d1">Agent</data>
+</node>
+<node id="sv">
+  <data key="d1">Agent</data>
+</node>
+<node id="ta">
+  <data key="d1">Agent</data>
+</node>
+<node id="te">
+  <data key="d1">Agent</data>
+</node>
+<node id="th">
+  <data key="d1">Agent</data>
+</node>
+<node id="tl">
+  <data key="d1">Agent</data>
+</node>
+<node id="tr">
+  <data key="d1">Agent</data>
+</node>
+<node id="ug">
+  <data key="d1">Agent</data>
+</node>
+<node id="uk">
+  <data key="d1">Agent</data>
+</node>
+<node id="und">
+  <data key="d1">Agent</data>
+</node>
+<node id="ur">
+  <data key="d1">Agent</data>
+</node>
+<node id="vi">
+  <data key="d1">Agent</data>
+</node>
+<node id="zh">
+  <data key="d1">Agent</data>
+</node>
+<node id="FinDegree">
+  <data key="d1">Agent</data>
+</node>
+<node id="FoutDegree">
+  <data key="d1">Agent</data>
+</node>
+<node id="FiP">
+  <data key="d1">Agent</data>
+</node>
+<node id="RFev1">
+  <data key="d1">Agent</data>
+</node>
+<node id="RFev2">
+  <data key="d1">Agent</data>
+</node>
+<node id="RFev3">
+  <data key="d1">Agent</data>
+</node>
+<node id="RFev4">
+  <data key="d1">Agent</data>
+</node>
+<node id="MinDegree">
+  <data key="d1">Agent</data>
+</node>
+<node id="MoutDegree">
+  <data key="d1">Agent</data>
+</node>
+<node id="RMev1">
+  <data key="d1">Agent</data>
+</node>
+<node id="RMev2">
+  <data key="d1">Agent</data>
+</node>
+<node id="RMev3">
+  <data key="d1">Agent</data>
+</node>
+<node id="RMev4">
+  <data key="d1">Agent</data>
+</node>
+<node id="HTcount">
+  <data key="d1">Agent</data>
+</node>
+<node id="UHTev1">
+  <data key="d1">Agent</data>
+</node>
+<node id="UHTev2">
+  <data key="d1">Agent</data>
+</node>
+<node id="UHTev3">
+  <data key="d1">Agent</data>
+</node>
+<node id="UHTev4">
+  <data key="d1">Agent</data>
+</node>
+<node id="1">
+  <data key="d1">Agent</data>
+</node>
+<node id="0">
+  <data key="d1">Agent</data>
+</node>
+<edge source="followingCount" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="followerCount" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tweetCount" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tweetsCollected" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lastTweet" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="creation_date" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="urlRatio" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mentionRatio" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="am" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ar" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bg" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bn" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bo" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bs" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chr" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ckb" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="cy" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="da" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="de" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="dv" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="el" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="en" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="es" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="et" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fa" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fi" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fr" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gu" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hi" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hr" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ht" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hu" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="hy" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="in." target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="is" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="it" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iu" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iw" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ja" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ka" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="km" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kn" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ko" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lo" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lt" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lv" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ml" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mr" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="my" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ne" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="nl" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="no" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="or" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pa" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pl" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ps" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pt" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ro" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ru" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sd" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="si" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sk" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sl" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sr" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sv" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ta" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="te" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="th" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tl" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tr" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ug" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="uk" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="und" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ur" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="vi" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="zh" target="0">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="FinDegree" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="FoutDegree" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="FiP" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RFev1" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RFev2" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RFev3" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RFev4" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MinDegree" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MoutDegree" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RMev1" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RMev2" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RMev3" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="RMev4" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HTcount" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UHTev1" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UHTev2" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UHTev3" target="1">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="UHTev4" target="1">
+  <data key="d2">1.0</data>
+</edge>
+</graph></graphml>

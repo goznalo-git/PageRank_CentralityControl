@@ -1,0 +1,3513 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">CASOS</data>
+<node id="mohamed_owhali">
+  <data key="d1">Agent</data>
+</node>
+<node id="mohammed_odeh">
+  <data key="d1">Agent</data>
+</node>
+<node id="ahmed_the_german">
+  <data key="d1">Agent</data>
+</node>
+<node id="fazul_mohammed">
+  <data key="d1">Agent</data>
+</node>
+<node id="ali_mohamed">
+  <data key="d1">Agent</data>
+</node>
+<node id="khalid_al-fawwaz">
+  <data key="d1">Agent</data>
+</node>
+<node id="jihad_mohammed_ali">
+  <data key="d1">Agent</data>
+</node>
+<node id="mahmud_abouhalima">
+  <data key="d1">Agent</data>
+</node>
+<node id="abdullah_ahmed_abdullah">
+  <data key="d1">Agent</data>
+</node>
+<node id="abdal_rahmad">
+  <data key="d1">Agent</data>
+</node>
+<node id="jihad">
+  <data key="d1">Event</data>
+</node>
+<node id="11-sep">
+  <data key="d1">Event</data>
+</node>
+<node id="wtc">
+  <data key="d1">Event</data>
+</node>
+<node id="religious_extremism">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="weapons_expertise">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="surveillance_expertise">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="media_consultant">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="saudi_arabia">
+  <data key="d1">Location</data>
+</node>
+<node id="tanzania">
+  <data key="d1">Location</data>
+</node>
+<node id="israel">
+  <data key="d1">Location</data>
+</node>
+<node id="nairobi">
+  <data key="d1">Location</data>
+</node>
+<node id="liberia">
+  <data key="d1">Location</data>
+</node>
+<node id="u_s">
+  <data key="d1">Location</data>
+</node>
+<node id="kenya">
+  <data key="d1">Location</data>
+</node>
+<node id="kandahar">
+  <data key="d1">Location</data>
+</node>
+<node id="london">
+  <data key="d1">Location</data>
+</node>
+<node id="pakistan">
+  <data key="d1">Location</data>
+</node>
+<node id="farm">
+  <data key="d1">Location</data>
+</node>
+<node id="indonesia">
+  <data key="d1">Location</data>
+</node>
+<node id="united_states_of_america">
+  <data key="d1">Location</data>
+</node>
+<node id="cambodia">
+  <data key="d1">Location</data>
+</node>
+<node id="somalia">
+  <data key="d1">Location</data>
+</node>
+<node id="turkey">
+  <data key="d1">Location</data>
+</node>
+<node id="lebanon">
+  <data key="d1">Location</data>
+</node>
+<node id="spain">
+  <data key="d1">Location</data>
+</node>
+<node id="washington">
+  <data key="d1">Location</data>
+</node>
+<node id="afghanistan">
+  <data key="d1">Location</data>
+</node>
+<node id="yemen">
+  <data key="d1">Location</data>
+</node>
+<node id="europe">
+  <data key="d1">Location</data>
+</node>
+<node id="check">
+  <data key="d1">Location</data>
+</node>
+<node id="airport">
+  <data key="d1">Location</data>
+</node>
+<node id="italy">
+  <data key="d1">Location</data>
+</node>
+<node id="montreal">
+  <data key="d1">Location</data>
+</node>
+<node id="bunker">
+  <data key="d1">Location</data>
+</node>
+<node id="cave">
+  <data key="d1">Location</data>
+</node>
+<node id="americas">
+  <data key="d1">Location</data>
+</node>
+<node id="kosovo">
+  <data key="d1">Location</data>
+</node>
+<node id="harbor">
+  <data key="d1">Location</data>
+</node>
+<node id="sudan">
+  <data key="d1">Location</data>
+</node>
+<node id="khartoum">
+  <data key="d1">Location</data>
+</node>
+<node id="djibouti">
+  <data key="d1">Location</data>
+</node>
+<node id="singapore">
+  <data key="d1">Location</data>
+</node>
+<node id="africa">
+  <data key="d1">Location</data>
+</node>
+<node id="baghdad">
+  <data key="d1">Location</data>
+</node>
+<node id="residence">
+  <data key="d1">Location</data>
+</node>
+<node id="britain">
+  <data key="d1">Location</data>
+</node>
+<node id="iran">
+  <data key="d1">Location</data>
+</node>
+<node id="paris">
+  <data key="d1">Location</data>
+</node>
+<node id="asia">
+  <data key="d1">Location</data>
+</node>
+<node id="gulf">
+  <data key="d1">Location</data>
+</node>
+<node id="egypt">
+  <data key="d1">Location</data>
+</node>
+<node id="france">
+  <data key="d1">Location</data>
+</node>
+<node id="new_york">
+  <data key="d1">Location</data>
+</node>
+<node id="province">
+  <data key="d1">Location</data>
+</node>
+<node id="bosnia">
+  <data key="d1">Location</data>
+</node>
+<node id="bali">
+  <data key="d1">Location</data>
+</node>
+<node id="malaysia">
+  <data key="d1">Location</data>
+</node>
+<node id="jalalabad">
+  <data key="d1">Location</data>
+</node>
+<node id="philippines">
+  <data key="d1">Location</data>
+</node>
+<node id="manhattan">
+  <data key="d1">Location</data>
+</node>
+<node id="darfur">
+  <data key="d1">Location</data>
+</node>
+<node id="building_for_bombmaking">
+  <data key="d1">Resource</data>
+</node>
+<node id="money">
+  <data key="d1">Resource</data>
+</node>
+<node id="bomb_material">
+  <data key="d1">Resource</data>
+</node>
+<node id="truck">
+  <data key="d1">Resource</data>
+</node>
+<node id="surveillence">
+  <data key="d1">Task</data>
+</node>
+<node id="weapon_training">
+  <data key="d1">Task</data>
+</node>
+<node id="driving_training">
+  <data key="d1">Task</data>
+</node>
+<node id="bomb_prep">
+  <data key="d1">Task</data>
+</node>
+<node id="bombing">
+  <data key="d1">Task</data>
+</node>
+<edge source="mohamed_owhali" target="jihad_mohammed_ali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohamed_owhali" target="abdullah_ahmed_abdullah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohamed_owhali" target="abdal_rahmad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohamed_owhali" target="religious_extremism">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohamed_owhali" target="weapons_expertise">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohamed_owhali" target="surveillance_expertise">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohamed_owhali" target="tanzania">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohamed_owhali" target="surveillence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohamed_owhali" target="weapon_training">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohamed_owhali" target="bombing">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohammed_odeh" target="mohamed_owhali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohammed_odeh" target="religious_extremism">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohammed_odeh" target="weapons_expertise">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohammed_odeh" target="surveillance_expertise">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohammed_odeh" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohammed_odeh" target="nairobi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohammed_odeh" target="building_for_bombmaking">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohammed_odeh" target="weapon_training">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mohammed_odeh" target="bomb_prep">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ahmed_the_german" target="abdullah_ahmed_abdullah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ahmed_the_german" target="bombing">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fazul_mohammed" target="religious_extremism">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fazul_mohammed" target="weapons_expertise">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fazul_mohammed" target="surveillance_expertise">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fazul_mohammed" target="liberia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fazul_mohammed" target="building_for_bombmaking">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fazul_mohammed" target="bomb_material">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fazul_mohammed" target="weapon_training">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fazul_mohammed" target="driving_training">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fazul_mohammed" target="bomb_prep">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fazul_mohammed" target="bombing">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ali_mohamed" target="religious_extremism">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ali_mohamed" target="surveillance_expertise">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ali_mohamed" target="u_s">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="ali_mohamed" target="manhattan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ali_mohamed" target="darfur">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ali_mohamed" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ali_mohamed" target="surveillence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="khalid_al-fawwaz" target="media_consultant">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="khalid_al-fawwaz" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jihad_mohammed_ali" target="mohamed_owhali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jihad_mohammed_ali" target="religious_extremism">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jihad_mohammed_ali" target="weapons_expertise">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jihad_mohammed_ali" target="surveillence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jihad_mohammed_ali" target="weapon_training">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jihad_mohammed_ali" target="bombing">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mahmud_abouhalima" target="wtc">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="abdullah_ahmed_abdullah" target="mohamed_owhali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="abdullah_ahmed_abdullah" target="mohammed_odeh">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="abdullah_ahmed_abdullah" target="abdal_rahmad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="abdullah_ahmed_abdullah" target="surveillance_expertise">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="abdullah_ahmed_abdullah" target="building_for_bombmaking">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="abdullah_ahmed_abdullah" target="bomb_material">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="abdullah_ahmed_abdullah" target="truck">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="abdullah_ahmed_abdullah" target="surveillence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="abdullah_ahmed_abdullah" target="bomb_prep">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="abdal_rahmad" target="mohamed_owhali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="abdal_rahmad" target="abdullah_ahmed_abdullah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="abdal_rahmad" target="bomb_material">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="abdal_rahmad" target="weapon_training">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="abdal_rahmad" target="bomb_prep">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jihad" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jihad" target="farm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jihad" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jihad" target="united_states_of_america">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jihad" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jihad" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jihad" target="spain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jihad" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jihad" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jihad" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="11-sep" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="11-sep" target="pakistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="11-sep" target="united_states_of_america">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="11-sep" target="u_s">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="11-sep" target="somalia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="11-sep" target="afghanistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="11-sep" target="europe">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="11-sep" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="11-sep" target="residence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="11-sep" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="11-sep" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="11-sep" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="11-sep" target="bali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="11-sep" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="wtc" target="mahmud_abouhalima">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="religious_extremism" target="bombing">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="weapons_expertise" target="weapon_training">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="weapons_expertise" target="driving_training">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="weapons_expertise" target="bomb_prep">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="weapons_expertise" target="bombing">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="surveillance_expertise" target="surveillence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="mohamed_owhali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="11-sep">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="somalia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="spain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="yemen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="check">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="italy">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="saudi_arabia" target="sudan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tanzania" target="mohamed_owhali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tanzania" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tanzania" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tanzania" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tanzania" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tanzania" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tanzania" target="somalia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tanzania" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tanzania" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tanzania" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="mohammed_odeh">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="united_states_of_america">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="residence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="paris">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="gulf">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="yemen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="bosnia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="harbor">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="bali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="israel" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="nairobi" target="mohammed_odeh">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="liberia" target="fazul_mohammed">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="ali_mohamed">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="u_s" target="jihad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="11-sep">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="u_s" target="kenya">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="kandahar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="pakistan">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="u_s" target="farm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="indonesia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="u_s" target="united_states_of_america">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="u_s" target="cambodia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="somalia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="u_s" target="turkey">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="u_s" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="spain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="washington">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="u_s" target="afghanistan">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="u_s" target="yemen">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="u_s" target="europe">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="u_s" target="check">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="airport">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="u_s" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="italy">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="montreal">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="u_s" target="bunker">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="cave">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="u_s" target="americas">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="u_s" target="kosovo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="harbor">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="u_s" target="sudan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="u_s" target="khartoum">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="djibouti">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="africa">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="u_s" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="residence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="paris">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="gulf">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="new_york">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="u_s" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="bosnia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="bali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="jalalabad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="philippines">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="tanzania">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="manhattan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="u_s" target="darfur">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kenya" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kandahar" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kandahar" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kandahar" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kandahar" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="khalid_al-fawwaz">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="jihad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="farm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="united_states_of_america">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="spain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="check">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="italy">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="montreal">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="bunker">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="kosovo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="london" target="sudan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="11-sep">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="pakistan" target="kandahar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="indonesia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="pakistan" target="united_states_of_america">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="pakistan" target="u_s">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="pakistan" target="cambodia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="somalia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="pakistan" target="turkey">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="pakistan" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="spain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="washington">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="pakistan" target="afghanistan">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="pakistan" target="yemen">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="pakistan" target="europe">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="pakistan" target="airport">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="pakistan" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="italy">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="bunker">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="americas">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="pakistan" target="harbor">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="pakistan" target="sudan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="pakistan" target="khartoum">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="africa">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="pakistan" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="residence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="gulf">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="new_york">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="pakistan" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="bosnia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="jalalabad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="philippines">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pakistan" target="tanzania">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="farm" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="farm" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="farm" target="united_states_of_america">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="farm" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="farm" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="farm" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="farm" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="farm" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="farm" target="check">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="farm" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="farm" target="harbor">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="farm" target="sudan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="jihad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="pakistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="indonesia" target="farm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="united_states_of_america">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="indonesia" target="u_s">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="indonesia" target="cambodia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="somalia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="indonesia" target="turkey">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="indonesia" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="spain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="washington">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="indonesia" target="afghanistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="indonesia" target="yemen">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="indonesia" target="europe">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="indonesia" target="check">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="airport">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="indonesia" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="italy">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="harbor">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="indonesia" target="sudan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="indonesia" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="bosnia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="bali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="philippines">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="indonesia" target="tanzania">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_states_of_america" target="11-sep">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="united_states_of_america" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_states_of_america" target="pakistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="united_states_of_america" target="farm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_states_of_america" target="indonesia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="united_states_of_america" target="u_s">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="united_states_of_america" target="somalia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="united_states_of_america" target="spain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_states_of_america" target="washington">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="united_states_of_america" target="afghanistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="united_states_of_america" target="europe">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="united_states_of_america" target="airport">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="united_states_of_america" target="italy">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_states_of_america" target="montreal">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="united_states_of_america" target="americas">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="united_states_of_america" target="harbor">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="united_states_of_america" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_states_of_america" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_states_of_america" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_states_of_america" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_states_of_america" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_states_of_america" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_states_of_america" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_states_of_america" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_states_of_america" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_states_of_america" target="bali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_states_of_america" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united_states_of_america" target="jalalabad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="cambodia" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="cambodia" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="cambodia" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="cambodia" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="cambodia" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="cambodia" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="cambodia" target="italy">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="cambodia" target="kosovo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="somalia" target="pakistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="somalia" target="indonesia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="somalia" target="united_states_of_america">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="somalia" target="u_s">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="somalia" target="turkey">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="somalia" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="somalia" target="afghanistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="somalia" target="yemen">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="somalia" target="europe">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="somalia" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="somalia" target="italy">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="somalia" target="kosovo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="somalia" target="sudan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="somalia" target="djibouti">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="somalia" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="somalia" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="somalia" target="gulf">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="somalia" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="somalia" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="somalia" target="bosnia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="somalia" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="somalia" target="tanzania">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="pakistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="turkey" target="farm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="indonesia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="turkey" target="united_states_of_america">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="turkey" target="u_s">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="turkey" target="somalia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="turkey" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="spain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="washington">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="turkey" target="afghanistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="turkey" target="europe">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="turkey" target="airport">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="turkey" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="italy">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="bosnia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="bali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="turkey" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="farm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="somalia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="spain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="yemen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="check">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="montreal">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="kosovo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lebanon" target="sudan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="spain" target="11-sep">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="spain" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="spain" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="spain" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="spain" target="united_states_of_america">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="spain" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="spain" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="spain" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="spain" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="spain" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="spain" target="yemen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="spain" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="spain" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="spain" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="spain" target="italy">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="spain" target="sudan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="11-sep">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="washington" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="pakistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="washington" target="farm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="indonesia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="washington" target="united_states_of_america">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="washington" target="u_s">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="washington" target="cambodia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="somalia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="washington" target="turkey">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="washington" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="spain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="afghanistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="washington" target="yemen">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="washington" target="europe">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="washington" target="airport">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="washington" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="italy">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="montreal">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="washington" target="americas">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="washington" target="kosovo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="harbor">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="washington" target="sudan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="washington" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="gulf">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="bosnia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="bali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="philippines">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="washington" target="tanzania">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="jihad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="11-sep">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="afghanistan" target="kandahar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="pakistan">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="afghanistan" target="indonesia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="afghanistan" target="united_states_of_america">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="afghanistan" target="u_s">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="afghanistan" target="cambodia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="somalia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="afghanistan" target="turkey">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="afghanistan" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="spain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="washington">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="afghanistan" target="yemen">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="afghanistan" target="europe">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="afghanistan" target="check">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="airport">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="afghanistan" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="italy">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="cave">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="afghanistan" target="americas">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="afghanistan" target="kosovo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="sudan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="afghanistan" target="djibouti">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="africa">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="afghanistan" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="new_york">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="afghanistan" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="bosnia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="bali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="jalalabad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="philippines">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="afghanistan" target="tanzania">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yemen" target="11-sep">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="yemen" target="pakistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="yemen" target="indonesia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="yemen" target="u_s">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="yemen" target="somalia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="yemen" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yemen" target="afghanistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="yemen" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yemen" target="harbor">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="yemen" target="sudan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="yemen" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yemen" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yemen" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yemen" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yemen" target="gulf">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yemen" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yemen" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="yemen" target="philippines">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="pakistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="europe" target="farm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="indonesia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="europe" target="united_states_of_america">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="europe" target="u_s">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="europe" target="somalia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="europe" target="turkey">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="europe" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="spain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="washington">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="europe" target="afghanistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="europe" target="yemen">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="europe" target="check">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="airport">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="europe" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="italy">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="bunker">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="harbor">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="europe" target="sudan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="europe" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="paris">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="gulf">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="bosnia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="europe" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="check" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="check" target="farm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="check" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="check" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="check" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="check" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="check" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="check" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="check" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="check" target="italy">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="check" target="cave">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="kandahar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="pakistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="airport" target="farm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="indonesia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="airport" target="united_states_of_america">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="airport" target="u_s">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="airport" target="cambodia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="turkey">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="airport" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="spain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="washington">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="airport" target="afghanistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="airport" target="europe">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="airport" target="check">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="italy">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="montreal">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="airport" target="kosovo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="harbor">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="airport" target="khartoum">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="paris">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="gulf">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="bali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="jalalabad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="airport" target="philippines">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="italy" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="italy" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="italy" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="italy" target="united_states_of_america">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="italy" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="italy" target="cambodia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="italy" target="somalia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="italy" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="italy" target="spain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="italy" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="italy" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="italy" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="italy" target="check">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="italy" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="italy" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="montreal" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="montreal" target="united_states_of_america">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="montreal" target="u_s">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="montreal" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="montreal" target="washington">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="montreal" target="airport">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="montreal" target="paris">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="montreal" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bunker" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bunker" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bunker" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bunker" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bunker" target="cave">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="cave" target="u_s">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="cave" target="afghanistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="cave" target="bunker">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="cave" target="kosovo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="cave" target="paris">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="cave" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="cave" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="americas" target="united_states_of_america">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="americas" target="u_s">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="americas" target="somalia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="americas" target="washington">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="americas" target="afghanistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="americas" target="europe">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="americas" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="americas" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="americas" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="americas" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kosovo" target="11-sep">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kosovo" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kosovo" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kosovo" target="cambodia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kosovo" target="somalia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kosovo" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kosovo" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kosovo" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kosovo" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kosovo" target="cave">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="harbor" target="farm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="harbor" target="indonesia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="harbor" target="united_states_of_america">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="harbor" target="u_s">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="harbor" target="yemen">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="harbor" target="europe">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="harbor" target="airport">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="harbor" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="harbor" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="harbor" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="harbor" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="harbor" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="harbor" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="london">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="pakistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="sudan" target="farm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="indonesia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="sudan" target="u_s">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="sudan" target="somalia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="sudan" target="lebanon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="spain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="washington">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="sudan" target="afghanistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="sudan" target="yemen">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="sudan" target="europe">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="sudan" target="saudi_arabia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="khartoum">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="djibouti">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="residence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="paris">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="bosnia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sudan" target="jalalabad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="khartoum" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="khartoum" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="khartoum" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="khartoum" target="sudan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="djibouti" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="djibouti" target="somalia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="djibouti" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="djibouti" target="yemen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="djibouti" target="sudan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="united_states_of_america">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="residence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="harbor">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="bali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="singapore" target="philippines">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="ali_mohamed">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="pakistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="africa" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="united_states_of_america">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="u_s">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="africa" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="somalia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="paris">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="gulf">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="afghanistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="africa" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="bosnia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="sudan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="philippines">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="africa" target="tanzania">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="united_states_of_america">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="residence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="paris">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="gulf">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="bosnia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="harbor">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="baghdad" target="bali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="residence" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="residence" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="residence" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="residence" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="residence" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="residence" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="residence" target="paris">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="residence" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="residence" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="united_states_of_america">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="paris">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="gulf">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="sudan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="britain" target="tanzania">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="11-sep">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="united_states_of_america">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="residence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="somalia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="paris">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="gulf">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="yemen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="bosnia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="harbor">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iran" target="sudan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paris" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paris" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paris" target="residence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paris" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paris" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paris" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paris" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paris" target="gulf">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paris" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paris" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paris" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paris" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paris" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paris" target="montreal">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paris" target="cave">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paris" target="sudan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="united_states_of_america">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="gulf">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="bosnia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="bali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="sudan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="asia" target="philippines">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gulf" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gulf" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gulf" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gulf" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gulf" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gulf" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gulf" target="paris">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gulf" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gulf" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gulf" target="yemen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gulf" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gulf" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gulf" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gulf" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gulf" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="residence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="somalia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="gulf">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="yemen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="bosnia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="egypt" target="sudan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="11-sep">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="united_states_of_america">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="paris">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="gulf">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="new_york">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="bosnia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="cave">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="bali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="sudan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="france" target="tanzania">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="pakistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="new_york" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="united_states_of_america">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="u_s">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="new_york" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="paris">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="afghanistan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="new_york" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="montreal">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="americas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="new_york" target="harbor">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="residence">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="somalia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="bosnia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="cave">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="bali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="sudan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="jalalabad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="province" target="philippines">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bosnia" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bosnia" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bosnia" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bosnia" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bosnia" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bosnia" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bosnia" target="somalia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bosnia" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bosnia" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bosnia" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bosnia" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bosnia" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bosnia" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bosnia" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bosnia" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bosnia" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bosnia" target="sudan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bali" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bali" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bali" target="baghdad">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bali" target="united_states_of_america">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bali" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bali" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bali" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bali" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bali" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bali" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bali" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="united_states_of_america">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="britain">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="israel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="somalia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="iran">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="asia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="gulf">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="yemen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="france">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="europe">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="harbor">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="bali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="sudan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="malaysia" target="philippines">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jalalabad" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jalalabad" target="united_states_of_america">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jalalabad" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jalalabad" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jalalabad" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jalalabad" target="airport">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="philippines" target="singapore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="philippines" target="pakistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="philippines" target="africa">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="philippines" target="indonesia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="philippines" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="philippines" target="washington">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="philippines" target="afghanistan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="philippines" target="yemen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="philippines" target="egypt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="philippines" target="province">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="philippines" target="bali">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="philippines" target="malaysia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="manhattan" target="ali_mohamed">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="manhattan" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="darfur" target="ali_mohamed">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="darfur" target="u_s">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="building_for_bombmaking" target="bomb_prep">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="money" target="bombing">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bomb_material" target="weapon_training">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bomb_material" target="bomb_prep">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bomb_material" target="bombing">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="truck" target="driving_training">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="truck" target="bombing">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bomb_prep" target="weapon_training">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bombing" target="driving_training">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bombing" target="bomb_prep">
+  <data key="d2">1.0</data>
+</edge>
+</graph></graphml>

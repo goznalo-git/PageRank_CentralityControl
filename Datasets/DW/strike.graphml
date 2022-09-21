@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">CASOS</data>
+<node id="Frank">
+  <data key="d1">agent</data>
+</node>
+<node id="Gill">
+  <data key="d1">agent</data>
+</node>
+<node id="Ike">
+  <data key="d1">agent</data>
+</node>
+<node id="Mike">
+  <data key="d1">agent</data>
+</node>
+<node id="Hal">
+  <data key="d1">agent</data>
+</node>
+<node id="John">
+  <data key="d1">agent</data>
+</node>
+<node id="Karl">
+  <data key="d1">agent</data>
+</node>
+<node id="Lanny">
+  <data key="d1">agent</data>
+</node>
+<node id="Bob">
+  <data key="d1">agent</data>
+</node>
+<node id="Alejandro">
+  <data key="d1">agent</data>
+</node>
+<node id="Carlos">
+  <data key="d1">agent</data>
+</node>
+<node id="Eduardo">
+  <data key="d1">agent</data>
+</node>
+<node id="Domingo">
+  <data key="d1">agent</data>
+</node>
+<node id="Norm">
+  <data key="d1">agent</data>
+</node>
+<node id="Ozzie">
+  <data key="d1">agent</data>
+</node>
+<node id="Vern">
+  <data key="d1">agent</data>
+</node>
+<node id="Paul">
+  <data key="d1">agent</data>
+</node>
+<node id="Quint">
+  <data key="d1">agent</data>
+</node>
+<node id="Utrecht">
+  <data key="d1">agent</data>
+</node>
+<node id="Russ">
+  <data key="d1">agent</data>
+</node>
+<node id="Ted">
+  <data key="d1">agent</data>
+</node>
+<node id="Sam">
+  <data key="d1">agent</data>
+</node>
+<node id="Xavier">
+  <data key="d1">agent</data>
+</node>
+<node id="Wendle">
+  <data key="d1">agent</data>
+</node>
+<edge source="Frank" target="Gill">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gill" target="Frank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gill" target="Ike">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gill" target="Hal">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gill" target="John">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ike" target="Gill">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ike" target="Mike">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ike" target="Bob">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mike" target="Ike">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Mike" target="Bob">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Hal" target="Gill">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Hal" target="John">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Hal" target="Bob">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="John" target="Gill">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="John" target="Hal">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="John" target="Karl">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="John" target="Lanny">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="John" target="Bob">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Karl" target="John">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Karl" target="Lanny">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Karl" target="Ozzie">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lanny" target="John">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lanny" target="Karl">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lanny" target="Bob">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bob" target="Ike">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bob" target="Mike">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bob" target="Hal">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bob" target="John">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bob" target="Lanny">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bob" target="Alejandro">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bob" target="Norm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Alejandro" target="Bob">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Alejandro" target="Carlos">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Alejandro" target="Eduardo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Alejandro" target="Domingo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Carlos" target="Alejandro">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Carlos" target="Eduardo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Carlos" target="Domingo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Eduardo" target="Alejandro">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Eduardo" target="Carlos">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Eduardo" target="Domingo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Domingo" target="Alejandro">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Domingo" target="Carlos">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Domingo" target="Eduardo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Norm" target="Bob">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Norm" target="Ozzie">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Norm" target="Vern">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Norm" target="Paul">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Norm" target="Utrecht">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Norm" target="Sam">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ozzie" target="Karl">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ozzie" target="Norm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Vern" target="Norm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Vern" target="Ted">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Paul" target="Norm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Paul" target="Quint">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Quint" target="Paul">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Quint" target="Utrecht">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Quint" target="Russ">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Utrecht" target="Norm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Utrecht" target="Quint">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Utrecht" target="Russ">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Utrecht" target="Sam">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Russ" target="Quint">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Russ" target="Utrecht">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Russ" target="Ted">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ted" target="Vern">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ted" target="Russ">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Sam" target="Norm">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Sam" target="Utrecht">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Sam" target="Xavier">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Sam" target="Wendle">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Xavier" target="Sam">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Xavier" target="Wendle">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Wendle" target="Sam">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Wendle" target="Xavier">
+  <data key="d2">1.0</data>
+</edge>
+</graph></graphml>

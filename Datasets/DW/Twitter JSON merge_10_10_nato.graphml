@@ -1,0 +1,7044 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">CASOS</data>
+<node id="652820035463970816">
+  <data key="d1">Event</data>
+</node>
+<node id="652779761433997313">
+  <data key="d1">Event</data>
+</node>
+<node id="652730680812572672">
+  <data key="d1">Event</data>
+</node>
+<node id="652821096413163520">
+  <data key="d1">Event</data>
+</node>
+<node id="652941939118067712">
+  <data key="d1">Event</data>
+</node>
+<node id="652843681792282624">
+  <data key="d1">Event</data>
+</node>
+<node id="652818296392286208">
+  <data key="d1">Event</data>
+</node>
+<node id="652781737366454272">
+  <data key="d1">Event</data>
+</node>
+<node id="652981345715662848">
+  <data key="d1">Event</data>
+</node>
+<node id="652780874900049920">
+  <data key="d1">Event</data>
+</node>
+<node id="652924530625806337">
+  <data key="d1">Event</data>
+</node>
+<node id="652834317517856768">
+  <data key="d1">Event</data>
+</node>
+<node id="652834319208185856">
+  <data key="d1">Event</data>
+</node>
+<node id="652819114998767616">
+  <data key="d1">Event</data>
+</node>
+<node id="652800714952065025">
+  <data key="d1">Event</data>
+</node>
+<node id="652817573206224896">
+  <data key="d1">Event</data>
+</node>
+<node id="652915671563677696">
+  <data key="d1">Event</data>
+</node>
+<node id="652779028387110912">
+  <data key="d1">Event</data>
+</node>
+<node id="652810677975957504">
+  <data key="d1">Event</data>
+</node>
+<node id="652808500809191424">
+  <data key="d1">Event</data>
+</node>
+<node id="652852184707690496">
+  <data key="d1">Event</data>
+</node>
+<node id="652943614969053184">
+  <data key="d1">Event</data>
+</node>
+<node id="652876219415941120">
+  <data key="d1">Event</data>
+</node>
+<node id="652963166029283328">
+  <data key="d1">Event</data>
+</node>
+<node id="652858947926380545">
+  <data key="d1">Event</data>
+</node>
+<node id="652820568308346880">
+  <data key="d1">Event</data>
+</node>
+<node id="652819060955201537">
+  <data key="d1">Event</data>
+</node>
+<node id="652748070891950080">
+  <data key="d1">Event</data>
+</node>
+<node id="652879665082859520">
+  <data key="d1">Event</data>
+</node>
+<node id="652834865000382464">
+  <data key="d1">Event</data>
+</node>
+<node id="652701014831800320">
+  <data key="d1">Event</data>
+</node>
+<node id="652886967466770433">
+  <data key="d1">Event</data>
+</node>
+<node id="652784253638475776">
+  <data key="d1">Event</data>
+</node>
+<node id="652800000297185280">
+  <data key="d1">Event</data>
+</node>
+<node id="652758113314054144">
+  <data key="d1">Event</data>
+</node>
+<node id="652837940175994880">
+  <data key="d1">Event</data>
+</node>
+<node id="652789074374340608">
+  <data key="d1">Event</data>
+</node>
+<node id="652698427676098560">
+  <data key="d1">Event</data>
+</node>
+<node id="652772888022532096">
+  <data key="d1">Event</data>
+</node>
+<node id="652818169988521984">
+  <data key="d1">Event</data>
+</node>
+<node id="652762554582892544">
+  <data key="d1">Event</data>
+</node>
+<node id="652769567429816320">
+  <data key="d1">Event</data>
+</node>
+<node id="652834003238678528">
+  <data key="d1">Event</data>
+</node>
+<node id="652813477766144000">
+  <data key="d1">Event</data>
+</node>
+<node id="652860562746003457">
+  <data key="d1">Event</data>
+</node>
+<node id="652836907106324480">
+  <data key="d1">Event</data>
+</node>
+<node id="652857796912881664">
+  <data key="d1">Event</data>
+</node>
+<node id="652928900536893440">
+  <data key="d1">Event</data>
+</node>
+<node id="652826595246374913">
+  <data key="d1">Event</data>
+</node>
+<node id="652758668103012352">
+  <data key="d1">Event</data>
+</node>
+<node id="652878968849346560">
+  <data key="d1">Event</data>
+</node>
+<node id="652935898103988225">
+  <data key="d1">Event</data>
+</node>
+<node id="652844486813478912">
+  <data key="d1">Event</data>
+</node>
+<node id="652871865262845952">
+  <data key="d1">Event</data>
+</node>
+<node id="652960742384267264">
+  <data key="d1">Event</data>
+</node>
+<node id="652858284253294592">
+  <data key="d1">Event</data>
+</node>
+<node id="652904357999038465">
+  <data key="d1">Event</data>
+</node>
+<node id="652771562676973569">
+  <data key="d1">Event</data>
+</node>
+<node id="652938211275210752">
+  <data key="d1">Event</data>
+</node>
+<node id="652947918996041729">
+  <data key="d1">Event</data>
+</node>
+<node id="652801582166179840">
+  <data key="d1">Event</data>
+</node>
+<node id="652711066443644928">
+  <data key="d1">Event</data>
+</node>
+<node id="652799302675398656">
+  <data key="d1">Event</data>
+</node>
+<node id="652859175211520000">
+  <data key="d1">Event</data>
+</node>
+<node id="652809471274713088">
+  <data key="d1">Event</data>
+</node>
+<node id="652931982100459521">
+  <data key="d1">Event</data>
+</node>
+<node id="652955084196868096">
+  <data key="d1">Event</data>
+</node>
+<node id="652793524618969088">
+  <data key="d1">Event</data>
+</node>
+<node id="652756342269157376">
+  <data key="d1">Event</data>
+</node>
+<node id="652834626130563072">
+  <data key="d1">Event</data>
+</node>
+<node id="652784381820575745">
+  <data key="d1">Event</data>
+</node>
+<node id="652855138068090881">
+  <data key="d1">Event</data>
+</node>
+<node id="652676856546762752">
+  <data key="d1">Event</data>
+</node>
+<node id="652856588491980800">
+  <data key="d1">Event</data>
+</node>
+<node id="652861153870131200">
+  <data key="d1">Event</data>
+</node>
+<node id="652952031913771009">
+  <data key="d1">Event</data>
+</node>
+<node id="652925394316881921">
+  <data key="d1">Event</data>
+</node>
+<node id="652943283707117568">
+  <data key="d1">Event</data>
+</node>
+<node id="652988056358752257">
+  <data key="d1">Event</data>
+</node>
+<node id="652837177274048512">
+  <data key="d1">Event</data>
+</node>
+<node id="652819416510541824">
+  <data key="d1">Event</data>
+</node>
+<node id="652878790318813184">
+  <data key="d1">Event</data>
+</node>
+<node id="652836976287215616">
+  <data key="d1">Event</data>
+</node>
+<node id="652903946382610432">
+  <data key="d1">Event</data>
+</node>
+<node id="652985013206691840">
+  <data key="d1">Event</data>
+</node>
+<node id="652939628027215872">
+  <data key="d1">Event</data>
+</node>
+<node id="652819689689751552">
+  <data key="d1">Event</data>
+</node>
+<node id="652858681403539456">
+  <data key="d1">Event</data>
+</node>
+<node id="652752158388027392">
+  <data key="d1">Event</data>
+</node>
+<node id="652838449708404737">
+  <data key="d1">Event</data>
+</node>
+<node id="652755611285897216">
+  <data key="d1">Event</data>
+</node>
+<node id="652940846631940096">
+  <data key="d1">Event</data>
+</node>
+<node id="652948037862559744">
+  <data key="d1">Event</data>
+</node>
+<node id="652922388842192897">
+  <data key="d1">Event</data>
+</node>
+<node id="652750937883320320">
+  <data key="d1">Event</data>
+</node>
+<node id="652887164536102912">
+  <data key="d1">Event</data>
+</node>
+<node id="652945250940493824">
+  <data key="d1">Event</data>
+</node>
+<node id="652847449934053376">
+  <data key="d1">Event</data>
+</node>
+<node id="652944935709188096">
+  <data key="d1">Event</data>
+</node>
+<node id="652945183600967685">
+  <data key="d1">Event</data>
+</node>
+<node id="652811644859510784">
+  <data key="d1">Event</data>
+</node>
+<node id="652947463188389888">
+  <data key="d1">Event</data>
+</node>
+<node id="652849178570321921">
+  <data key="d1">Event</data>
+</node>
+<node id="652833237505589248">
+  <data key="d1">Event</data>
+</node>
+<node id="652943934080057345">
+  <data key="d1">Event</data>
+</node>
+<node id="652934676416471040">
+  <data key="d1">Event</data>
+</node>
+<node id="652888980678160384">
+  <data key="d1">Event</data>
+</node>
+<node id="652786179289559040">
+  <data key="d1">Event</data>
+</node>
+<node id="652919100545626112">
+  <data key="d1">Event</data>
+</node>
+<node id="652969717100113920">
+  <data key="d1">Event</data>
+</node>
+<node id="652923897281671168">
+  <data key="d1">Event</data>
+</node>
+<node id="652811494330105856">
+  <data key="d1">Event</data>
+</node>
+<node id="652852991221997568">
+  <data key="d1">Event</data>
+</node>
+<node id="652852878420353024">
+  <data key="d1">Event</data>
+</node>
+<node id="652784483796680704">
+  <data key="d1">Event</data>
+</node>
+<node id="652820909791793152">
+  <data key="d1">Event</data>
+</node>
+<node id="652842010253127681">
+  <data key="d1">Event</data>
+</node>
+<node id="652789540470554624">
+  <data key="d1">Event</data>
+</node>
+<node id="652941796587257857">
+  <data key="d1">Event</data>
+</node>
+<node id="652852416380043264">
+  <data key="d1">Event</data>
+</node>
+<node id="652936090471518209">
+  <data key="d1">Event</data>
+</node>
+<node id="652808394580082688">
+  <data key="d1">Event</data>
+</node>
+<node id="652938677065252865">
+  <data key="d1">Event</data>
+</node>
+<node id="652989871884226560">
+  <data key="d1">Event</data>
+</node>
+<node id="652877786428764160">
+  <data key="d1">Event</data>
+</node>
+<node id="652974429086072832">
+  <data key="d1">Event</data>
+</node>
+<node id="652818458372087809">
+  <data key="d1">Event</data>
+</node>
+<node id="652781238890156032">
+  <data key="d1">Event</data>
+</node>
+<node id="652936010079281152">
+  <data key="d1">Event</data>
+</node>
+<node id="652933539189669888">
+  <data key="d1">Event</data>
+</node>
+<node id="652838318355415040">
+  <data key="d1">Event</data>
+</node>
+<node id="652986981895536640">
+  <data key="d1">Event</data>
+</node>
+<node id="652785198057263105">
+  <data key="d1">Event</data>
+</node>
+<node id="652690686710521856">
+  <data key="d1">Event</data>
+</node>
+<node id="652820265928368128">
+  <data key="d1">Event</data>
+</node>
+<node id="652834658527367169">
+  <data key="d1">Event</data>
+</node>
+<node id="652914461045604352">
+  <data key="d1">Event</data>
+</node>
+<node id="652754684814454784">
+  <data key="d1">Event</data>
+</node>
+<node id="652799046751518724">
+  <data key="d1">Event</data>
+</node>
+<node id="652870043668234240">
+  <data key="d1">Event</data>
+</node>
+<node id="652860591934205952">
+  <data key="d1">Event</data>
+</node>
+<node id="652768896676691968">
+  <data key="d1">Event</data>
+</node>
+<node id="652936723547164672">
+  <data key="d1">Event</data>
+</node>
+<node id="652859458637459456">
+  <data key="d1">Event</data>
+</node>
+<node id="652958832621146113">
+  <data key="d1">Event</data>
+</node>
+<node id="652866678578106368">
+  <data key="d1">Event</data>
+</node>
+<node id="652849920710451200">
+  <data key="d1">Event</data>
+</node>
+<node id="652818155182669824">
+  <data key="d1">Event</data>
+</node>
+<node id="652716265300197376">
+  <data key="d1">Event</data>
+</node>
+<node id="652783883688275968">
+  <data key="d1">Event</data>
+</node>
+<node id="652791874667855872">
+  <data key="d1">Event</data>
+</node>
+<node id="652857191347671042">
+  <data key="d1">Event</data>
+</node>
+<node id="652925536856109056">
+  <data key="d1">Event</data>
+</node>
+<node id="652782427904024576">
+  <data key="d1">Event</data>
+</node>
+<node id="652963353900544000">
+  <data key="d1">Event</data>
+</node>
+<node id="652833884455993344">
+  <data key="d1">Event</data>
+</node>
+<node id="652837619026522114">
+  <data key="d1">Event</data>
+</node>
+<node id="652816763202048000">
+  <data key="d1">Event</data>
+</node>
+<node id="652817932985180160">
+  <data key="d1">Event</data>
+</node>
+<node id="652789550759211009">
+  <data key="d1">Event</data>
+</node>
+<node id="652689963436388352">
+  <data key="d1">Event</data>
+</node>
+<node id="652953182428073984">
+  <data key="d1">Event</data>
+</node>
+<node id="652768924149399552">
+  <data key="d1">Event</data>
+</node>
+<node id="652785041999835137">
+  <data key="d1">Event</data>
+</node>
+<node id="652949007644422144">
+  <data key="d1">Event</data>
+</node>
+<node id="652870829471088642">
+  <data key="d1">Event</data>
+</node>
+<node id="652941180712390656">
+  <data key="d1">Event</data>
+</node>
+<node id="652856924648669185">
+  <data key="d1">Event</data>
+</node>
+<node id="652836414787293185">
+  <data key="d1">Event</data>
+</node>
+<node id="652862250877878273">
+  <data key="d1">Event</data>
+</node>
+<node id="652838204060659716">
+  <data key="d1">Event</data>
+</node>
+<node id="652910424585830400">
+  <data key="d1">Event</data>
+</node>
+<node id="652775074173464576">
+  <data key="d1">Event</data>
+</node>
+<node id="652923102628827136">
+  <data key="d1">Event</data>
+</node>
+<node id="652758571868946432">
+  <data key="d1">Event</data>
+</node>
+<node id="652787942046498816">
+  <data key="d1">Event</data>
+</node>
+<node id="652836207894884352">
+  <data key="d1">Event</data>
+</node>
+<node id="652834457842491392">
+  <data key="d1">Event</data>
+</node>
+<node id="652818726081925120">
+  <data key="d1">Event</data>
+</node>
+<node id="652984446321360896">
+  <data key="d1">Event</data>
+</node>
+<node id="652932557563150336">
+  <data key="d1">Event</data>
+</node>
+<node id="652781994770853888">
+  <data key="d1">Event</data>
+</node>
+<node id="652744726744014848">
+  <data key="d1">Event</data>
+</node>
+<node id="652835688124141568">
+  <data key="d1">Event</data>
+</node>
+<node id="652768372346720256">
+  <data key="d1">Event</data>
+</node>
+<node id="652743650510831616">
+  <data key="d1">Event</data>
+</node>
+<node id="652833727442255873">
+  <data key="d1">Event</data>
+</node>
+<node id="652886171685662720">
+  <data key="d1">Event</data>
+</node>
+<node id="652937778674556929">
+  <data key="d1">Event</data>
+</node>
+<node id="652951981154152449">
+  <data key="d1">Event</data>
+</node>
+<node id="652838415340335104">
+  <data key="d1">Event</data>
+</node>
+<node id="652689201440403456">
+  <data key="d1">Event</data>
+</node>
+<node id="652961651692576768">
+  <data key="d1">Event</data>
+</node>
+<node id="652833411732738048">
+  <data key="d1">Event</data>
+</node>
+<node id="652793888105701376">
+  <data key="d1">Event</data>
+</node>
+<node id="652892833695801344">
+  <data key="d1">Event</data>
+</node>
+<node id="652967382760202240">
+  <data key="d1">Event</data>
+</node>
+<node id="652891024554094592">
+  <data key="d1">Event</data>
+</node>
+<node id="652944899399122945">
+  <data key="d1">Event</data>
+</node>
+<node id="652774656726933504">
+  <data key="d1">Event</data>
+</node>
+<node id="652796408685314049">
+  <data key="d1">Event</data>
+</node>
+<node id="652824981311758336">
+  <data key="d1">Event</data>
+</node>
+<node id="652832040086294528">
+  <data key="d1">Event</data>
+</node>
+<node id="652825288208990208">
+  <data key="d1">Event</data>
+</node>
+<node id="652916343331778560">
+  <data key="d1">Event</data>
+</node>
+<node id="652937570842755072">
+  <data key="d1">Event</data>
+</node>
+<node id="652755519254433792">
+  <data key="d1">Event</data>
+</node>
+<node id="652910519758770176">
+  <data key="d1">Event</data>
+</node>
+<node id="652965689674698753">
+  <data key="d1">Event</data>
+</node>
+<node id="652835306345992192">
+  <data key="d1">Event</data>
+</node>
+<node id="652858046767603712">
+  <data key="d1">Event</data>
+</node>
+<node id="652856208488046592">
+  <data key="d1">Event</data>
+</node>
+<node id="652790074640330752">
+  <data key="d1">Event</data>
+</node>
+<node id="652967148730621952">
+  <data key="d1">Event</data>
+</node>
+<node id="652830457789317120">
+  <data key="d1">Event</data>
+</node>
+<node id="652818529679450112">
+  <data key="d1">Event</data>
+</node>
+<node id="652835613482348544">
+  <data key="d1">Event</data>
+</node>
+<node id="652963831359098880">
+  <data key="d1">Event</data>
+</node>
+<node id="652737121472655360">
+  <data key="d1">Event</data>
+</node>
+<node id="652943666445701120">
+  <data key="d1">Event</data>
+</node>
+<node id="652820813415120897">
+  <data key="d1">Event</data>
+</node>
+<node id="652925260749254657">
+  <data key="d1">Event</data>
+</node>
+<node id="652992784354398208">
+  <data key="d1">Event</data>
+</node>
+<node id="652845631472562177">
+  <data key="d1">Event</data>
+</node>
+<node id="652857678939746304">
+  <data key="d1">Event</data>
+</node>
+<node id="652750720383389696">
+  <data key="d1">Event</data>
+</node>
+<node id="652837527183867904">
+  <data key="d1">Event</data>
+</node>
+<node id="652838613386964994">
+  <data key="d1">Event</data>
+</node>
+<node id="652889219858305024">
+  <data key="d1">Event</data>
+</node>
+<node id="652871146203971584">
+  <data key="d1">Event</data>
+</node>
+<node id="652879132716609536">
+  <data key="d1">Event</data>
+</node>
+<node id="652827145992019968">
+  <data key="d1">Event</data>
+</node>
+<node id="652700532805640192">
+  <data key="d1">Event</data>
+</node>
+<node id="652760410442080256">
+  <data key="d1">Event</data>
+</node>
+<node id="652944668079075328">
+  <data key="d1">Event</data>
+</node>
+<node id="652856462742548480">
+  <data key="d1">Event</data>
+</node>
+<node id="652885467436871681">
+  <data key="d1">Event</data>
+</node>
+<node id="652964610371420160">
+  <data key="d1">Event</data>
+</node>
+<node id="652943437843570688">
+  <data key="d1">Event</data>
+</node>
+<node id="652803403773550592">
+  <data key="d1">Event</data>
+</node>
+<node id="652929184742920192">
+  <data key="d1">Event</data>
+</node>
+<node id="652782945409888256">
+  <data key="d1">Event</data>
+</node>
+<node id="652816786937782272">
+  <data key="d1">Event</data>
+</node>
+<node id="652878891833511936">
+  <data key="d1">Event</data>
+</node>
+<node id="652835259562762240">
+  <data key="d1">Event</data>
+</node>
+<node id="652882111993659392">
+  <data key="d1">Event</data>
+</node>
+<node id="652798798314532864">
+  <data key="d1">Event</data>
+</node>
+<node id="652863273826652161">
+  <data key="d1">Event</data>
+</node>
+<node id="652885332480925696">
+  <data key="d1">Event</data>
+</node>
+<node id="652865103822495744">
+  <data key="d1">Event</data>
+</node>
+<node id="652810884855803904">
+  <data key="d1">Event</data>
+</node>
+<node id="652813662978183169">
+  <data key="d1">Event</data>
+</node>
+<node id="652793492687724544">
+  <data key="d1">Event</data>
+</node>
+<node id="652650849836081153">
+  <data key="d1">Event</data>
+</node>
+<node id="652843677631545344">
+  <data key="d1">Event</data>
+</node>
+<node id="652965556803502081">
+  <data key="d1">Event</data>
+</node>
+<node id="652723749435912192">
+  <data key="d1">Event</data>
+</node>
+<node id="652788694412361728">
+  <data key="d1">Event</data>
+</node>
+<node id="652829686029021184">
+  <data key="d1">Event</data>
+</node>
+<node id="652837540668526592">
+  <data key="d1">Event</data>
+</node>
+<node id="652792006742290432">
+  <data key="d1">Event</data>
+</node>
+<node id="652887375509590016">
+  <data key="d1">Event</data>
+</node>
+<node id="652838340375511040">
+  <data key="d1">Event</data>
+</node>
+<node id="652975386008158208">
+  <data key="d1">Event</data>
+</node>
+<node id="652773890528292865">
+  <data key="d1">Event</data>
+</node>
+<node id="652860322546630656">
+  <data key="d1">Event</data>
+</node>
+<node id="652924206208917504">
+  <data key="d1">Event</data>
+</node>
+<node id="652970157829132289">
+  <data key="d1">Event</data>
+</node>
+<node id="652867685429157888">
+  <data key="d1">Event</data>
+</node>
+<node id="652924945278894082">
+  <data key="d1">Event</data>
+</node>
+<node id="652836597726113792">
+  <data key="d1">Event</data>
+</node>
+<node id="652923192907055105">
+  <data key="d1">Event</data>
+</node>
+<node id="652725059845537792">
+  <data key="d1">Event</data>
+</node>
+<node id="652951568707403777">
+  <data key="d1">Event</data>
+</node>
+<node id="652943373742047232">
+  <data key="d1">Event</data>
+</node>
+<node id="652760222788919296">
+  <data key="d1">Event</data>
+</node>
+<node id="652765046389477376">
+  <data key="d1">Event</data>
+</node>
+<node id="652909097017344000">
+  <data key="d1">Event</data>
+</node>
+<node id="652814847520952320">
+  <data key="d1">Event</data>
+</node>
+<node id="652803452351983616">
+  <data key="d1">Event</data>
+</node>
+<node id="652788684555730944">
+  <data key="d1">Event</data>
+</node>
+<node id="652809679190511616">
+  <data key="d1">Event</data>
+</node>
+<node id="652783554028535808">
+  <data key="d1">Event</data>
+</node>
+<node id="652861674333044736">
+  <data key="d1">Event</data>
+</node>
+<node id="652859782848729089">
+  <data key="d1">Event</data>
+</node>
+<node id="652838883105861632">
+  <data key="d1">Event</data>
+</node>
+<node id="652798325561929728">
+  <data key="d1">Event</data>
+</node>
+<node id="652649824341348352">
+  <data key="d1">Event</data>
+</node>
+<node id="652980716318400512">
+  <data key="d1">Event</data>
+</node>
+<node id="652764307806113792">
+  <data key="d1">Event</data>
+</node>
+<node id="652756378445041668">
+  <data key="d1">Event</data>
+</node>
+<node id="652636539122503680">
+  <data key="d1">Event</data>
+</node>
+<node id="652776877908729856">
+  <data key="d1">Event</data>
+</node>
+<node id="652790799621562368">
+  <data key="d1">Event</data>
+</node>
+<node id="652811094789083136">
+  <data key="d1">Event</data>
+</node>
+<node id="652804811759468544">
+  <data key="d1">Event</data>
+</node>
+<node id="652921577013649408">
+  <data key="d1">Event</data>
+</node>
+<node id="652819713639215104">
+  <data key="d1">Event</data>
+</node>
+<node id="652935813928493057">
+  <data key="d1">Event</data>
+</node>
+<node id="652790242823548928">
+  <data key="d1">Event</data>
+</node>
+<node id="652916646944862208">
+  <data key="d1">Event</data>
+</node>
+<node id="652905345040412672">
+  <data key="d1">Event</data>
+</node>
+<node id="652905345485008896">
+  <data key="d1">Event</data>
+</node>
+<node id="652784773123977216">
+  <data key="d1">Event</data>
+</node>
+<node id="652858092879761408">
+  <data key="d1">Event</data>
+</node>
+<node id="652944778246651904">
+  <data key="d1">Event</data>
+</node>
+<node id="652958456660557824">
+  <data key="d1">Event</data>
+</node>
+<node id="652942950184407040">
+  <data key="d1">Event</data>
+</node>
+<node id="652925863407800321">
+  <data key="d1">Event</data>
+</node>
+<node id="652780294047694848">
+  <data key="d1">Event</data>
+</node>
+<node id="652815884550021120">
+  <data key="d1">Event</data>
+</node>
+<node id="652819413847117824">
+  <data key="d1">Event</data>
+</node>
+<node id="652892713365434368">
+  <data key="d1">Event</data>
+</node>
+<node id="652812231932030976">
+  <data key="d1">Event</data>
+</node>
+<node id="652875518178664448">
+  <data key="d1">Event</data>
+</node>
+<node id="652788654507737088">
+  <data key="d1">Event</data>
+</node>
+<node id="652921795767627776">
+  <data key="d1">Event</data>
+</node>
+<node id="652860093231431684">
+  <data key="d1">Event</data>
+</node>
+<node id="652942015102124033">
+  <data key="d1">Event</data>
+</node>
+<node id="652822855810449409">
+  <data key="d1">Event</data>
+</node>
+<node id="652861983365201920">
+  <data key="d1">Event</data>
+</node>
+<node id="652857472395386880">
+  <data key="d1">Event</data>
+</node>
+<node id="652772079218106368">
+  <data key="d1">Event</data>
+</node>
+<node id="652834687711375360">
+  <data key="d1">Event</data>
+</node>
+<node id="652783196522811392">
+  <data key="d1">Event</data>
+</node>
+<node id="652956091995803648">
+  <data key="d1">Event</data>
+</node>
+<node id="652885570432167936">
+  <data key="d1">Event</data>
+</node>
+<node id="652703201091813376">
+  <data key="d1">Event</data>
+</node>
+<node id="652845744047661056">
+  <data key="d1">Event</data>
+</node>
+<node id="652879360731557888">
+  <data key="d1">Event</data>
+</node>
+<node id="652870178070368256">
+  <data key="d1">Event</data>
+</node>
+<node id="652900065934200833">
+  <data key="d1">Event</data>
+</node>
+<node id="652856365023633408">
+  <data key="d1">Event</data>
+</node>
+<node id="652784790442262528">
+  <data key="d1">Event</data>
+</node>
+<node id="652761914620157952">
+  <data key="d1">Event</data>
+</node>
+<node id="2775531845">
+  <data key="d1">Agent</data>
+</node>
+<node id="92149084">
+  <data key="d1">Agent</data>
+</node>
+<node id="83795099">
+  <data key="d1">Agent</data>
+</node>
+<node id="783214">
+  <data key="d1">Agent</data>
+</node>
+<node id="250633394">
+  <data key="d1">Agent</data>
+</node>
+<node id="2210939485">
+  <data key="d1">Agent</data>
+</node>
+<node id="3230046943">
+  <data key="d1">Agent</data>
+</node>
+<node id="1228444484">
+  <data key="d1">Agent</data>
+</node>
+<node id="210903844">
+  <data key="d1">Agent</data>
+</node>
+<node id="535815515">
+  <data key="d1">Agent</data>
+</node>
+<node id="782224802">
+  <data key="d1">Agent</data>
+</node>
+<node id="1633710211">
+  <data key="d1">Agent</data>
+</node>
+<node id="2986798575">
+  <data key="d1">Agent</data>
+</node>
+<node id="62135928">
+  <data key="d1">Agent</data>
+</node>
+<node id="1462767992">
+  <data key="d1">Agent</data>
+</node>
+<node id="1390647570">
+  <data key="d1">Agent</data>
+</node>
+<node id="2188410637">
+  <data key="d1">Agent</data>
+</node>
+<node id="1688854273">
+  <data key="d1">Agent</data>
+</node>
+<node id="2180371">
+  <data key="d1">Agent</data>
+</node>
+<node id="14159148">
+  <data key="d1">Agent</data>
+</node>
+<node id="318556348">
+  <data key="d1">Agent</data>
+</node>
+<node id="361233603">
+  <data key="d1">Agent</data>
+</node>
+<node id="138568882">
+  <data key="d1">Agent</data>
+</node>
+<node id="389580215">
+  <data key="d1">Agent</data>
+</node>
+<node id="2340860012">
+  <data key="d1">Agent</data>
+</node>
+<node id="1949920460">
+  <data key="d1">Agent</data>
+</node>
+<node id="3428506617">
+  <data key="d1">Agent</data>
+</node>
+<node id="252702852">
+  <data key="d1">Agent</data>
+</node>
+<node id="107199323">
+  <data key="d1">Agent</data>
+</node>
+<node id="497838968">
+  <data key="d1">Agent</data>
+</node>
+<node id="20849147">
+  <data key="d1">Agent</data>
+</node>
+<node id="1476811854">
+  <data key="d1">Agent</data>
+</node>
+<node id="2836882956">
+  <data key="d1">Agent</data>
+</node>
+<node id="201241701">
+  <data key="d1">Agent</data>
+</node>
+<node id="2927247017">
+  <data key="d1">Agent</data>
+</node>
+<node id="870200407">
+  <data key="d1">Agent</data>
+</node>
+<node id="1595552713">
+  <data key="d1">Agent</data>
+</node>
+<node id="71505421">
+  <data key="d1">Agent</data>
+</node>
+<node id="839254856">
+  <data key="d1">Agent</data>
+</node>
+<node id="162514125">
+  <data key="d1">Agent</data>
+</node>
+<node id="307904254">
+  <data key="d1">Agent</data>
+</node>
+<node id="816434880">
+  <data key="d1">Agent</data>
+</node>
+<node id="272671641">
+  <data key="d1">Agent</data>
+</node>
+<node id="2603716520">
+  <data key="d1">Agent</data>
+</node>
+<node id="2386488433">
+  <data key="d1">Agent</data>
+</node>
+<node id="1449004548">
+  <data key="d1">Agent</data>
+</node>
+<node id="194538182">
+  <data key="d1">Agent</data>
+</node>
+<node id="628183914">
+  <data key="d1">Agent</data>
+</node>
+<node id="3016979224">
+  <data key="d1">Agent</data>
+</node>
+<node id="3026423398">
+  <data key="d1">Agent</data>
+</node>
+<node id="303939816">
+  <data key="d1">Agent</data>
+</node>
+<node id="3064465611">
+  <data key="d1">Agent</data>
+</node>
+<node id="3406496045">
+  <data key="d1">Agent</data>
+</node>
+<node id="3169007553">
+  <data key="d1">Agent</data>
+</node>
+<node id="702924097">
+  <data key="d1">Agent</data>
+</node>
+<node id="26475695">
+  <data key="d1">Agent</data>
+</node>
+<node id="235918702">
+  <data key="d1">Agent</data>
+</node>
+<node id="14574525">
+  <data key="d1">Agent</data>
+</node>
+<node id="105213120">
+  <data key="d1">Agent</data>
+</node>
+<node id="310891476">
+  <data key="d1">Agent</data>
+</node>
+<node id="752189814">
+  <data key="d1">Agent</data>
+</node>
+<node id="2849838304">
+  <data key="d1">Agent</data>
+</node>
+<node id="2912777891">
+  <data key="d1">Agent</data>
+</node>
+<node id="30631061">
+  <data key="d1">Agent</data>
+</node>
+<node id="1638231860">
+  <data key="d1">Agent</data>
+</node>
+<node id="338310429">
+  <data key="d1">Agent</data>
+</node>
+<node id="56284787">
+  <data key="d1">Agent</data>
+</node>
+<node id="611742630">
+  <data key="d1">Agent</data>
+</node>
+<node id="85452649">
+  <data key="d1">Agent</data>
+</node>
+<node id="2331625888">
+  <data key="d1">Agent</data>
+</node>
+<node id="614579084">
+  <data key="d1">Agent</data>
+</node>
+<node id="2687791525">
+  <data key="d1">Agent</data>
+</node>
+<node id="2752365288">
+  <data key="d1">Agent</data>
+</node>
+<node id="205614850">
+  <data key="d1">Agent</data>
+</node>
+<node id="982830278">
+  <data key="d1">Agent</data>
+</node>
+<node id="67847457">
+  <data key="d1">Agent</data>
+</node>
+<node id="989559938">
+  <data key="d1">Agent</data>
+</node>
+<node id="23260238">
+  <data key="d1">Agent</data>
+</node>
+<node id="497964471">
+  <data key="d1">Agent</data>
+</node>
+<node id="2427626425">
+  <data key="d1">Agent</data>
+</node>
+<node id="845804107">
+  <data key="d1">Agent</data>
+</node>
+<node id="1813434864">
+  <data key="d1">Agent</data>
+</node>
+<node id="2595188556">
+  <data key="d1">Agent</data>
+</node>
+<node id="2288477292">
+  <data key="d1">Agent</data>
+</node>
+<node id="3027350670">
+  <data key="d1">Agent</data>
+</node>
+<node id="2536886377">
+  <data key="d1">Agent</data>
+</node>
+<node id="1048669088">
+  <data key="d1">Agent</data>
+</node>
+<node id="30189793">
+  <data key="d1">Agent</data>
+</node>
+<node id="172233464">
+  <data key="d1">Agent</data>
+</node>
+<node id="3069893229">
+  <data key="d1">Agent</data>
+</node>
+<node id="1583631481">
+  <data key="d1">Agent</data>
+</node>
+<node id="299097325">
+  <data key="d1">Agent</data>
+</node>
+<node id="3201387411">
+  <data key="d1">Agent</data>
+</node>
+<node id="297306193">
+  <data key="d1">Agent</data>
+</node>
+<node id="258136807">
+  <data key="d1">Agent</data>
+</node>
+<node id="594735988">
+  <data key="d1">Agent</data>
+</node>
+<node id="69327760">
+  <data key="d1">Agent</data>
+</node>
+<node id="1662415394">
+  <data key="d1">Agent</data>
+</node>
+<node id="2233203227">
+  <data key="d1">Agent</data>
+</node>
+<node id="446789025">
+  <data key="d1">Agent</data>
+</node>
+<node id="840612271">
+  <data key="d1">Agent</data>
+</node>
+<node id="89430404">
+  <data key="d1">Agent</data>
+</node>
+<node id="52998787">
+  <data key="d1">Agent</data>
+</node>
+<node id="1023035947">
+  <data key="d1">Agent</data>
+</node>
+<node id="131204315">
+  <data key="d1">Agent</data>
+</node>
+<node id="392697890">
+  <data key="d1">Agent</data>
+</node>
+<node id="159293715">
+  <data key="d1">Agent</data>
+</node>
+<node id="3004296021">
+  <data key="d1">Agent</data>
+</node>
+<node id="1121689886">
+  <data key="d1">Agent</data>
+</node>
+<node id="1327461426">
+  <data key="d1">Agent</data>
+</node>
+<node id="2484575654">
+  <data key="d1">Agent</data>
+</node>
+<node id="218078497">
+  <data key="d1">Agent</data>
+</node>
+<node id="124868304">
+  <data key="d1">Agent</data>
+</node>
+<node id="2433457332">
+  <data key="d1">Agent</data>
+</node>
+<node id="796810002">
+  <data key="d1">Agent</data>
+</node>
+<node id="625835329">
+  <data key="d1">Agent</data>
+</node>
+<node id="1409568505">
+  <data key="d1">Agent</data>
+</node>
+<node id="2607703608">
+  <data key="d1">Agent</data>
+</node>
+<node id="2717665435">
+  <data key="d1">Agent</data>
+</node>
+<node id="124418093">
+  <data key="d1">Agent</data>
+</node>
+<node id="517445301">
+  <data key="d1">Agent</data>
+</node>
+<node id="150340065">
+  <data key="d1">Agent</data>
+</node>
+<node id="224609329">
+  <data key="d1">Agent</data>
+</node>
+<node id="1536791610">
+  <data key="d1">Agent</data>
+</node>
+<node id="409486555">
+  <data key="d1">Agent</data>
+</node>
+<node id="272487371">
+  <data key="d1">Agent</data>
+</node>
+<node id="92861264">
+  <data key="d1">Agent</data>
+</node>
+<node id="492050077">
+  <data key="d1">Agent</data>
+</node>
+<node id="359963101">
+  <data key="d1">Agent</data>
+</node>
+<node id="285577045">
+  <data key="d1">Agent</data>
+</node>
+<node id="362079959">
+  <data key="d1">Agent</data>
+</node>
+<node id="235058590">
+  <data key="d1">Agent</data>
+</node>
+<node id="86170779">
+  <data key="d1">Agent</data>
+</node>
+<node id="1467471788">
+  <data key="d1">Agent</data>
+</node>
+<node id="245386375">
+  <data key="d1">Agent</data>
+</node>
+<node id="2395381508">
+  <data key="d1">Agent</data>
+</node>
+<node id="90275200">
+  <data key="d1">Agent</data>
+</node>
+<node id="60911071">
+  <data key="d1">Agent</data>
+</node>
+<node id="3290045254">
+  <data key="d1">Agent</data>
+</node>
+<node id="2288286954">
+  <data key="d1">Agent</data>
+</node>
+<node id="15672615">
+  <data key="d1">Agent</data>
+</node>
+<node id="19644592">
+  <data key="d1">Agent</data>
+</node>
+<node id="2889428488">
+  <data key="d1">Agent</data>
+</node>
+<node id="1038078139">
+  <data key="d1">Agent</data>
+</node>
+<node id="1512483546">
+  <data key="d1">Agent</data>
+</node>
+<node id="2214624937">
+  <data key="d1">Agent</data>
+</node>
+<node id="3056457969">
+  <data key="d1">Agent</data>
+</node>
+<node id="241839214">
+  <data key="d1">Agent</data>
+</node>
+<node id="337958126">
+  <data key="d1">Agent</data>
+</node>
+<node id="21384067">
+  <data key="d1">Agent</data>
+</node>
+<node id="388851905">
+  <data key="d1">Agent</data>
+</node>
+<node id="2770924353">
+  <data key="d1">Agent</data>
+</node>
+<node id="2937658576">
+  <data key="d1">Agent</data>
+</node>
+<node id="353967537">
+  <data key="d1">Agent</data>
+</node>
+<node id="63110096">
+  <data key="d1">Agent</data>
+</node>
+<node id="340468734">
+  <data key="d1">Agent</data>
+</node>
+<node id="19236074">
+  <data key="d1">Agent</data>
+</node>
+<node id="283487504">
+  <data key="d1">Agent</data>
+</node>
+<node id="15128816">
+  <data key="d1">Agent</data>
+</node>
+<node id="489591754">
+  <data key="d1">Agent</data>
+</node>
+<node id="2244539785">
+  <data key="d1">Agent</data>
+</node>
+<node id="1270176578">
+  <data key="d1">Agent</data>
+</node>
+<node id="43705677">
+  <data key="d1">Agent</data>
+</node>
+<node id="255494687">
+  <data key="d1">Agent</data>
+</node>
+<node id="503246387">
+  <data key="d1">Agent</data>
+</node>
+<node id="14834302">
+  <data key="d1">Agent</data>
+</node>
+<node id="37639345">
+  <data key="d1">Agent</data>
+</node>
+<node id="1131151171">
+  <data key="d1">Agent</data>
+</node>
+<node id="2481385154">
+  <data key="d1">Agent</data>
+</node>
+<node id="224607633">
+  <data key="d1">Agent</data>
+</node>
+<node id="86374405">
+  <data key="d1">Agent</data>
+</node>
+<node id="1015385599">
+  <data key="d1">Agent</data>
+</node>
+<node id="17616640">
+  <data key="d1">Agent</data>
+</node>
+<node id="1357227144">
+  <data key="d1">Agent</data>
+</node>
+<node id="191801348">
+  <data key="d1">Agent</data>
+</node>
+<node id="7349062">
+  <data key="d1">Agent</data>
+</node>
+<node id="287137520">
+  <data key="d1">Agent</data>
+</node>
+<node id="47916714">
+  <data key="d1">Agent</data>
+</node>
+<node id="238156229">
+  <data key="d1">Agent</data>
+</node>
+<node id="3044584264">
+  <data key="d1">Agent</data>
+</node>
+<node id="1953669344">
+  <data key="d1">Agent</data>
+</node>
+<node id="48289662">
+  <data key="d1">Agent</data>
+</node>
+<node id="34200559">
+  <data key="d1">Agent</data>
+</node>
+<node id="356263748">
+  <data key="d1">Agent</data>
+</node>
+<node id="2904896141">
+  <data key="d1">Agent</data>
+</node>
+<node id="1111444609">
+  <data key="d1">Agent</data>
+</node>
+<node id="2454926696">
+  <data key="d1">Agent</data>
+</node>
+<node id="2391615488">
+  <data key="d1">Agent</data>
+</node>
+<node id="458640978">
+  <data key="d1">Agent</data>
+</node>
+<node id="1589950688">
+  <data key="d1">Agent</data>
+</node>
+<node id="2181888003">
+  <data key="d1">Agent</data>
+</node>
+<node id="1079799397">
+  <data key="d1">Agent</data>
+</node>
+<node id="299017710">
+  <data key="d1">Agent</data>
+</node>
+<node id="1885095013">
+  <data key="d1">Agent</data>
+</node>
+<node id="480223345">
+  <data key="d1">Agent</data>
+</node>
+<node id="1223848752">
+  <data key="d1">Agent</data>
+</node>
+<node id="158650448">
+  <data key="d1">Agent</data>
+</node>
+<node id="950174719">
+  <data key="d1">Agent</data>
+</node>
+<node id="579271577">
+  <data key="d1">Agent</data>
+</node>
+<node id="539032778">
+  <data key="d1">Agent</data>
+</node>
+<node id="404189846">
+  <data key="d1">Agent</data>
+</node>
+<node id="34584450">
+  <data key="d1">Agent</data>
+</node>
+<node id="23748506">
+  <data key="d1">Agent</data>
+</node>
+<node id="1316250860">
+  <data key="d1">Agent</data>
+</node>
+<node id="1685572134">
+  <data key="d1">Agent</data>
+</node>
+<node id="523090325">
+  <data key="d1">Agent</data>
+</node>
+<node id="468523455">
+  <data key="d1">Agent</data>
+</node>
+<node id="1479726548">
+  <data key="d1">Agent</data>
+</node>
+<node id="326079756">
+  <data key="d1">Agent</data>
+</node>
+<node id="50104200">
+  <data key="d1">Agent</data>
+</node>
+<node id="73971750">
+  <data key="d1">Agent</data>
+</node>
+<node id="363627649">
+  <data key="d1">Agent</data>
+</node>
+<node id="100452627">
+  <data key="d1">Agent</data>
+</node>
+<node id="20796069">
+  <data key="d1">Agent</data>
+</node>
+<node id="230988598">
+  <data key="d1">Agent</data>
+</node>
+<node id="1533404466">
+  <data key="d1">Agent</data>
+</node>
+<node id="34262462">
+  <data key="d1">Agent</data>
+</node>
+<node id="192517432">
+  <data key="d1">Agent</data>
+</node>
+<node id="260651999">
+  <data key="d1">Agent</data>
+</node>
+<node id="29414182">
+  <data key="d1">Agent</data>
+</node>
+<node id="860012472">
+  <data key="d1">Agent</data>
+</node>
+<node id="2978674636">
+  <data key="d1">Agent</data>
+</node>
+<node id="306413915">
+  <data key="d1">Agent</data>
+</node>
+<node id="186227997">
+  <data key="d1">Agent</data>
+</node>
+<node id="1037152033">
+  <data key="d1">Agent</data>
+</node>
+<node id="343961846">
+  <data key="d1">Agent</data>
+</node>
+<node id="15234407">
+  <data key="d1">Agent</data>
+</node>
+<node id="11348282">
+  <data key="d1">Agent</data>
+</node>
+<node id="163219059">
+  <data key="d1">Agent</data>
+</node>
+<node id="236484723">
+  <data key="d1">Agent</data>
+</node>
+<node id="1111100311">
+  <data key="d1">Agent</data>
+</node>
+<node id="1092729074">
+  <data key="d1">Agent</data>
+</node>
+<node id="451003214">
+  <data key="d1">Agent</data>
+</node>
+<node id="2497586063">
+  <data key="d1">Agent</data>
+</node>
+<node id="2291428702">
+  <data key="d1">Agent</data>
+</node>
+<node id="186208870">
+  <data key="d1">Agent</data>
+</node>
+<node id="229547997">
+  <data key="d1">Agent</data>
+</node>
+<node id="181567076">
+  <data key="d1">Agent</data>
+</node>
+<node id="558168904">
+  <data key="d1">Agent</data>
+</node>
+<node id="434480349">
+  <data key="d1">Agent</data>
+</node>
+<node id="2874909893">
+  <data key="d1">Agent</data>
+</node>
+<node id="2782099742">
+  <data key="d1">Agent</data>
+</node>
+<node id="3437290666">
+  <data key="d1">Agent</data>
+</node>
+<node id="2998426216">
+  <data key="d1">Agent</data>
+</node>
+<node id="2296219634">
+  <data key="d1">Agent</data>
+</node>
+<node id="198825045">
+  <data key="d1">Agent</data>
+</node>
+<node id="288441724">
+  <data key="d1">Agent</data>
+</node>
+<node id="1499177682">
+  <data key="d1">Agent</data>
+</node>
+<node id="2836296957">
+  <data key="d1">Agent</data>
+</node>
+<node id="106099054">
+  <data key="d1">Agent</data>
+</node>
+<node id="3042533500">
+  <data key="d1">Agent</data>
+</node>
+<node id="1593775495">
+  <data key="d1">Agent</data>
+</node>
+<node id="247000209">
+  <data key="d1">Agent</data>
+</node>
+<node id="25077885">
+  <data key="d1">Agent</data>
+</node>
+<node id="1148910157">
+  <data key="d1">Agent</data>
+</node>
+<node id="218142022">
+  <data key="d1">Agent</data>
+</node>
+<node id="98983044">
+  <data key="d1">Agent</data>
+</node>
+<node id="211791881">
+  <data key="d1">Agent</data>
+</node>
+<node id="1181060828">
+  <data key="d1">Agent</data>
+</node>
+<node id="1929684337">
+  <data key="d1">Agent</data>
+</node>
+<node id="2410531917">
+  <data key="d1">Agent</data>
+</node>
+<node id="393296950">
+  <data key="d1">Agent</data>
+</node>
+<node id="309366491">
+  <data key="d1">Agent</data>
+</node>
+<node id="577401044">
+  <data key="d1">Agent</data>
+</node>
+<node id="2909403579">
+  <data key="d1">Agent</data>
+</node>
+<node id="2885444789">
+  <data key="d1">Agent</data>
+</node>
+<node id="306089804">
+  <data key="d1">Agent</data>
+</node>
+<node id="261200718">
+  <data key="d1">Agent</data>
+</node>
+<node id="2213057837">
+  <data key="d1">Agent</data>
+</node>
+<node id="1356707138">
+  <data key="d1">Agent</data>
+</node>
+<node id="1578321768">
+  <data key="d1">Agent</data>
+</node>
+<node id="2390581533">
+  <data key="d1">Agent</data>
+</node>
+<node id="883129802">
+  <data key="d1">Agent</data>
+</node>
+<node id="2535021600">
+  <data key="d1">Agent</data>
+</node>
+<node id="1251306607">
+  <data key="d1">Agent</data>
+</node>
+<node id="323966077">
+  <data key="d1">Agent</data>
+</node>
+<node id="476078452">
+  <data key="d1">Agent</data>
+</node>
+<node id="331726265">
+  <data key="d1">Agent</data>
+</node>
+<node id="403430248">
+  <data key="d1">Agent</data>
+</node>
+<node id="2231189252">
+  <data key="d1">Agent</data>
+</node>
+<node id="3685920741">
+  <data key="d1">Agent</data>
+</node>
+<node id="2462211337">
+  <data key="d1">Agent</data>
+</node>
+<node id="272615223">
+  <data key="d1">Agent</data>
+</node>
+<node id="3228961984">
+  <data key="d1">Agent</data>
+</node>
+<node id="514638418">
+  <data key="d1">Agent</data>
+</node>
+<node id="2870887370">
+  <data key="d1">Agent</data>
+</node>
+<node id="91796121">
+  <data key="d1">Agent</data>
+</node>
+<node id="28104195">
+  <data key="d1">Agent</data>
+</node>
+<node id="379297386">
+  <data key="d1">Agent</data>
+</node>
+<node id="2784660132">
+  <data key="d1">Agent</data>
+</node>
+<node id="127480965">
+  <data key="d1">Agent</data>
+</node>
+<node id="3375854290">
+  <data key="d1">Agent</data>
+</node>
+<node id="2899482928">
+  <data key="d1">Agent</data>
+</node>
+<node id="304256928">
+  <data key="d1">Agent</data>
+</node>
+<node id="2318652065">
+  <data key="d1">Agent</data>
+</node>
+<node id="22168210">
+  <data key="d1">Agent</data>
+</node>
+<node id="2943762975">
+  <data key="d1">Agent</data>
+</node>
+<node id="2343653417">
+  <data key="d1">Agent</data>
+</node>
+<node id="1714901952">
+  <data key="d1">Agent</data>
+</node>
+<node id="1145631956">
+  <data key="d1">Agent</data>
+</node>
+<node id="614975732">
+  <data key="d1">Agent</data>
+</node>
+<node id="3403017803">
+  <data key="d1">Agent</data>
+</node>
+<node id="1449665095">
+  <data key="d1">Agent</data>
+</node>
+<node id="477041200">
+  <data key="d1">Agent</data>
+</node>
+<node id="742143">
+  <data key="d1">Agent</data>
+</node>
+<node id="345980342">
+  <data key="d1">Agent</data>
+</node>
+<node id="399436561">
+  <data key="d1">Agent</data>
+</node>
+<node id="290768361">
+  <data key="d1">Agent</data>
+</node>
+<node id="320410228">
+  <data key="d1">Agent</data>
+</node>
+<node id="1460665861">
+  <data key="d1">Agent</data>
+</node>
+<node id="51103651">
+  <data key="d1">Agent</data>
+</node>
+<node id="490720689">
+  <data key="d1">Agent</data>
+</node>
+<node id="3491002337">
+  <data key="d1">Agent</data>
+</node>
+<node id="2267240724">
+  <data key="d1">Agent</data>
+</node>
+<node id="36614207">
+  <data key="d1">Agent</data>
+</node>
+<node id="381944770">
+  <data key="d1">Agent</data>
+</node>
+<node id="2354980792">
+  <data key="d1">Agent</data>
+</node>
+<node id="326212402">
+  <data key="d1">Agent</data>
+</node>
+<node id="2496436020">
+  <data key="d1">Agent</data>
+</node>
+<node id="219251193">
+  <data key="d1">Agent</data>
+</node>
+<node id="28096105">
+  <data key="d1">Agent</data>
+</node>
+<node id="75765850">
+  <data key="d1">Agent</data>
+</node>
+<node id="1628028361">
+  <data key="d1">Agent</data>
+</node>
+<node id="36013174">
+  <data key="d1">Agent</data>
+</node>
+<node id="1978842356">
+  <data key="d1">Agent</data>
+</node>
+<node id="2297979724">
+  <data key="d1">Agent</data>
+</node>
+<node id="73640017">
+  <data key="d1">Agent</data>
+</node>
+<node id="30513255">
+  <data key="d1">Agent</data>
+</node>
+<node id="1044932990">
+  <data key="d1">Agent</data>
+</node>
+<node id="224620664">
+  <data key="d1">Agent</data>
+</node>
+<node id="633864537">
+  <data key="d1">Agent</data>
+</node>
+<node id="247056555">
+  <data key="d1">Agent</data>
+</node>
+<node id="1496509680">
+  <data key="d1">Agent</data>
+</node>
+<node id="188380389">
+  <data key="d1">Agent</data>
+</node>
+<node id="718254192">
+  <data key="d1">Agent</data>
+</node>
+<node id="3064893748">
+  <data key="d1">Agent</data>
+</node>
+<node id="40050954">
+  <data key="d1">Agent</data>
+</node>
+<node id="93691257">
+  <data key="d1">Agent</data>
+</node>
+<node id="424415059">
+  <data key="d1">Agent</data>
+</node>
+<node id="2470252237">
+  <data key="d1">Agent</data>
+</node>
+<node id="20264905">
+  <data key="d1">Agent</data>
+</node>
+<node id="3588266957">
+  <data key="d1">Agent</data>
+</node>
+<node id="3561899004">
+  <data key="d1">Agent</data>
+</node>
+<node id="3257464128">
+  <data key="d1">Agent</data>
+</node>
+<node id="3689511440">
+  <data key="d1">Agent</data>
+</node>
+<node id="1402337886">
+  <data key="d1">Agent</data>
+</node>
+<node id="775800193">
+  <data key="d1">Agent</data>
+</node>
+<node id="394178776">
+  <data key="d1">Agent</data>
+</node>
+<node id="334302416">
+  <data key="d1">Agent</data>
+</node>
+<node id="1586285534">
+  <data key="d1">Agent</data>
+</node>
+<node id="2629650736">
+  <data key="d1">Agent</data>
+</node>
+<node id="1216863812">
+  <data key="d1">Agent</data>
+</node>
+<node id="594976909">
+  <data key="d1">Agent</data>
+</node>
+<node id="2931736792">
+  <data key="d1">Agent</data>
+</node>
+<node id="472830024">
+  <data key="d1">Agent</data>
+</node>
+<node id="135815730">
+  <data key="d1">Agent</data>
+</node>
+<node id="122710995">
+  <data key="d1">Agent</data>
+</node>
+<node id="2913714869">
+  <data key="d1">Agent</data>
+</node>
+<node id="3130980819">
+  <data key="d1">Agent</data>
+</node>
+<node id="3005511447">
+  <data key="d1">Agent</data>
+</node>
+<node id="2869495959">
+  <data key="d1">Agent</data>
+</node>
+<node id="289714868">
+  <data key="d1">Agent</data>
+</node>
+<node id="835630675">
+  <data key="d1">Agent</data>
+</node>
+<node id="2419895447">
+  <data key="d1">Agent</data>
+</node>
+<node id="254563108">
+  <data key="d1">Agent</data>
+</node>
+<node id="329563783">
+  <data key="d1">Agent</data>
+</node>
+<node id="329690404">
+  <data key="d1">Agent</data>
+</node>
+<node id="347862461">
+  <data key="d1">Agent</data>
+</node>
+<node id="2380896536">
+  <data key="d1">Agent</data>
+</node>
+<node id="2426205690">
+  <data key="d1">Agent</data>
+</node>
+<node id="542366086">
+  <data key="d1">Agent</data>
+</node>
+<node id="557715340">
+  <data key="d1">Agent</data>
+</node>
+<node id="133663801">
+  <data key="d1">Agent</data>
+</node>
+<node id="108647918">
+  <data key="d1">Agent</data>
+</node>
+<node id="392087520">
+  <data key="d1">Agent</data>
+</node>
+<node id="3327662206">
+  <data key="d1">Agent</data>
+</node>
+<node id="38395124">
+  <data key="d1">Agent</data>
+</node>
+<node id="2567169382">
+  <data key="d1">Agent</data>
+</node>
+<node id="356761133">
+  <data key="d1">Agent</data>
+</node>
+<node id="1334710302">
+  <data key="d1">Agent</data>
+</node>
+<node id="448217432">
+  <data key="d1">Agent</data>
+</node>
+<node id="732772232">
+  <data key="d1">Agent</data>
+</node>
+<node id="714674097">
+  <data key="d1">Agent</data>
+</node>
+<node id="2357939839">
+  <data key="d1">Agent</data>
+</node>
+<node id="243317628">
+  <data key="d1">Agent</data>
+</node>
+<node id="504804966">
+  <data key="d1">Agent</data>
+</node>
+<node id="40687613">
+  <data key="d1">Agent</data>
+</node>
+<node id="162171380">
+  <data key="d1">Agent</data>
+</node>
+<node id="471141787">
+  <data key="d1">Agent</data>
+</node>
+<node id="342882362">
+  <data key="d1">Agent</data>
+</node>
+<node id="292460045">
+  <data key="d1">Agent</data>
+</node>
+<node id="2416567776">
+  <data key="d1">Agent</data>
+</node>
+<node id="403436252">
+  <data key="d1">Agent</data>
+</node>
+<node id="2671132722">
+  <data key="d1">Agent</data>
+</node>
+<node id="111875060">
+  <data key="d1">Agent</data>
+</node>
+<node id="271417850">
+  <data key="d1">Agent</data>
+</node>
+<node id="1198970354">
+  <data key="d1">Agent</data>
+</node>
+<node id="2574037067">
+  <data key="d1">Agent</data>
+</node>
+<node id="520595195">
+  <data key="d1">Agent</data>
+</node>
+<node id="1094488898">
+  <data key="d1">Agent</data>
+</node>
+<node id="Valdepeñas">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Türkei">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="NATO">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Siria">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="USA">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Obama">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Terrorismo">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Migrazione">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Expo2015">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="ReggioExpo2015">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="expogram">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Linares">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="PreventivosCruzRoja">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Yargılanacaksınız">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Syria">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="TurkeyBomb">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Экс">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="MI6">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Запад">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Россия">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="быстрее">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="НАТО">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="EU">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Erdogan">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="EBDabarkadsPaMore">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="LaOpiniónCoruña">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Zaragoza">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="TSAAFD">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="huidaseguraya">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="4Рајх">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Зла">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Travel">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Reviews">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Ankara">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="AQIM">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Daesh">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Article5">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="KatilAKP">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Poutine">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="OTAN">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="watchaddict">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="watchporn">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="watchoftheday">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="watchofinstagram">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="oktoberfest">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="HastaLaVictoriaSiempre">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Bündnisfall">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Bürgerkrieg">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Syrien">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Russlandi">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Jeffrey">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Censurate">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="disastro">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Sardegna">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="graziePD">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="profondo">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="aggettivi">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="russia">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="враги">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Under16">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="confused">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="StopBallePD">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="platjadesantsebastià">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Barceloneta">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="PeaceDay">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="TheFlash">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Turkey">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="QuiksilverProFrance">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Trident">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="Sardinia">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="radioactivity">
+  <data key="d1">Knowledge</data>
+</node>
+<node id="LAT: 41.62594, LON: -1.03180">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 41.17790, LON: 14.36554">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 51.07746, LON: -4.05020">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 43.37090, LON: -8.39742">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 37.35278, LON: -6.04667">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 43.36477, LON: -5.84817">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 38.02555, LON: 23.77436">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 40.38149, LON: 17.35962">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 41.22509, LON: -8.19461">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 45.60305, LON: 10.62768">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 48.69395, LON: 6.18127">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 36.74247, LON: -5.79322">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 51.54340, LON: -0.02427">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 38.72758, LON: 35.49681">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 45.52629, LON: 10.20303">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 50.43338, LON: 30.54410">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 38.90000, LON: 16.58330">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 40.93154, LON: 14.04998">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 38.99879, LON: -1.86162">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 41.36646, LON: 2.14820">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 41.01307, LON: 27.76263">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 51.50720, LON: -0.12750">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 41.35736, LON: 16.09933">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 37.21401, LON: -3.61708">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 41.37475, LON: 2.18995">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 38.09563, LON: -1.16580">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 43.67890, LON: -1.44060">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 43.38230, LON: -3.21750">
+  <data key="d1">Location</data>
+</node>
+<node id="LAT: 40.43342, LON: -3.71821">
+  <data key="d1">Location</data>
+</node>
+<edge source="652820035463970816" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820035463970816" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820035463970816" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820035463970816" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652821096413163520" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652821096413163520" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652821096413163520" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652821096413163520" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652941939118067712" target="210903844">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652941939118067712" target="535815515">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652818296392286208" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652818296392286208" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652818296392286208" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652818296392286208" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652781737366454272" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652781737366454272" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652781737366454272" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652781737366454272" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652981345715662848" target="2986798575">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652981345715662848" target="62135928">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652780874900049920" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652780874900049920" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652780874900049920" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652780874900049920" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834319208185856" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834319208185856" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834319208185856" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834319208185856" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652800714952065025" target="2180371">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652800714952065025" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652800714952065025" target="14159148">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652817573206224896" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652817573206224896" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652817573206224896" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652817573206224896" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652915671563677696" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652779028387110912" target="138568882">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652779028387110912" target="389580215">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652810677975957504" target="1949920460">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652943614969053184" target="497838968">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652943614969053184" target="Valdepeñas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652876219415941120" target="1476811854">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652876219415941120" target="2836882956">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652963166029283328" target="2927247017">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652963166029283328" target="870200407">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652858947926380545" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652858947926380545" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652858947926380545" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652858947926380545" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820568308346880" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820568308346880" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820568308346880" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820568308346880" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652819060955201537" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652819060955201537" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652819060955201537" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652819060955201537" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652748070891950080" target="71505421">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834865000382464" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834865000382464" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834865000382464" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834865000382464" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652886967466770433" target="816434880">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652886967466770433" target="272671641">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652886967466770433" target="2603716520">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652886967466770433" target="2386488433">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652784253638475776" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652784253638475776" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652784253638475776" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652784253638475776" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652800000297185280" target="194538182">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652800000297185280" target="Türkei">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652800000297185280" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652758113314054144" target="Siria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652758113314054144" target="USA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652758113314054144" target="Obama">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652758113314054144" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652758113314054144" target="Terrorismo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652758113314054144" target="Migrazione">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652837940175994880" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652837940175994880" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652837940175994880" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652837940175994880" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652789074374340608" target="Expo2015">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652789074374340608" target="ReggioExpo2015">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652789074374340608" target="expogram">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652772888022532096" target="LAT: 41.62594, LON: -1.03180">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652769567429816320" target="3169007553">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834003238678528" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834003238678528" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834003238678528" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834003238678528" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652813477766144000" target="Linares">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652813477766144000" target="PreventivosCruzRoja">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652860562746003457" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652836907106324480" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652836907106324480" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652836907106324480" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652836907106324480" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652857796912881664" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652857796912881664" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652857796912881664" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652857796912881664" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652826595246374913" target="14574525">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652758668103012352" target="310891476">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652935898103988225" target="2849838304">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652935898103988225" target="2912777891">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652935898103988225" target="30631061">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652935898103988225" target="1638231860">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652935898103988225" target="338310429">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652844486813478912" target="Yargılanacaksınız">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652871865262845952" target="85452649">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652960742384267264" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652960742384267264" target="Syria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652960742384267264" target="TurkeyBomb">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652858284253294592" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652858284253294592" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652858284253294592" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652858284253294592" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652904357999038465" target="Экс">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652904357999038465" target="MI6">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652904357999038465" target="Запад">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652904357999038465" target="Россия">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652904357999038465" target="быстрее">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652904357999038465" target="НАТО">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652771562676973569" target="LAT: 41.62594, LON: -1.03180">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652938211275210752" target="2687791525">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652938211275210752" target="2752365288">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652938211275210752" target="205614850">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652801582166179840" target="LAT: 41.17790, LON: 14.36554">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652799302675398656" target="989559938">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652799302675398656" target="23260238">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652799302675398656" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652799302675398656" target="EU">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652799302675398656" target="Türkei">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652859175211520000" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652859175211520000" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652859175211520000" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652859175211520000" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652809471274713088" target="497964471">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652809471274713088" target="Türkei">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652809471274713088" target="Erdogan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652931982100459521" target="845804107">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652931982100459521" target="1813434864">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652931982100459521" target="2595188556">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652955084196868096" target="3027350670">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652793524618969088" target="1048669088">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652793524618969088" target="30189793">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652793524618969088" target="172233464">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652756342269157376" target="1583631481">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652756342269157376" target="EBDabarkadsPaMore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652756342269157376" target="LAT: 51.07746, LON: -4.05020">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834626130563072" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834626130563072" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834626130563072" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834626130563072" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652676856546762752" target="297306193">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652856588491980800" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652856588491980800" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652856588491980800" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652856588491980800" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652861153870131200" target="LaOpiniónCoruña">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652861153870131200" target="LAT: 43.37090, LON: -8.39742">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652952031913771009" target="69327760">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652952031913771009" target="Zaragoza">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652925394316881921" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652943283707117568" target="2233203227">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652943283707117568" target="2752365288">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652837177274048512" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652837177274048512" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652837177274048512" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652837177274048512" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652819416510541824" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652819416510541824" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652819416510541824" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652819416510541824" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652878790318813184" target="2836882956">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652836976287215616" target="TSAAFD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652836976287215616" target="LAT: 37.35278, LON: -6.04667">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652903946382610432" target="52998787">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652903946382610432" target="LAT: 43.36477, LON: -5.84817">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652985013206691840" target="huidaseguraya">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652939628027215872" target="131204315">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652939628027215872" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652819689689751552" target="LAT: 38.02555, LON: 23.77436">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652858681403539456" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652858681403539456" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652858681403539456" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652858681403539456" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838449708404737" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838449708404737" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838449708404737" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838449708404737" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652940846631940096" target="1121689886">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652940846631940096" target="1327461426">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652948037862559744" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652948037862559744" target="EU">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652922388842192897" target="218078497">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652922388842192897" target="124868304">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652922388842192897" target="2433457332">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652922388842192897" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652887164536102912" target="625835329">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652945250940493824" target="1409568505">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652847449934053376" target="2717665435">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652847449934053376" target="124418093">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652847449934053376" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652945183600967685" target="150340065">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652947463188389888" target="124868304">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652947463188389888" target="224609329">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652947463188389888" target="1536791610">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652947463188389888" target="409486555">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652947463188389888" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652849178570321921" target="92861264">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652943934080057345" target="131204315">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652943934080057345" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652934676416471040" target="124868304">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652934676416471040" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652888980678160384" target="359963101">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652888980678160384" target="LAT: 40.38149, LON: 17.35962">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652923897281671168" target="86170779">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652852878420353024" target="2395381508">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652852878420353024" target="90275200">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652784483796680704" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652784483796680704" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652784483796680704" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652784483796680704" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820909791793152" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820909791793152" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820909791793152" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820909791793152" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652789540470554624" target="LAT: 41.22509, LON: -8.19461">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652941796587257857" target="15672615">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652941796587257857" target="19644592">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652852416380043264" target="1038078139">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652852416380043264" target="4Рајх">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652852416380043264" target="Зла">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652936090471518209" target="1512483546">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652989871884226560" target="337958126">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652877786428764160" target="Travel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652877786428764160" target="Reviews">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652877786428764160" target="LAT: 45.60305, LON: 10.62768">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652818458372087809" target="Ankara">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652818458372087809" target="AQIM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652818458372087809" target="Daesh">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652818458372087809" target="Erdogan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652818458372087809" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652818458372087809" target="Article5">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652781238890156032" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652781238890156032" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652781238890156032" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652781238890156032" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652936010079281152" target="2849838304">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652936010079281152" target="2912777891">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652933539189669888" target="131204315">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652933539189669888" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652986981895536640" target="KatilAKP">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652785198057263105" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652785198057263105" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652785198057263105" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652785198057263105" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652690686710521856" target="63110096">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652690686710521856" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820265928368128" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820265928368128" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820265928368128" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820265928368128" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834658527367169" target="19236074">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652914461045604352" target="15128816">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652799046751518724" target="1270176578">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652870043668234240" target="255494687">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652860591934205952" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652860591934205952" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652860591934205952" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652860591934205952" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652768896676691968" target="Poutine">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652768896676691968" target="OTAN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652936723547164672" target="131204315">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652936723547164672" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652859458637459456" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652859458637459456" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652859458637459456" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652859458637459456" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652958832621146113" target="14834302">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652866678578106368" target="watchaddict">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652866678578106368" target="watchporn">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652866678578106368" target="watchoftheday">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652866678578106368" target="watchofinstagram">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652866678578106368" target="LAT: 48.69395, LON: 6.18127">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652849920710451200" target="2481385154">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652849920710451200" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652818155182669824" target="86374405">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652716265300197376" target="17616640">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652783883688275968" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652783883688275968" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652783883688275968" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652783883688275968" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652791874667855872" target="LAT: 36.74247, LON: -5.79322">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652857191347671042" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652857191347671042" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652857191347671042" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652857191347671042" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652925536856109056" target="86170779">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652782427904024576" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652782427904024576" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652782427904024576" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652782427904024576" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652963353900544000" target="7349062">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652963353900544000" target="287137520">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652963353900544000" target="47916714">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652837619026522114" target="124418093">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652816763202048000" target="LAT: 41.17790, LON: 14.36554">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652817932985180160" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652817932985180160" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652817932985180160" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652817932985180160" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652789550759211009" target="3044584264">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652789550759211009" target="LAT: 51.54340, LON: -0.02427">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652689963436388352" target="1953669344">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652689963436388352" target="48289662">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652689963436388352" target="34200559">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652689963436388352" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652953182428073984" target="2904896141">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652953182428073984" target="1111444609">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652768924149399552" target="2391615488">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652785041999835137" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652785041999835137" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652785041999835137" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652785041999835137" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652949007644422144" target="458640978">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652949007644422144" target="1589950688">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652949007644422144" target="2181888003">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652949007644422144" target="2180371">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652949007644422144" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652870829471088642" target="299017710">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652870829471088642" target="1079799397">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652870829471088642" target="oktoberfest">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652941180712390656" target="1885095013">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652941180712390656" target="480223345">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652856924648669185" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652856924648669185" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652856924648669185" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652856924648669185" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652836414787293185" target="158650448">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838204060659716" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838204060659716" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838204060659716" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838204060659716" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652910424585830400" target="539032778">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652775074173464576" target="HastaLaVictoriaSiempre">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652923102628827136" target="23748506">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652923102628827136" target="Bündnisfall">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652923102628827136" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652923102628827136" target="Bürgerkrieg">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652923102628827136" target="Syrien">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652923102628827136" target="Türkei">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652923102628827136" target="Russlandi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652758571868946432" target="1685572134">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652758571868946432" target="523090325">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652787942046498816" target="LAT: 38.72758, LON: 35.49681">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652836207894884352" target="326079756">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834457842491392" target="73971750">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652818726081925120" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652818726081925120" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652818726081925120" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652818726081925120" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652932557563150336" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652932557563150336" target="20796069">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652781994770853888" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652781994770853888" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652781994770853888" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652781994770853888" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652835688124141568" target="34262462">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652835688124141568" target="192517432">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652768372346720256" target="LAT: 41.62594, LON: -1.03180">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652833727442255873" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652833727442255873" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652833727442255873" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652833727442255873" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652886171685662720" target="860012472">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652937778674556929" target="306413915">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652951981154152449" target="Jeffrey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652951981154152449" target="LAT: 45.52629, LON: 10.20303">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838415340335104" target="Censurate">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838415340335104" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838415340335104" target="disastro">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838415340335104" target="Sardegna">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838415340335104" target="graziePD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652689201440403456" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652689201440403456" target="343961846">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652689201440403456" target="15234407">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652689201440403456" target="11348282">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652833411732738048" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652833411732738048" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652833411732738048" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652833411732738048" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652793888105701376" target="1048669088">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652793888105701376" target="30189793">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652793888105701376" target="172233464">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652892833695801344" target="1111100311">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652967382760202240" target="451003214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652967382760202240" target="2497586063">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652967382760202240" target="2291428702">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652944899399122945" target="131204315">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652944899399122945" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652774656726933504" target="LAT: 50.43338, LON: 30.54410">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652796408685314049" target="181567076">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652796408685314049" target="558168904">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652796408685314049" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652825288208990208" target="2782099742">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652916343331778560" target="7349062">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652916343331778560" target="287137520">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652916343331778560" target="47916714">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652937570842755072" target="2296219634">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652965689674698753" target="LAT: 38.90000, LON: 16.58330">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652835306345992192" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652835306345992192" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652835306345992192" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652835306345992192" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652858046767603712" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652858046767603712" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652858046767603712" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652858046767603712" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652856208488046592" target="LAT: 40.93154, LON: 14.04998">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652830457789317120" target="LAT: 38.99879, LON: -1.86162">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652835613482348544" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652835613482348544" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652835613482348544" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652835613482348544" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652737121472655360" target="profondo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652737121472655360" target="aggettivi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652943666445701120" target="218142022">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652943666445701120" target="1327461426">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820813415120897" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820813415120897" target="russia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652820813415120897" target="Siria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652925260749254657" target="НАТО">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652925260749254657" target="враги">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652845631472562177" target="1181060828">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652837527183867904" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838613386964994" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838613386964994" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838613386964994" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838613386964994" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652871146203971584" target="309366491">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652871146203971584" target="577401044">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652871146203971584" target="2909403579">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652879132716609536" target="LAT: 41.36646, LON: 2.14820">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652760410442080256" target="1685572134">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652760410442080256" target="523090325">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652856462742548480" target="LAT: 40.93154, LON: 14.04998">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652964610371420160" target="Under16">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652943437843570688" target="1578321768">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652943437843570688" target="2390581533">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652803403773550592" target="2535021600">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652803403773550592" target="1251306607">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652782945409888256" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652782945409888256" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652782945409888256" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652782945409888256" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652878891833511936" target="476078452">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652878891833511936" target="Зла">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652878891833511936" target="4Рајх">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652835259562762240" target="331726265">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652882111993659392" target="403430248">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652863273826652161" target="2462211337">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652885332480925696" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652865103822495744" target="514638418">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652813662978183169" target="86374405">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652813662978183169" target="91796121">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652793492687724544" target="379297386">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652843677631545344" target="3375854290">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652843677631545344" target="LAT: 41.01307, LON: 27.76263">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652723749435912192" target="2318652065">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652723749435912192" target="22168210">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652788694412361728" target="2343653417">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652788694412361728" target="1714901952">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652837540668526592" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652837540668526592" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652837540668526592" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652837540668526592" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652792006742290432" target="3403017803">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652887375509590016" target="477041200">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838340375511040" target="742143">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652975386008158208" target="LAT: 51.50720, LON: -0.12750">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652860322546630656" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652860322546630656" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652860322546630656" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652860322546630656" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652867685429157888" target="LAT: 41.35736, LON: 16.09933">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652924945278894082" target="490720689">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652836597726113792" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652836597726113792" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652836597726113792" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652836597726113792" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652725059845537792" target="36614207">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652725059845537792" target="381944770">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652951568707403777" target="2354980792">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652951568707403777" target="131204315">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652951568707403777" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652943373742047232" target="326212402">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652943373742047232" target="2496436020">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652760222788919296" target="28096105">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652765046389477376" target="1628028361">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652909097017344000" target="confused">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652814847520952320" target="StopBallePD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652788684555730944" target="LAT: 37.21401, LON: -3.61708">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652783554028535808" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652783554028535808" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652783554028535808" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652783554028535808" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652861674333044736" target="platjadesantsebastià">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652861674333044736" target="Barceloneta">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652861674333044736" target="LAT: 41.37475, LON: 2.18995">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652859782848729089" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652859782848729089" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652859782848729089" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652859782848729089" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838883105861632" target="30513255">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652838883105861632" target="1044932990">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652798325561929728" target="218078497">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652798325561929728" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652798325561929728" target="224620664">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652649824341348352" target="LAT: 38.09563, LON: -1.16580">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652980716318400512" target="247056555">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652980716318400512" target="1496509680">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652980716318400512" target="188380389">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652764307806113792" target="3064893748">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652764307806113792" target="40050954">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652756378445041668" target="424415059">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652636539122503680" target="20264905">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652776877908729856" target="3561899004">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652776877908729856" target="3257464128">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652776877908729856" target="3689511440">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652790799621562368" target="775800193">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652790799621562368" target="394178776">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652790799621562368" target="334302416">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652790799621562368" target="1586285534">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652921577013649408" target="2931736792">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652921577013649408" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652921577013649408" target="124418093">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652921577013649408" target="472830024">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652921577013649408" target="135815730">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652921577013649408" target="122710995">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652921577013649408" target="2913714869">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652921577013649408" target="3130980819">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652921577013649408" target="3005511447">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652921577013649408" target="PeaceDay">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652819713639215104" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652819713639215104" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652819713639215104" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652819713639215104" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652935813928493057" target="297306193">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652935813928493057" target="2869495959">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652935813928493057" target="289714868">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652935813928493057" target="835630675">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652935813928493057" target="2419895447">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652790242823548928" target="TheFlash">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652905345040412672" target="347862461">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652784773123977216" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652784773123977216" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652784773123977216" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652784773123977216" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652858092879761408" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652944778246651904" target="2426205690">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652944778246651904" target="542366086">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652958456660557824" target="133663801">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652942950184407040" target="108647918">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652942950184407040" target="1327461426">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652925863407800321" target="86170779">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652815884550021120" target="38395124">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652812231932030976" target="Turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652812231932030976" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652812231932030976" target="russia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652875518178664448" target="732772232">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652875518178664448" target="714674097">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652788654507737088" target="243317628">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652860093231431684" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652860093231431684" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652860093231431684" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652860093231431684" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652942015102124033" target="40687613">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652822855810449409" target="QuiksilverProFrance">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652822855810449409" target="LAT: 43.67890, LON: -1.44060">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652857472395386880" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652857472395386880" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652857472395386880" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652857472395386880" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652772079218106368" target="LAT: 41.62594, LON: -1.03180">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834687711375360" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834687711375360" target="Trident">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834687711375360" target="Sardinia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652834687711375360" target="radioactivity">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652783196522811392" target="92149084">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652783196522811392" target="83795099">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652783196522811392" target="783214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652783196522811392" target="250633394">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652885570432167936" target="2416567776">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652885570432167936" target="403436252">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652879360731557888" target="Turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652879360731557888" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652870178070368256" target="LAT: 43.38230, LON: -3.21750">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652900065934200833" target="2574037067">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652856365023633408" target="LAT: 40.93154, LON: 14.04998">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652784790442262528" target="1094488898">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652784790442262528" target="LAT: 40.43342, LON: -3.71821">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="652761914620157952" target="523090325">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652820035463970816">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652821096413163520">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652818296392286208">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652781737366454272">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652780874900049920">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652834319208185856">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652817573206224896">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652858947926380545">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652820568308346880">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652819060955201537">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652834865000382464">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652784253638475776">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652837940175994880">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652834003238678528">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652836907106324480">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652857796912881664">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652858284253294592">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652859175211520000">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652834626130563072">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652856588491980800">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652837177274048512">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652819416510541824">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652858681403539456">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652838449708404737">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652784483796680704">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652820909791793152">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652781238890156032">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652785198057263105">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652820265928368128">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652860591934205952">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652859458637459456">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652783883688275968">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652857191347671042">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652782427904024576">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652817932985180160">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652785041999835137">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652856924648669185">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652838204060659716">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652818726081925120">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652781994770853888">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652833727442255873">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652833411732738048">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652835306345992192">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652858046767603712">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652835613482348544">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652838613386964994">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652782945409888256">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652837540668526592">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652860322546630656">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652836597726113792">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652783554028535808">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652859782848729089">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652819713639215104">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652784773123977216">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652860093231431684">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652857472395386880">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2775531845" target="652783196522811392">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="92149084" target="2775531845">
+  <data key="d2">57.0</data>
+</edge>
+<edge source="83795099" target="2775531845">
+  <data key="d2">57.0</data>
+</edge>
+<edge source="83795099" target="1688854273">
+  <data key="d2">10.0</data>
+</edge>
+<edge source="83795099" target="318556348">
+  <data key="d2">7.0</data>
+</edge>
+<edge source="83795099" target="26475695">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="83795099" target="2331625888">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="83795099" target="2607703608">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="83795099" target="100452627">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="83795099" target="594976909">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="783214" target="2775531845">
+  <data key="d2">57.0</data>
+</edge>
+<edge source="250633394" target="2775531845">
+  <data key="d2">57.0</data>
+</edge>
+<edge source="2210939485" target="652779761433997313">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3230046943" target="652730680812572672">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1228444484" target="652941939118067712">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1228444484" target="652935898103988225">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1228444484" target="652938211275210752">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1228444484" target="652943283707117568">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1228444484" target="652940846631940096">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1228444484" target="652945250940493824">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1228444484" target="652945183600967685">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1228444484" target="652936090471518209">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1228444484" target="652936010079281152">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1228444484" target="652941180712390656">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1228444484" target="652943666445701120">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1228444484" target="652943437843570688">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1228444484" target="652943373742047232">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1228444484" target="652935813928493057">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1228444484" target="652944778246651904">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1228444484" target="652942950184407040">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="210903844" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="535815515" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="782224802" target="652843681792282624">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1633710211" target="652981345715662848">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1633710211" target="652980716318400512">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2986798575" target="1633710211">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="62135928" target="1633710211">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1462767992" target="652924530625806337">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1390647570" target="652834317517856768">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2188410637" target="652819114998767616">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1688854273" target="652800714952065025">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1688854273" target="652922388842192897">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1688854273" target="652947463188389888">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1688854273" target="652934676416471040">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1688854273" target="652690686710521856">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1688854273" target="652689963436388352">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1688854273" target="652949007644422144">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1688854273" target="652689201440403456">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1688854273" target="652796408685314049">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1688854273" target="652798325561929728">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2180371" target="1688854273">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="14159148" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="318556348" target="652915671563677696">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="318556348" target="652939628027215872">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="318556348" target="652943934080057345">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="318556348" target="652923897281671168">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="318556348" target="652933539189669888">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="318556348" target="652936723547164672">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="318556348" target="652925536856109056">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="318556348" target="652944899399122945">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="318556348" target="652951568707403777">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="318556348" target="652925863407800321">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="361233603" target="652779028387110912">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="138568882" target="361233603">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="389580215" target="361233603">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2340860012" target="652810677975957504">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1949920460" target="2340860012">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3428506617" target="652808500809191424">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3428506617" target="652833237505589248">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3428506617" target="652809679190511616">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="252702852" target="652852184707690496">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="107199323" target="652943614969053184">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="107199323" target="Valdepeñas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="497838968" target="107199323">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="20849147" target="652876219415941120">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="20849147" target="652878790318813184">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1476811854" target="20849147">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2836882956" target="20849147">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="201241701" target="652963166029283328">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2927247017" target="201241701">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="870200407" target="201241701">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1595552713" target="652748070891950080">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="71505421" target="1595552713">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="839254856" target="652879665082859520">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="839254856" target="652882111993659392">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="162514125" target="652701014831800320">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="162514125" target="652698427676098560">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="162514125" target="652711066443644928">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="162514125" target="652784381820575745">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="162514125" target="652887164536102912">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="162514125" target="652700532805640192">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="162514125" target="652703201091813376">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="307904254" target="652886967466770433">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="307904254" target="652928900536893440">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="816434880" target="307904254">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="272671641" target="307904254">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2603716520" target="307904254">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2386488433" target="307904254">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1449004548" target="652800000297185280">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1449004548" target="652799302675398656">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1449004548" target="652809471274713088">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1449004548" target="Türkei">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="1449004548" target="NATO">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="1449004548" target="EU">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1449004548" target="Erdogan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="194538182" target="1449004548">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="628183914" target="652758113314054144">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="628183914" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="628183914" target="Siria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="628183914" target="USA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="628183914" target="Obama">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="628183914" target="Terrorismo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="628183914" target="Migrazione">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3016979224" target="652789074374340608">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3016979224" target="Expo2015">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3016979224" target="ReggioExpo2015">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3016979224" target="expogram">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3026423398" target="652772888022532096">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3026423398" target="652771562676973569">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3026423398" target="652768372346720256">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3026423398" target="652772079218106368">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="303939816" target="652818169988521984">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3064465611" target="652762554582892544">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3064465611" target="652811644859510784">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3064465611" target="652810884855803904">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3406496045" target="652769567429816320">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3169007553" target="3406496045">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="702924097" target="652813477766144000">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="702924097" target="Linares">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="702924097" target="PreventivosCruzRoja">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="26475695" target="652860562746003457">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="235918702" target="652826595246374913">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="14574525" target="235918702">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="105213120" target="652758668103012352">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="310891476" target="105213120">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="752189814" target="652878968849346560">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2849838304" target="1228444484">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="2912777891" target="1228444484">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="30631061" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1638231860" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="338310429" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="56284787" target="652844486813478912">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="56284787" target="Yargılanacaksınız">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="611742630" target="652871865262845952">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="85452649" target="611742630">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2331625888" target="652960742384267264">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2331625888" target="Syria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2331625888" target="TurkeyBomb">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="614579084" target="652904357999038465">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="614579084" target="Экс">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="614579084" target="MI6">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="614579084" target="Запад">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="614579084" target="Россия">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="614579084" target="быстрее">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="614579084" target="НАТО">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2687791525" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2752365288" target="1228444484">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="205614850" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="982830278" target="652947918996041729">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="67847457" target="652801582166179840">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="67847457" target="652816763202048000">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="989559938" target="1449004548">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="23260238" target="1449004548">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="497964471" target="1449004548">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2427626425" target="652931982100459521">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="845804107" target="2427626425">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1813434864" target="2427626425">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2595188556" target="2427626425">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2288477292" target="652955084196868096">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3027350670" target="2288477292">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2536886377" target="652793524618969088">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2536886377" target="652793888105701376">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1048669088" target="2536886377">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="30189793" target="2536886377">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="172233464" target="2536886377">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="3069893229" target="652756342269157376">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3069893229" target="EBDabarkadsPaMore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1583631481" target="3069893229">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="299097325" target="652855138068090881">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3201387411" target="652676856546762752">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="297306193" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="297306193" target="3201387411">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="258136807" target="652861153870131200">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="258136807" target="LaOpiniónCoruña">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="594735988" target="652952031913771009">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="594735988" target="Zaragoza">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="69327760" target="594735988">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1662415394" target="652925394316881921">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1662415394" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2233203227" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="446789025" target="652988056358752257">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="840612271" target="652836976287215616">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="840612271" target="TSAAFD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="89430404" target="652903946382610432">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="52998787" target="89430404">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1023035947" target="652985013206691840">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1023035947" target="huidaseguraya">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="131204315" target="318556348">
+  <data key="d2">6.0</data>
+</edge>
+<edge source="392697890" target="652819689689751552">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="159293715" target="652752158388027392">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3004296021" target="652755611285897216">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1121689886" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1327461426" target="1228444484">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="2484575654" target="652948037862559744">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2484575654" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2484575654" target="EU">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="218078497" target="1688854273">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="124868304" target="1688854273">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="2433457332" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="796810002" target="652750937883320320">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="625835329" target="162514125">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1409568505" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2607703608" target="652847449934053376">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2607703608" target="652852878420353024">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2607703608" target="652837619026522114">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2607703608" target="652845631472562177">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2607703608" target="652837527183867904">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2607703608" target="652838340375511040">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2607703608" target="652858092879761408">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2717665435" target="2607703608">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="124418093" target="2607703608">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="124418093" target="594976909">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="517445301" target="652944935709188096">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="150340065" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="224609329" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1536791610" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="409486555" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="272487371" target="652849178570321921">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="92861264" target="272487371">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="492050077" target="652888980678160384">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="359963101" target="492050077">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="285577045" target="652786179289559040">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="362079959" target="652919100545626112">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="235058590" target="652969717100113920">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="86170779" target="318556348">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="1467471788" target="652811494330105856">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="245386375" target="652852991221997568">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2395381508" target="2607703608">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="90275200" target="2607703608">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="60911071" target="652842010253127681">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3290045254" target="652789540470554624">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2288286954" target="652941796587257857">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="15672615" target="2288286954">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="19644592" target="2288286954">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2889428488" target="652852416380043264">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2889428488" target="652878891833511936">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2889428488" target="4Рајх">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="2889428488" target="Зла">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="1038078139" target="2889428488">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1512483546" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2214624937" target="652808394580082688">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3056457969" target="652938677065252865">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="241839214" target="652989871884226560">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="337958126" target="241839214">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="21384067" target="652877786428764160">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="21384067" target="Travel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="21384067" target="Reviews">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="388851905" target="652974429086072832">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2770924353" target="652818458372087809">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2770924353" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2770924353" target="Erdogan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2770924353" target="Ankara">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2770924353" target="AQIM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2770924353" target="Daesh">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2770924353" target="Article5">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2937658576" target="652838318355415040">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="353967537" target="652986981895536640">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="353967537" target="KatilAKP">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="63110096" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="340468734" target="652834658527367169">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="340468734" target="652958832621146113">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="19236074" target="340468734">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="283487504" target="652914461045604352">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="15128816" target="283487504">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="489591754" target="652754684814454784">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2244539785" target="652799046751518724">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1270176578" target="2244539785">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="43705677" target="652870043668234240">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="255494687" target="43705677">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="503246387" target="652768896676691968">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="503246387" target="Poutine">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="503246387" target="OTAN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="14834302" target="340468734">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="37639345" target="652866678578106368">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="37639345" target="watchaddict">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="37639345" target="watchporn">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="37639345" target="watchoftheday">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="37639345" target="watchofinstagram">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1131151171" target="652849920710451200">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1131151171" target="652833884455993344">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1131151171" target="652820813415120897">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1131151171" target="652816786937782272">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1131151171" target="652814847520952320">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1131151171" target="NATO">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="1131151171" target="Siria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1131151171" target="russia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1131151171" target="StopBallePD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2481385154" target="1131151171">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="224607633" target="652818155182669824">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="86374405" target="224607633">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="86374405" target="2870887370">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1015385599" target="652716265300197376">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="17616640" target="1015385599">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1357227144" target="652791874667855872">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="191801348" target="652963353900544000">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="7349062" target="191801348">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="7349062" target="3437290666">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="287137520" target="191801348">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="287137520" target="3437290666">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="47916714" target="191801348">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="47916714" target="3437290666">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="238156229" target="652789550759211009">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3044584264" target="238156229">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1953669344" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="48289662" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="34200559" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="356263748" target="652953182428073984">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2904896141" target="356263748">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1111444609" target="356263748">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2454926696" target="652768924149399552">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2391615488" target="2454926696">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="458640978" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1589950688" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2181888003" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1079799397" target="652870829471088642">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1079799397" target="1079799397">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1079799397" target="oktoberfest">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="299017710" target="1079799397">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1885095013" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="480223345" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1223848752" target="652836414787293185">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="158650448" target="1223848752">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="950174719" target="652862250877878273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="579271577" target="652910424585830400">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="539032778" target="579271577">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="404189846" target="652775074173464576">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="404189846" target="HastaLaVictoriaSiempre">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="34584450" target="652923102628827136">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="34584450" target="Türkei">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="34584450" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="34584450" target="Bündnisfall">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="34584450" target="Bürgerkrieg">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="34584450" target="Syrien">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="34584450" target="Russlandi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="23748506" target="34584450">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1316250860" target="652758571868946432">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1316250860" target="652760410442080256">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1316250860" target="652761914620157952">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1685572134" target="1316250860">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="523090325" target="1316250860">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="468523455" target="652787942046498816">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1479726548" target="652836207894884352">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="326079756" target="1479726548">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="50104200" target="652834457842491392">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="50104200" target="652838883105861632">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="73971750" target="50104200">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="363627649" target="652984446321360896">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="100452627" target="652932557563150336">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="20796069" target="100452627">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="230988598" target="652744726744014848">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1533404466" target="652835688124141568">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1533404466" target="652835259562762240">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="34262462" target="1533404466">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="192517432" target="1533404466">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="260651999" target="652743650510831616">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="29414182" target="652886171685662720">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="860012472" target="29414182">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2978674636" target="652937778674556929">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="306413915" target="2978674636">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="186227997" target="652951981154152449">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="186227997" target="Jeffrey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1037152033" target="652838415340335104">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1037152033" target="652834687711375360">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1037152033" target="NATO">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="1037152033" target="Censurate">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1037152033" target="disastro">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1037152033" target="Sardegna">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1037152033" target="graziePD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1037152033" target="Trident">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1037152033" target="Sardinia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1037152033" target="radioactivity">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="343961846" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="15234407" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="11348282" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="163219059" target="652961651692576768">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="236484723" target="652892833695801344">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1111100311" target="236484723">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1092729074" target="652967382760202240">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="451003214" target="1092729074">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2497586063" target="1092729074">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2291428702" target="1092729074">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="186208870" target="652891024554094592">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="229547997" target="652774656726933504">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="181567076" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="558168904" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="434480349" target="652824981311758336">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2874909893" target="652832040086294528">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2782099742" target="652825288208990208">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2782099742" target="2782099742">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3437290666" target="652916343331778560">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2998426216" target="652937570842755072">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2998426216" target="652857678939746304">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2296219634" target="2998426216">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="198825045" target="652755519254433792">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="288441724" target="652910519758770176">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1499177682" target="652965689674698753">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2836296957" target="652856208488046592">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2836296957" target="652856462742548480">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2836296957" target="652856365023633408">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="106099054" target="652790074640330752">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3042533500" target="652967148730621952">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1593775495" target="652830457789317120">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="247000209" target="652818529679450112">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="25077885" target="652963831359098880">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1148910157" target="652737121472655360">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1148910157" target="profondo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1148910157" target="aggettivi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="218142022" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="98983044" target="652925260749254657">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="98983044" target="НАТО">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="98983044" target="враги">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="211791881" target="652992784354398208">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1181060828" target="2607703608">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1929684337" target="652750720383389696">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2410531917" target="652889219858305024">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="393296950" target="652871146203971584">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="309366491" target="393296950">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="577401044" target="393296950">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2909403579" target="393296950">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2885444789" target="652879132716609536">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="306089804" target="652827145992019968">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="261200718" target="652944668079075328">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2213057837" target="652885467436871681">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1356707138" target="652964610371420160">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1356707138" target="Under16">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1578321768" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2390581533" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="883129802" target="652803403773550592">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2535021600" target="883129802">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1251306607" target="883129802">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="323966077" target="652929184742920192">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="476078452" target="2889428488">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="331726265" target="1533404466">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="403430248" target="839254856">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2231189252" target="652798798314532864">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3685920741" target="652863273826652161">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2462211337" target="3685920741">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="272615223" target="652885332480925696">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="272615223" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3228961984" target="652865103822495744">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="514638418" target="3228961984">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2870887370" target="652813662978183169">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="91796121" target="2870887370">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="28104195" target="652793492687724544">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="379297386" target="28104195">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2784660132" target="652650849836081153">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="127480965" target="652843677631545344">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3375854290" target="127480965">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2899482928" target="652965556803502081">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="304256928" target="652723749435912192">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2318652065" target="304256928">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="22168210" target="304256928">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2943762975" target="652788694412361728">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2343653417" target="2943762975">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1714901952" target="2943762975">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1145631956" target="652829686029021184">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="614975732" target="652792006742290432">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3403017803" target="614975732">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1449665095" target="652887375509590016">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="477041200" target="1449665095">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="742143" target="2607703608">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="345980342" target="652975386008158208">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="399436561" target="652773890528292865">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="290768361" target="652924206208917504">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="320410228" target="652970157829132289">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1460665861" target="652867685429157888">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="51103651" target="652924945278894082">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="490720689" target="51103651">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3491002337" target="652923192907055105">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2267240724" target="652725059845537792">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="36614207" target="2267240724">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="381944770" target="2267240724">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2354980792" target="318556348">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="326212402" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2496436020" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="219251193" target="652760222788919296">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="28096105" target="219251193">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="75765850" target="652765046389477376">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1628028361" target="75765850">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="36013174" target="652909097017344000">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="36013174" target="confused">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1978842356" target="652803452351983616">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2297979724" target="652788684555730944">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="73640017" target="652861674333044736">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="73640017" target="platjadesantsebastià">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="73640017" target="Barceloneta">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="30513255" target="50104200">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1044932990" target="50104200">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="224620664" target="1688854273">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="633864537" target="652649824341348352">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="247056555" target="1633710211">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1496509680" target="1633710211">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="188380389" target="1633710211">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="718254192" target="652764307806113792">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3064893748" target="718254192">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="40050954" target="718254192">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="93691257" target="652756378445041668">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="424415059" target="93691257">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2470252237" target="652636539122503680">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="20264905" target="2470252237">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3588266957" target="652776877908729856">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3561899004" target="3588266957">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3257464128" target="3588266957">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3689511440" target="3588266957">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1402337886" target="652790799621562368">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="775800193" target="1402337886">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="394178776" target="1402337886">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="334302416" target="1402337886">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1586285534" target="1402337886">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2629650736" target="652811094789083136">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1216863812" target="652804811759468544">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="594976909" target="652921577013649408">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="594976909" target="PeaceDay">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2931736792" target="594976909">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="472830024" target="594976909">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="135815730" target="594976909">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="122710995" target="594976909">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2913714869" target="594976909">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3130980819" target="594976909">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3005511447" target="594976909">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2869495959" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="289714868" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="835630675" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2419895447" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="254563108" target="652790242823548928">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="254563108" target="TheFlash">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="329563783" target="652916646944862208">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="329690404" target="652905345040412672">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="347862461" target="329690404">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2380896536" target="652905345485008896">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2426205690" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="542366086" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="557715340" target="652958456660557824">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="133663801" target="557715340">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="108647918" target="1228444484">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="392087520" target="652780294047694848">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="3327662206" target="652815884550021120">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="38395124" target="3327662206">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2567169382" target="652819413847117824">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="356761133" target="652892713365434368">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1334710302" target="652812231932030976">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1334710302" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1334710302" target="russia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1334710302" target="Turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="448217432" target="652875518178664448">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="732772232" target="448217432">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="714674097" target="448217432">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2357939839" target="652788654507737088">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="243317628" target="2357939839">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="504804966" target="652921795767627776">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="40687613" target="652942015102124033">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="40687613" target="40687613">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="162171380" target="652822855810449409">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="162171380" target="QuiksilverProFrance">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="471141787" target="652861983365201920">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="342882362" target="652956091995803648">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="292460045" target="652885570432167936">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2416567776" target="292460045">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="403436252" target="292460045">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2671132722" target="652845744047661056">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="111875060" target="652879360731557888">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="111875060" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="111875060" target="Turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="271417850" target="652870178070368256">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1198970354" target="652900065934200833">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="2574037067" target="1198970354">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="520595195" target="652784790442262528">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="1094488898" target="520595195">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Valdepeñas" target="Valdepeñas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Türkei" target="Türkei">
+  <data key="d2">4.0</data>
+</edge>
+<edge source="Türkei" target="NATO">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="Türkei" target="EU">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Türkei" target="Erdogan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Türkei" target="Bündnisfall">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Türkei" target="Bürgerkrieg">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Türkei" target="Syrien">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Türkei" target="Russlandi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="Türkei">
+  <data key="d2">3.0</data>
+</edge>
+<edge source="NATO" target="NATO">
+  <data key="d2">14.0</data>
+</edge>
+<edge source="NATO" target="Siria">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="NATO" target="USA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="Obama">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="Terrorismo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="Migrazione">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="EU">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="NATO" target="Erdogan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="Ankara">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="AQIM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="Daesh">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="Article5">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="Bündnisfall">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="Bürgerkrieg">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="Syrien">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="Russlandi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="Censurate">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="disastro">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="Sardegna">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="graziePD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="russia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="NATO" target="Turkey">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="NATO" target="Trident">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="Sardinia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="NATO" target="radioactivity">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Siria" target="NATO">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Siria" target="Siria">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Siria" target="USA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Siria" target="Obama">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Siria" target="Terrorismo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Siria" target="Migrazione">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Siria" target="russia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="USA" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="USA" target="Siria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="USA" target="USA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="USA" target="Obama">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="USA" target="Terrorismo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="USA" target="Migrazione">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Obama" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Obama" target="Siria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Obama" target="USA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Obama" target="Obama">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Obama" target="Terrorismo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Obama" target="Migrazione">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Terrorismo" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Terrorismo" target="Siria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Terrorismo" target="USA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Terrorismo" target="Obama">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Terrorismo" target="Terrorismo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Terrorismo" target="Migrazione">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Migrazione" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Migrazione" target="Siria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Migrazione" target="USA">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Migrazione" target="Obama">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Migrazione" target="Terrorismo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Migrazione" target="Migrazione">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Expo2015" target="Expo2015">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Expo2015" target="ReggioExpo2015">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Expo2015" target="expogram">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ReggioExpo2015" target="Expo2015">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ReggioExpo2015" target="ReggioExpo2015">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ReggioExpo2015" target="expogram">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="expogram" target="Expo2015">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="expogram" target="ReggioExpo2015">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="expogram" target="expogram">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Linares" target="Linares">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Linares" target="PreventivosCruzRoja">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="PreventivosCruzRoja" target="Linares">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="PreventivosCruzRoja" target="PreventivosCruzRoja">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Yargılanacaksınız" target="Yargılanacaksınız">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Syria" target="Syria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Syria" target="TurkeyBomb">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="TurkeyBomb" target="Syria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="TurkeyBomb" target="TurkeyBomb">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Экс" target="Экс">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Экс" target="MI6">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Экс" target="Запад">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Экс" target="Россия">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Экс" target="быстрее">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Экс" target="НАТО">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MI6" target="Экс">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MI6" target="MI6">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MI6" target="Запад">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MI6" target="Россия">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MI6" target="быстрее">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="MI6" target="НАТО">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Запад" target="Экс">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Запад" target="MI6">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Запад" target="Запад">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Запад" target="Россия">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Запад" target="быстрее">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Запад" target="НАТО">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Россия" target="Экс">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Россия" target="MI6">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Россия" target="Запад">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Россия" target="Россия">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Россия" target="быстрее">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Россия" target="НАТО">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="быстрее" target="Экс">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="быстрее" target="MI6">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="быстрее" target="Запад">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="быстрее" target="Россия">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="быстрее" target="быстрее">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="быстрее" target="НАТО">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="НАТО" target="Экс">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="НАТО" target="MI6">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="НАТО" target="Запад">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="НАТО" target="Россия">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="НАТО" target="быстрее">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="НАТО" target="НАТО">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="НАТО" target="враги">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="EU" target="Türkei">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="EU" target="NATO">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="EU" target="EU">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Erdogan" target="Türkei">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Erdogan" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Erdogan" target="Erdogan">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Erdogan" target="Ankara">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Erdogan" target="AQIM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Erdogan" target="Daesh">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Erdogan" target="Article5">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="EBDabarkadsPaMore" target="EBDabarkadsPaMore">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="LaOpiniónCoruña" target="LaOpiniónCoruña">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Zaragoza" target="Zaragoza">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="TSAAFD" target="TSAAFD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="huidaseguraya" target="huidaseguraya">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="4Рајх" target="4Рајх">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="4Рајх" target="Зла">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Зла" target="4Рајх">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Зла" target="Зла">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Travel" target="Travel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Travel" target="Reviews">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Reviews" target="Travel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Reviews" target="Reviews">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ankara" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ankara" target="Erdogan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ankara" target="Ankara">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ankara" target="AQIM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ankara" target="Daesh">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ankara" target="Article5">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="AQIM" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="AQIM" target="Erdogan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="AQIM" target="Ankara">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="AQIM" target="AQIM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="AQIM" target="Daesh">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="AQIM" target="Article5">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Daesh" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Daesh" target="Erdogan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Daesh" target="Ankara">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Daesh" target="AQIM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Daesh" target="Daesh">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Daesh" target="Article5">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Article5" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Article5" target="Erdogan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Article5" target="Ankara">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Article5" target="AQIM">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Article5" target="Daesh">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Article5" target="Article5">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="KatilAKP" target="KatilAKP">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Poutine" target="Poutine">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Poutine" target="OTAN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="OTAN" target="Poutine">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="OTAN" target="OTAN">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="watchaddict" target="watchaddict">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="watchaddict" target="watchporn">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="watchaddict" target="watchoftheday">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="watchaddict" target="watchofinstagram">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="watchporn" target="watchaddict">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="watchporn" target="watchporn">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="watchporn" target="watchoftheday">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="watchporn" target="watchofinstagram">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="watchoftheday" target="watchaddict">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="watchoftheday" target="watchporn">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="watchoftheday" target="watchoftheday">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="watchoftheday" target="watchofinstagram">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="watchofinstagram" target="watchaddict">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="watchofinstagram" target="watchporn">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="watchofinstagram" target="watchoftheday">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="watchofinstagram" target="watchofinstagram">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="oktoberfest" target="oktoberfest">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="HastaLaVictoriaSiempre" target="HastaLaVictoriaSiempre">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bündnisfall" target="Türkei">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bündnisfall" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bündnisfall" target="Bündnisfall">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bündnisfall" target="Bürgerkrieg">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bündnisfall" target="Syrien">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bündnisfall" target="Russlandi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bürgerkrieg" target="Türkei">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bürgerkrieg" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bürgerkrieg" target="Bündnisfall">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bürgerkrieg" target="Bürgerkrieg">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bürgerkrieg" target="Syrien">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Bürgerkrieg" target="Russlandi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Syrien" target="Türkei">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Syrien" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Syrien" target="Bündnisfall">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Syrien" target="Bürgerkrieg">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Syrien" target="Syrien">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Syrien" target="Russlandi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Russlandi" target="Türkei">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Russlandi" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Russlandi" target="Bündnisfall">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Russlandi" target="Bürgerkrieg">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Russlandi" target="Syrien">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Russlandi" target="Russlandi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Jeffrey" target="Jeffrey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Censurate" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Censurate" target="Censurate">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Censurate" target="disastro">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Censurate" target="Sardegna">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Censurate" target="graziePD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="disastro" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="disastro" target="Censurate">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="disastro" target="disastro">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="disastro" target="Sardegna">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="disastro" target="graziePD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Sardegna" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Sardegna" target="Censurate">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Sardegna" target="disastro">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Sardegna" target="Sardegna">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Sardegna" target="graziePD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="graziePD" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="graziePD" target="Censurate">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="graziePD" target="disastro">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="graziePD" target="Sardegna">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="graziePD" target="graziePD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="profondo" target="profondo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="profondo" target="aggettivi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="aggettivi" target="profondo">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="aggettivi" target="aggettivi">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="russia" target="NATO">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="russia" target="Siria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="russia" target="russia">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="russia" target="Turkey">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="враги" target="НАТО">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="враги" target="враги">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Under16" target="Under16">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="confused" target="confused">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="StopBallePD" target="StopBallePD">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="platjadesantsebastià" target="platjadesantsebastià">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="platjadesantsebastià" target="Barceloneta">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Barceloneta" target="platjadesantsebastià">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Barceloneta" target="Barceloneta">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="PeaceDay" target="PeaceDay">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="TheFlash" target="TheFlash">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Turkey" target="NATO">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="Turkey" target="russia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Turkey" target="Turkey">
+  <data key="d2">2.0</data>
+</edge>
+<edge source="QuiksilverProFrance" target="QuiksilverProFrance">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trident" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trident" target="Trident">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trident" target="Sardinia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trident" target="radioactivity">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Sardinia" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Sardinia" target="Trident">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Sardinia" target="Sardinia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Sardinia" target="radioactivity">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="radioactivity" target="NATO">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="radioactivity" target="Trident">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="radioactivity" target="Sardinia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="radioactivity" target="radioactivity">
+  <data key="d2">1.0</data>
+</edge>
+</graph></graphml>

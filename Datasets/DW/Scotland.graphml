@@ -1,0 +1,2409 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">CASOS</data>
+<node id="north">
+  <data key="d1">agent</data>
+</node>
+<node id="british">
+  <data key="d1">agent</data>
+</node>
+<node id="railway">
+  <data key="d1">agent</data>
+</node>
+<node id="caledonian">
+  <data key="d1">agent</data>
+</node>
+<node id="glasgow">
+  <data key="d1">agent</data>
+</node>
+<node id="&amp;">
+  <data key="d1">agent</data>
+</node>
+<node id="south">
+  <data key="d1">agent</data>
+</node>
+<node id="western">
+  <data key="d1">agent</data>
+</node>
+<node id="j.">
+  <data key="d1">agent</data>
+</node>
+<node id="p.">
+  <data key="d1">agent</data>
+</node>
+<node id="coats">
+  <data key="d1">agent</data>
+</node>
+<node id="great">
+  <data key="d1">agent</data>
+</node>
+<node id="of">
+  <data key="d1">agent</data>
+</node>
+<node id="scotland">
+  <data key="d1">agent</data>
+</node>
+<node id="highland">
+  <data key="d1">agent</data>
+</node>
+<node id="forth">
+  <data key="d1">agent</data>
+</node>
+<node id="bridge">
+  <data key="d1">agent</data>
+</node>
+<node id="consolidated">
+  <data key="d1">agent</data>
+</node>
+<node id="tea">
+  <data key="d1">agent</data>
+</node>
+<node id="lands">
+  <data key="d1">agent</data>
+</node>
+<node id="linen">
+  <data key="d1">agent</data>
+</node>
+<node id="thread">
+  <data key="d1">agent</data>
+</node>
+<node id="burmah">
+  <data key="d1">agent</data>
+</node>
+<node id="oil">
+  <data key="d1">agent</data>
+</node>
+<node id="united">
+  <data key="d1">agent</data>
+</node>
+<node id="collieries">
+  <data key="d1">agent</data>
+</node>
+<node id="locomotive">
+  <data key="d1">agent</data>
+</node>
+<node id="distillers">
+  <data key="d1">agent</data>
+</node>
+<node id="stewarts">
+  <data key="d1">agent</data>
+</node>
+<node id="and">
+  <data key="d1">agent</data>
+</node>
+<node id="lloyds">
+  <data key="d1">agent</data>
+</node>
+<node id="lanarkshire">
+  <data key="d1">agent</data>
+</node>
+<node id="dumbartonshire">
+  <data key="d1">agent</data>
+</node>
+<node id="district">
+  <data key="d1">agent</data>
+</node>
+<node id="subway">
+  <data key="d1">agent</data>
+</node>
+<node id="tharsis">
+  <data key="d1">agent</data>
+</node>
+<node id="sulphur">
+  <data key="d1">agent</data>
+</node>
+<node id="copper">
+  <data key="d1">agent</data>
+</node>
+<node id="moss">
+  <data key="d1">agent</data>
+</node>
+<node id="empires">
+  <data key="d1">agent</data>
+</node>
+<node id="kanan">
+  <data key="d1">agent</data>
+</node>
+<node id="devan">
+  <data key="d1">agent</data>
+</node>
+<node id="hills">
+  <data key="d1">agent</data>
+</node>
+<node id="produce">
+  <data key="d1">agent</data>
+</node>
+<node id="william">
+  <data key="d1">agent</data>
+</node>
+<node id="mcewan">
+  <data key="d1">agent</data>
+</node>
+<node id="younger">
+  <data key="d1">agent</data>
+</node>
+<node id="barry">
+  <data key="d1">agent</data>
+</node>
+<node id="ostlere">
+  <data key="d1">agent</data>
+</node>
+<node id="shepherd">
+  <data key="d1">agent</data>
+</node>
+<node id="west">
+  <data key="d1">agent</data>
+</node>
+<node id="anglo-american">
+  <data key="d1">agent</data>
+</node>
+<node id="direct">
+  <data key="d1">agent</data>
+</node>
+<node id="trading">
+  <data key="d1">agent</data>
+</node>
+<node id="alex">
+  <data key="d1">agent</data>
+</node>
+<node id="pirie">
+  <data key="d1">agent</data>
+</node>
+<node id="sons">
+  <data key="d1">agent</data>
+</node>
+<node id="amalgamated">
+  <data key="d1">agent</data>
+</node>
+<node id="estates">
+  <data key="d1">agent</data>
+</node>
+<node id="coltness">
+  <data key="d1">agent</data>
+</node>
+<node id="iron">
+  <data key="d1">agent</data>
+</node>
+<node id="fife">
+  <data key="d1">agent</data>
+</node>
+<node id="coal">
+  <data key="d1">agent</data>
+</node>
+<node id="callander">
+  <data key="d1">agent</data>
+</node>
+<node id="oban">
+  <data key="d1">agent</data>
+</node>
+<node id="nobel's">
+  <data key="d1">agent</data>
+</node>
+<node id="explosives">
+  <data key="d1">agent</data>
+</node>
+<node id="george">
+  <data key="d1">agent</data>
+</node>
+<node id="son">
+  <data key="d1">agent</data>
+</node>
+<node id="arizona">
+  <data key="d1">agent</data>
+</node>
+<node id="irrawaddy">
+  <data key="d1">agent</data>
+</node>
+<node id="flotilla">
+  <data key="d1">agent</data>
+</node>
+<node id="scottish">
+  <data key="d1">agent</data>
+</node>
+<node id="gympie">
+  <data key="d1">agent</data>
+</node>
+<node id="gold">
+  <data key="d1">agent</data>
+</node>
+<node id="mines">
+  <data key="d1">agent</data>
+</node>
+<node id="allan">
+  <data key="d1">agent</data>
+</node>
+<node id="line">
+  <data key="d1">agent</data>
+</node>
+<node id="steamships">
+  <data key="d1">agent</data>
+</node>
+<node id="clyde">
+  <data key="d1">agent</data>
+</node>
+<node id="valley">
+  <data key="d1">agent</data>
+</node>
+<node id="electrical">
+  <data key="d1">agent</data>
+</node>
+<node id="power">
+  <data key="d1">agent</data>
+</node>
+<node id="john">
+  <data key="d1">agent</data>
+</node>
+<node id="dewar">
+  <data key="d1">agent</data>
+</node>
+<node id="lothians">
+  <data key="d1">agent</data>
+</node>
+<node id="electric">
+  <data key="d1">agent</data>
+</node>
+<node id="central">
+  <data key="d1">agent</data>
+</node>
+<node id="summerlee">
+  <data key="d1">agent</data>
+</node>
+<node id="anchor">
+  <data key="d1">agent</data>
+</node>
+<node id="(henderson">
+  <data key="d1">agent</data>
+</node>
+<node id="bros.)">
+  <data key="d1">agent</data>
+</node>
+<node id="dyewood">
+  <data key="d1">agent</data>
+</node>
+<node id="chemical">
+  <data key="d1">agent</data>
+</node>
+<node id="acadia">
+  <data key="d1">agent</data>
+</node>
+<node id="sugar">
+  <data key="d1">agent</data>
+</node>
+<node id="refining">
+  <data key="d1">agent</data>
+</node>
+<node id="rivet">
+  <data key="d1">agent</data>
+</node>
+<node id="bolt">
+  <data key="d1">agent</data>
+</node>
+<node id="nut">
+  <data key="d1">agent</data>
+</node>
+<node id="james">
+  <data key="d1">agent</data>
+</node>
+<node id="dunlop">
+  <data key="d1">agent</data>
+</node>
+<node id="ayrshire">
+  <data key="d1">agent</data>
+</node>
+<node id="david">
+  <data key="d1">agent</data>
+</node>
+<node id="henderson">
+  <data key="d1">agent</data>
+</node>
+<node id="clan">
+  <data key="d1">agent</data>
+</node>
+<node id="steamers">
+  <data key="d1">agent</data>
+</node>
+<node id="fairfield">
+  <data key="d1">agent</data>
+</node>
+<node id="shipbuilding">
+  <data key="d1">agent</data>
+</node>
+<node id="engineering">
+  <data key="d1">agent</data>
+</node>
+<node id="wemyss">
+  <data key="d1">agent</data>
+</node>
+<node id="trust">
+  <data key="d1">agent</data>
+</node>
+<node id="steel">
+  <data key="d1">agent</data>
+</node>
+<node id="company">
+  <data key="d1">agent</data>
+</node>
+<node id="dailuane-talisker">
+  <data key="d1">agent</data>
+</node>
+<node id="distilleries">
+  <data key="d1">agent</data>
+</node>
+<node id="young's">
+  <data key="d1">agent</data>
+</node>
+<node id="paraffin">
+  <data key="d1">agent</data>
+</node>
+<node id="ligth">
+  <data key="d1">agent</data>
+</node>
+<node id="mineral">
+  <data key="d1">agent</data>
+</node>
+<node id="bulloch">
+  <data key="d1">agent</data>
+</node>
+<node id="lade">
+  <data key="d1">agent</data>
+</node>
+<node id="glengarnock">
+  <data key="d1">agent</data>
+</node>
+<node id="fresno">
+  <data key="d1">agent</data>
+</node>
+<node id="lothian">
+  <data key="d1">agent</data>
+</node>
+<node id="waggon">
+  <data key="d1">agent</data>
+</node>
+<node id="argyll">
+  <data key="d1">agent</data>
+</node>
+<node id="motors">
+  <data key="d1">agent</data>
+</node>
+<node id="robertson">
+  <data key="d1">agent</data>
+</node>
+<node id="sanderson">
+  <data key="d1">agent</data>
+</node>
+<node id="a.f.">
+  <data key="d1">agent</data>
+</node>
+<node id="stoddard">
+  <data key="d1">agent</data>
+</node>
+<node id="victoria">
+  <data key="d1">agent</data>
+</node>
+<node id="jute">
+  <data key="d1">agent</data>
+</node>
+<node id="broxburn">
+  <data key="d1">agent</data>
+</node>
+<node id="bank">
+  <data key="d1">agent</data>
+</node>
+<node id="national">
+  <data key="d1">agent</data>
+</node>
+<node id="commercial">
+  <data key="d1">agent</data>
+</node>
+<node id="royal">
+  <data key="d1">agent</data>
+</node>
+<node id="union">
+  <data key="d1">agent</data>
+</node>
+<node id="co.">
+  <data key="d1">agent</data>
+</node>
+<node id="clydesdale">
+  <data key="d1">agent</data>
+</node>
+<node id="widows">
+  <data key="d1">agent</data>
+</node>
+<node id="fund">
+  <data key="d1">agent</data>
+</node>
+<node id="life">
+  <data key="d1">agent</data>
+</node>
+<node id="ass.">
+  <data key="d1">agent</data>
+</node>
+<node id="mercantile">
+  <data key="d1">agent</data>
+</node>
+<node id="ins.">
+  <data key="d1">agent</data>
+</node>
+<node id="provident">
+  <data key="d1">agent</data>
+</node>
+<node id="institution">
+  <data key="d1">agent</data>
+</node>
+<node id="standard">
+  <data key="d1">agent</data>
+</node>
+<node id="association">
+  <data key="d1">agent</data>
+</node>
+<node id="equitable">
+  <data key="d1">agent</data>
+</node>
+<edge source="north" target="power">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="north" target="john">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="north" target="dewar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="north" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="north" target="sons">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="north" target="lothians">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="north" target="electric">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="north" target="dailuane-talisker">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="north" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="north" target="direct">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="north" target="coal">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="north" target="callander">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="north" target="arizona">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="north" target="amalgamated">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="north" target="steamships">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="scottish">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="central">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="electric">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="power">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="summerlee">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="iron">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="anchor">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="line">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="(henderson">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="bros.)">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="dyewood">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="trust">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="north">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="direct">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="estates">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="british" target="amalgamated">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="chemical">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="acadia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="sugar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="refining">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="rivet">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="james">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="dunlop">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="engineering">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="wemyss">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="william">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="henderson">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="clan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="line">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="steamers">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="fairfield">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="shipbuilding">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="ligth">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="power">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="scottish">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="iron">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="dailuane-talisker">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="distilleries">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="union">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="scotland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="linen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="co.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="electric">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="stoddard">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="broxburn">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="glasgow">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="railway" target="alex">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="caledonian" target="central">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="caledonian" target="bolt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="caledonian" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="caledonian" target="nut">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="glasgow" target="summerlee">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="glasgow" target="lanarkshire">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="glasgow" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="glasgow" target="ayrshire">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="glasgow" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="glasgow" target="david">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="glasgow" target="power">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="glasgow" target="dyewood">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="glasgow" target="and">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="power">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="refining">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="central">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="(henderson">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="distilleries">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="young's">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="paraffin">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="electric">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="oil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="motors">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="robertson">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="sanderson">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="a.f.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="stoddard">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="lothian">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="commercial">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="widows">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="fund">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="shipbuilding">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="engineering">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="dewar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="line">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="david">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="life">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="north">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="bridge">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="sulphur">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="highland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="caledonian">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="coats">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="glasgow">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="tea">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="lands">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="united">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="electrical">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="iron">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="&amp;" target="oban">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="south" target="william">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="south" target="henderson">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="south" target="clan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="south" target="line">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="south" target="steamers">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="south" target="fairfield">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="south" target="shipbuilding">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="south" target="ligth">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="western" target="bolt">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="western" target="and">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="j." target="line">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="j." target="collieries">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="j." target="trust">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="p." target="steel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="p." target="company">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="coats" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="coats" target="lanarkshire">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="coats" target="ayrshire">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="great" target="iron">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="great" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="great" target="scotland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="central">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="iron">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="distilleries">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="young's">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="paraffin">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="great">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="shepherd">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="coltness">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="oban">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="west">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="highland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="alex">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="trading">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="fife">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="mines">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="copper">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="of" target="steamships">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scotland" target="great">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scotland" target="united">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scotland" target="shepherd">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scotland" target="coltness">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scotland" target="west">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scotland" target="sons">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scotland" target="highland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scotland" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scotland" target="alex">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scotland" target="callander">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scotland" target="arizona">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scotland" target="mines">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scotland" target="trading">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scotland" target="copper">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scotland" target="scottish">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scotland" target="nobel's">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="highland" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="highland" target="john">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="highland" target="commercial">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="highland" target="bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="highland" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="highland" target="scotland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="highland" target="royal">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bridge" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tea" target="william">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tea" target="henderson">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tea" target="clan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tea" target="line">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tea" target="steamers">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tea" target="fairfield">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tea" target="shipbuilding">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tea" target="ligth">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tea" target="james">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tea" target="dunlop">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="tea" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lands" target="john">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lands" target="collieries">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lands" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lands" target="mineral">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="linen" target="scottish">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="linen" target="power">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="linen" target="summerlee">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="linen" target="iron">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="linen" target="bros.)">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="linen" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="linen" target="estates">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="thread" target="iron">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="thread" target="distilleries">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="thread" target="young's">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="thread" target="oil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="burmah" target="bulloch">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="oil" target="steel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="oil" target="company">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="oil" target="thread">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="oil" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="oil" target="shepherd">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="oil" target="amalgamated">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united" target="central">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united" target="wemyss">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united" target="scotland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="united" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="collieries" target="lade">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="collieries" target="j.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="collieries" target="lands">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="distillers" target="lanarkshire">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="distillers" target="steel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="distillers" target="glengarnock">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="stewarts" target="lanarkshire">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="stewarts" target="steel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="stewarts" target="glengarnock">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="stewarts" target="iron">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="and" target="western">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="and" target="glasgow">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lanarkshire" target="glasgow">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lanarkshire" target="coats">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lanarkshire" target="distillers">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lanarkshire" target="stewarts">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="subway" target="steamers">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sulphur" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="copper" target="stoddard">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="copper" target="scotland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="copper" target="ass.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="copper" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="copper" target="kanan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="copper" target="electrical">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="moss" target="lothians">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="moss" target="central">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="moss" target="iron">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="moss" target="acadia">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="moss" target="steel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kanan" target="fresno">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="kanan" target="copper">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="devan" target="lothian">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="produce" target="central">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="produce" target="steel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="produce" target="coal">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="william" target="mineral">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="william" target="scottish">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="william" target="broxburn">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="william" target="waggon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="william" target="argyll">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="william" target="south">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="william" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="william" target="tea">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="younger" target="anchor">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="younger" target="scottish">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="barry" target="dewar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ostlere" target="trust">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shepherd" target="bulloch">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shepherd" target="victoria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shepherd" target="jute">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shepherd" target="broxburn">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shepherd" target="oil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shepherd" target="bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shepherd" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shepherd" target="scotland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shepherd" target="association">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="west" target="summerlee">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="west" target="mineral">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="west" target="fresno">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="west" target="scottish">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="west" target="national">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="west" target="bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="west" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="west" target="scotland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="anglo-american" target="waggon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="anglo-american" target="bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="anglo-american" target="clydesdale">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="direct" target="central">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="direct" target="iron">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="direct" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="direct" target="chemical">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="direct" target="coal">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="direct" target="north">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="trading" target="power">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="trading" target="electric">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="trading" target="rivet">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="trading" target="nut">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="trading" target="robertson">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="trading" target="a.f.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="trading" target="national">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="trading" target="royal">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="trading" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="trading" target="bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="trading" target="scotland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="alex" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="alex" target="bulloch">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="alex" target="bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="alex" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="alex" target="scotland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="alex" target="clydesdale">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pirie" target="sanderson">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pirie" target="union">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pirie" target="bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="pirie" target="scottish">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sons" target="scotland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sons" target="life">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sons" target="ass.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sons" target="north">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="amalgamated" target="victoria">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="amalgamated" target="oil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="amalgamated" target="commercial">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="amalgamated" target="north">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="amalgamated" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="estates" target="sugar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="estates" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="estates" target="linen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="estates" target="co.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="coltness" target="power">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="coltness" target="steel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="coltness" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="coltness" target="scotland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iron" target="summerlee">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iron" target="jute">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iron" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iron" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iron" target="mercantile">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iron" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iron" target="great">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iron" target="linen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iron" target="thread">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iron" target="moss">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iron" target="direct">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iron" target="stewarts">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="iron" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fife" target="chemical">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fife" target="dailuane-talisker">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fife" target="bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fife" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="coal" target="argyll">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="coal" target="bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="coal" target="north">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="coal" target="ins.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="coal" target="produce">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="coal" target="direct">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="callander" target="jute">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="callander" target="scotland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="callander" target="north">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="callander" target="ins.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="callander" target="scottish">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="oban" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="oban" target="bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="oban" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="oban" target="ins.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="nobel's" target="fund">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="nobel's" target="ass.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="nobel's" target="provident">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="nobel's" target="institution">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="nobel's" target="standard">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="nobel's" target="scotland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="explosives" target="provident">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="explosives" target="life">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="explosives" target="ass.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="george" target="mercantile">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="george" target="institution">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="george" target="ass.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="son" target="widows">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="arizona" target="scotland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="arizona" target="north">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="arizona" target="provident">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="arizona" target="association">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="flotilla" target="provident">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scottish" target="scotland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scottish" target="bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scottish" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scottish" target="scottish">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scottish" target="linen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scottish" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scottish" target="william">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scottish" target="west">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scottish" target="pirie">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scottish" target="gold">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scottish" target="callander">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scottish" target="younger">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="scottish" target="steamships">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gympie" target="electric">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gympie" target="life">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gold" target="stoddard">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gold" target="scottish">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="gold" target="equitable">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mines" target="royal">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mines" target="bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mines" target="scotland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mines" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mines" target="life">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="allan" target="dewar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="allan" target="line">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="allan" target="david">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="allan" target="life">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="line" target="dewar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="line" target="line">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="line" target="david">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="line" target="life">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="line" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="line" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="line" target="allan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="line" target="south">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="line" target="j.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="line" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="line" target="tea">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="steamships" target="bank">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="steamships" target="north">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="steamships" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="steamships" target="scottish">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="clyde" target="standard">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="valley" target="lade">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="electrical" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="electrical" target="copper">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="electrical" target="equitable">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="power" target="north">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="power" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="power" target="trading">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="power" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="power" target="coltness">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="power" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="power" target="linen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="power" target="glasgow">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="john" target="north">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="john" target="lands">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="john" target="highland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="dewar" target="north">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="dewar" target="barry">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="dewar" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="dewar" target="allan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="dewar" target="line">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lothians" target="north">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lothians" target="moss">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="electric" target="north">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="electric" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="electric" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="electric" target="trading">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="electric" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="electric" target="gympie">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="central" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="central" target="caledonian">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="central" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="central" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="central" target="united">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="central" target="moss">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="central" target="produce">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="central" target="direct">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="summerlee" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="summerlee" target="glasgow">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="summerlee" target="linen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="summerlee" target="west">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="summerlee" target="iron">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="anchor" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="anchor" target="younger">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="(henderson" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="(henderson" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bros.)" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bros.)" target="linen">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="dyewood" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="dyewood" target="glasgow">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chemical" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chemical" target="direct">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="chemical" target="fife">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="acadia" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="acadia" target="moss">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sugar" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sugar" target="estates">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="refining" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="refining" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="rivet" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="rivet" target="trading">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bolt" target="caledonian">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bolt" target="western">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="nut" target="caledonian">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="nut" target="trading">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="james" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="james" target="tea">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="dunlop" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="dunlop" target="tea">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ayrshire" target="glasgow">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ayrshire" target="coats">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="david" target="glasgow">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="david" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="david" target="allan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="david" target="line">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="henderson" target="south">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="henderson" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="henderson" target="tea">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="clan" target="south">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="clan" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="clan" target="tea">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="steamers" target="south">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="steamers" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="steamers" target="tea">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="steamers" target="subway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fairfield" target="south">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fairfield" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fairfield" target="tea">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shipbuilding" target="south">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shipbuilding" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shipbuilding" target="tea">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="shipbuilding" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="engineering" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="engineering" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="wemyss" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="wemyss" target="united">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="trust" target="j.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="trust" target="british">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="trust" target="ostlere">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="steel" target="p.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="steel" target="oil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="steel" target="distillers">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="steel" target="stewarts">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="steel" target="produce">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="steel" target="moss">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="steel" target="coltness">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="company" target="p.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="company" target="oil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="dailuane-talisker" target="north">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="dailuane-talisker" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="dailuane-talisker" target="fife">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="distilleries" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="distilleries" target="thread">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="distilleries" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="distilleries" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="young's" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="young's" target="thread">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="young's" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paraffin" target="of">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="paraffin" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ligth" target="south">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ligth" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ligth" target="tea">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mineral" target="lands">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mineral" target="william">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mineral" target="west">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bulloch" target="burmah">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bulloch" target="shepherd">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bulloch" target="alex">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lade" target="collieries">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lade" target="valley">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="glengarnock" target="distillers">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="glengarnock" target="stewarts">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fresno" target="kanan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fresno" target="west">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lothian" target="devan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="lothian" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="waggon" target="william">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="waggon" target="anglo-american">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="argyll" target="william">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="argyll" target="coal">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="motors" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="robertson" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="robertson" target="trading">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sanderson" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="sanderson" target="pirie">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="a.f." target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="a.f." target="trading">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="stoddard" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="stoddard" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="stoddard" target="copper">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="stoddard" target="gold">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="victoria" target="shepherd">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="victoria" target="amalgamated">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jute" target="shepherd">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jute" target="iron">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="jute" target="callander">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="broxburn" target="william">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="broxburn" target="shepherd">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="broxburn" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bank" target="shepherd">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bank" target="fife">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bank" target="west">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bank" target="coal">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bank" target="highland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bank" target="alex">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bank" target="oban">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bank" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bank" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bank" target="mines">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bank" target="anglo-american">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bank" target="trading">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bank" target="pirie">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bank" target="scottish">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="bank" target="steamships">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="national" target="west">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="national" target="trading">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="commercial" target="highland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="commercial" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="commercial" target="amalgamated">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="royal" target="highland">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="royal" target="trading">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="royal" target="mines">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="union" target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="union" target="pirie">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="co." target="railway">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="co." target="estates">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="clydesdale" target="anglo-american">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="clydesdale" target="alex">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="widows" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="widows" target="son">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fund" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="fund" target="nobel's">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="life" target="sons">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="life" target="gympie">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="life" target="explosives">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="life" target="mines">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="life" target="&amp;">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="life" target="allan">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="life" target="line">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ass." target="sons">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ass." target="nobel's">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ass." target="explosives">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ass." target="george">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ass." target="copper">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mercantile" target="iron">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="mercantile" target="george">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ins." target="coal">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ins." target="callander">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="ins." target="oban">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="provident" target="nobel's">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="provident" target="explosives">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="provident" target="arizona">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="provident" target="flotilla">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="institution" target="nobel's">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="institution" target="george">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="standard" target="nobel's">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="standard" target="clyde">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="association" target="shepherd">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="association" target="arizona">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="equitable" target="gold">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="equitable" target="electrical">
+  <data key="d2">1.0</data>
+</edge>
+</graph></graphml>

@@ -1,0 +1,735 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="source" attr.type="string"/>
+<graph edgedefault="directed"><data key="d0">CASOS</data>
+<node id="Madero">
+  <data key="d1">agent</data>
+</node>
+<node id="Francisco">
+  <data key="d1">agent</data>
+</node>
+<node id="Carranza">
+  <data key="d1">agent</data>
+</node>
+<node id="Venustiano">
+  <data key="d1">agent</data>
+</node>
+<node id="Obregon">
+  <data key="d1">agent</data>
+</node>
+<node id="Alvaro">
+  <data key="d1">agent</data>
+</node>
+<node id="Calles">
+  <data key="d1">agent</data>
+</node>
+<node id="Plutarco">
+  <data key="d1">agent</data>
+</node>
+<node id="E.">
+  <data key="d1">agent</data>
+</node>
+<node id="Aguilar">
+  <data key="d1">agent</data>
+</node>
+<node id="Candido">
+  <data key="d1">agent</data>
+</node>
+<node id="Trevino">
+  <data key="d1">agent</data>
+</node>
+<node id="Jacinto">
+  <data key="d1">agent</data>
+</node>
+<node id="B.">
+  <data key="d1">agent</data>
+</node>
+<node id="Portes">
+  <data key="d1">agent</data>
+</node>
+<node id="Gil">
+  <data key="d1">agent</data>
+</node>
+<node id="Emilio">
+  <data key="d1">agent</data>
+</node>
+<node id="Aleman">
+  <data key="d1">agent</data>
+</node>
+<node id="Gonzalez">
+  <data key="d1">agent</data>
+</node>
+<node id="Miguel">
+  <data key="d1">agent</data>
+</node>
+<node id="Jara">
+  <data key="d1">agent</data>
+</node>
+<node id="Heriberto">
+  <data key="d1">agent</data>
+</node>
+<node id="Cardenas">
+  <data key="d1">agent</data>
+</node>
+<node id="Lazaro">
+  <data key="d1">agent</data>
+</node>
+<node id="Avila">
+  <data key="d1">agent</data>
+</node>
+<node id="Camacho">
+  <data key="d1">agent</data>
+</node>
+<node id="Manuel">
+  <data key="d1">agent</data>
+</node>
+<node id="Valdes">
+  <data key="d1">agent</data>
+</node>
+<node id="Beteta">
+  <data key="d1">agent</data>
+</node>
+<node id="Ignacio">
+  <data key="d1">agent</data>
+</node>
+<node id="Ramon">
+  <data key="d1">agent</data>
+</node>
+<edge source="Madero" target="Francisco">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Madero" target="Carranza">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Madero" target="Venustiano">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Madero" target="Obregon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Madero" target="Alvaro">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Madero" target="Calles">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Francisco" target="Madero">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Francisco" target="Carranza">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Francisco" target="Venustiano">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Francisco" target="Obregon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Francisco" target="Alvaro">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Francisco" target="Calles">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Francisco" target="Plutarco">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Francisco" target="Aleman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Carranza" target="Madero">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Carranza" target="Francisco">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Carranza" target="Venustiano">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Carranza" target="Calles">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Carranza" target="Plutarco">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Carranza" target="Aguilar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Venustiano" target="Madero">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Venustiano" target="Francisco">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Venustiano" target="Carranza">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Venustiano" target="Calles">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Venustiano" target="Aguilar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Venustiano" target="B.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Obregon" target="Madero">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Obregon" target="Francisco">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Obregon" target="Plutarco">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Obregon" target="E.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Obregon" target="Aguilar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Obregon" target="Trevino">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Alvaro" target="Madero">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Alvaro" target="Francisco">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Alvaro" target="Aleman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Calles" target="Madero">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Calles" target="Francisco">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Calles" target="Carranza">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Calles" target="Venustiano">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Calles" target="Aguilar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Calles" target="Candido">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Calles" target="Heriberto">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Calles" target="Cardenas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Plutarco" target="Francisco">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Plutarco" target="Carranza">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Plutarco" target="Obregon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Plutarco" target="E.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Plutarco" target="Trevino">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="E." target="Obregon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="E." target="Plutarco">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="E." target="Aguilar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="E." target="Candido">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="E." target="Aleman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aguilar" target="Carranza">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aguilar" target="Venustiano">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aguilar" target="Obregon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aguilar" target="Calles">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aguilar" target="E.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aguilar" target="Candido">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aguilar" target="Trevino">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aguilar" target="Jacinto">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aguilar" target="B.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aguilar" target="Gil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aguilar" target="Beteta">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Candido" target="Calles">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Candido" target="E.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Candido" target="Aguilar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Candido" target="Trevino">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Candido" target="Aleman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Candido" target="Heriberto">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Candido" target="Avila">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trevino" target="Obregon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trevino" target="Plutarco">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trevino" target="Aguilar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trevino" target="Candido">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trevino" target="B.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trevino" target="Gil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trevino" target="Emilio">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trevino" target="Aleman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trevino" target="Gonzalez">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trevino" target="Miguel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trevino" target="Heriberto">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trevino" target="Cardenas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trevino" target="Lazaro">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trevino" target="Avila">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trevino" target="Manuel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Trevino" target="Ramon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Jacinto" target="Aguilar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Jacinto" target="B.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Jacinto" target="Portes">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="B." target="Venustiano">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="B." target="Aguilar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="B." target="Trevino">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="B." target="Jacinto">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="B." target="Portes">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="B." target="Miguel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="B." target="Ignacio">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Portes" target="Jacinto">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Portes" target="B.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Portes" target="Miguel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Portes" target="Manuel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Portes" target="Valdes">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Portes" target="Ignacio">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Portes" target="Beteta">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gil" target="Aguilar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gil" target="Trevino">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gil" target="Aleman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gil" target="Gonzalez">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gil" target="Camacho">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Emilio" target="Trevino">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Emilio" target="Aleman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Emilio" target="Cardenas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aleman" target="Francisco">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aleman" target="Alvaro">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aleman" target="E.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aleman" target="Candido">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aleman" target="Trevino">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aleman" target="Gil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aleman" target="Emilio">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aleman" target="Gonzalez">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aleman" target="Jara">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aleman" target="Cardenas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aleman" target="Lazaro">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aleman" target="Aleman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aleman" target="Miguel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aleman" target="Avila">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Aleman" target="Beteta">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gonzalez" target="Trevino">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gonzalez" target="Gil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gonzalez" target="Aleman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gonzalez" target="Jara">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gonzalez" target="Avila">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gonzalez" target="Camacho">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gonzalez" target="Manuel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gonzalez" target="Miguel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Gonzalez" target="Beteta">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Miguel" target="Trevino">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Miguel" target="B.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Miguel" target="Portes">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Miguel" target="Jara">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Miguel" target="Cardenas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Miguel" target="Avila">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Miguel" target="Camacho">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Miguel" target="Aleman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Miguel" target="Valdes">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Miguel" target="Beteta">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Miguel" target="Ignacio">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Miguel" target="Gonzalez">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Miguel" target="Lazaro">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Jara" target="Aleman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Jara" target="Gonzalez">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Jara" target="Miguel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Jara" target="Cardenas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Jara" target="Beteta">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Heriberto" target="Calles">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Heriberto" target="Candido">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Heriberto" target="Trevino">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Heriberto" target="Cardenas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Heriberto" target="Manuel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cardenas" target="Calles">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cardenas" target="Trevino">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cardenas" target="Emilio">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cardenas" target="Aleman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cardenas" target="Miguel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cardenas" target="Jara">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cardenas" target="Heriberto">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cardenas" target="Avila">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cardenas" target="Manuel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Cardenas" target="Beteta">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lazaro" target="Trevino">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lazaro" target="Aleman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Lazaro" target="Miguel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Avila" target="Candido">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Avila" target="Trevino">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Avila" target="Gonzalez">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Avila" target="Miguel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Avila" target="Cardenas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Avila" target="Camacho">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Avila" target="Aleman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Camacho" target="Gil">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Camacho" target="Gonzalez">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Camacho" target="Miguel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Camacho" target="Avila">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Camacho" target="Valdes">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Manuel" target="Trevino">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Manuel" target="Portes">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Manuel" target="Gonzalez">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Manuel" target="Heriberto">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Manuel" target="Cardenas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Manuel" target="Beteta">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Valdes" target="Portes">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Valdes" target="Miguel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Valdes" target="Camacho">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Valdes" target="Ignacio">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Beteta" target="Aguilar">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Beteta" target="Gonzalez">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Beteta" target="Miguel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Beteta" target="Jara">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Beteta" target="Cardenas">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Beteta" target="Manuel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Beteta" target="Aleman">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Beteta" target="Ignacio">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Beteta" target="Beteta">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Beteta" target="Portes">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Beteta" target="Ramon">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ignacio" target="B.">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ignacio" target="Portes">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ignacio" target="Miguel">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ignacio" target="Valdes">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ignacio" target="Beteta">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ramon" target="Trevino">
+  <data key="d2">1.0</data>
+</edge>
+<edge source="Ramon" target="Beteta">
+  <data key="d2">1.0</data>
+</edge>
+</graph></graphml>
