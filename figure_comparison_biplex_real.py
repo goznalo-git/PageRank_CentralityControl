@@ -28,6 +28,8 @@ with open('NetworkStats/fit_real.txt', 'w') as f:
 # Matplotlib parameters
 plt.style.use('science')
 plt.rcParams["text.usetex"] = False
+plt.rcParams['svg.fonttype'] = 'none'
+plt.rcParams['font.serif'] = "CMU Serif"
 
 # Initialize the figure
 plt.figure(figsize = (12,8))

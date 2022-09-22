@@ -30,6 +30,7 @@ with open('NetworkStats/fit_synthetic.txt', 'w') as f:
 # Matplotlib parameters
 plt.style.use('science')
 plt.rcParams["text.usetex"] = False
+plt.rcParams['svg.fonttype'] = 'none'
 
 # Initialize the figure
 plt.figure(figsize = (12,8))
@@ -56,11 +57,11 @@ custom_dots = [Line2D([], [], marker='o', linestyle='None', markersize=10, color
                 Line2D([], [], linestyle=(0, (10, 10)), color='grey', alpha=0.4),
                 Line2D([], [], linestyle='-', color='green', linewidth=1)]
 
-plt.legend(custom_dots, ['Directed scale-free', 'Directed random', 'alpha = beta', 'Quadratic fit alpha = 1.138 beta^2 + 0.382 beta - 0.016'], fontsize=13)
+plt.legend(custom_dots, ['Directed scale-free', 'Directed random', 'alpha = beta', 'Quadratic fit alpha = 1.138 beta^2 + 0.382 beta - 0.016'], fontsize=13, loc="lower right")
 
 ## Zoomed-in figure ##
 ax = plt.gca()
-axzoom = zoomed_inset_axes(ax, 3, loc='lower right')
+axzoom = zoomed_inset_axes(ax, 3, loc='upper left')
 
 # Zoomed-in datapoints
 plt.scatter(df[df['Type'] == 'ScaleFree']['beta_r_BPR'], df[df['Type'] == 'ScaleFree']['alpha_r_PR'], color='blue', alpha=0.4, s=80)

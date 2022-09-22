@@ -17,8 +17,13 @@ This code is written in Python 3, using standard scientific modules (numpy, matp
 
 
 
-*How to cite:* "Parametric control of PageRank centrality rankings: a geometrical approach", Gonzalo Contreras-Aso, Regino Criado, Miguel Romance. To be published.
+**How to cite:** *"Parametric control of PageRank centrality rankings: a geometrical approach"*, Gonzalo Contreras-Aso, Regino Criado, Miguel Romance. To be published.
 
 **Note 1:** in the computation of the maximum alpha available for full centrality control, the algorithm employs a collection of `sample` random centrality vectors (by default, 100). Thus, the obtained values of that parameter in the .csv files might differ every time the code is run, however they should be of the same order.
 
-**Note 2:** the quadratic fits obtained are not easily embedded in the final figures, thus they have to be added manually later, using a program link Inkscape to edit the resulting .svg files. For that reason we also save the fits to their respective files.
+**Note 2:** The figures obtained are not the final ones presented in the paper. Instead, they are first processed in a vector graphics software (Inkscape) for aesthetic purposes and latex formulae rendering.
+
+
+All datasets have been scraped from the [KONECT](http://konect.cc/) [1] and the [CASOS](http://www.casos.cs.cmu.edu/) websites.
+
+[1] *KONECT - The Koblenz Connetion*, Jérôme Kunegis. Proc. Int. Conf. on World Wide Web Companion, 1343--1350 (2013)

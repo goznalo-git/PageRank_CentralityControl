@@ -17,6 +17,7 @@ df = df.iloc[::-1]
 # Matplotlib parameters
 plt.style.use('science')
 plt.rcParams["text.usetex"] = False
+plt.rcParams['svg.fonttype'] = 'none'
 
 # Initialize figure
 plt.figure(figsize = (12,8))
@@ -24,7 +25,7 @@ plt.subplot(111)
 #plt.title('Comparison between number of nodes and edges,\n and maximum alpha for ranking control\n', fontsize = 20)
 
 # Plot datapoints 
-sc = plt.scatter(df['N'], df['E'], c = df['alpha_r_PR'], marker='X', s=150, linewidth=1, edgecolor='grey', cmap = plt.cm.rainbow) 
+sc = plt.scatter(df['N'], df['E'], c = df['alpha_r_PR'], marker='X', s=150, linewidth=0.5, edgecolor='black', cmap = plt.cm.rainbow) 
 
 # Axis labels and log-log plot
 plt.xlabel('Number of nodes', fontsize = 15)
