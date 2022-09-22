@@ -26,4 +26,4 @@ This code is written in Python 3, using standard scientific modules (numpy, matp
 
 All datasets have been scraped from the [KONECT](http://konect.cc/) [1] and the [CASOS](http://www.casos.cs.cmu.edu/) websites.
 
-[1] *KONECT - The Koblenz Connetion*, Jérôme Kunegis. Proc. Int. Conf. on World Wide Web Companion, 1343--1350 (2013)
+[1] *KONECT - The Koblenz Network Collection*, Jérôme Kunegis. Proc. Int. Conf. on World Wide Web Companion, 1343--1350 (2013)
