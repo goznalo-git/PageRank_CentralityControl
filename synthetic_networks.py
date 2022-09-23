@@ -24,7 +24,7 @@ from utilities import *
 
 ## General function to gather all information of a network
 
-def everything_together(G, sample=100, tol=1e-03, incr=0.01, power=3):
+def everything_together(G, sample=100, tol=1e-03, incr=0.001, power=3):
     '''
     From a directed graph, undangle it, obtain its P-matrix, compute
     the maximum alpha for full/rank control in the standard
