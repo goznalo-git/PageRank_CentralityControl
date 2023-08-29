@@ -16,9 +16,6 @@ This code is written in Python 3, using standard scientific modules (numpy, matp
 - `Figures`: the resulting figures are saved in this directory.
 
 
-
-**How to cite:** *"Parametric control of PageRank centrality rankings: a geometrical approach"*, Gonzalo Contreras-Aso, Regino Criado, Miguel Romance. To be published.
-
 **Note 1:** in the computation of the maximum alpha available for full centrality control, the algorithm employs a collection of `sample` random centrality vectors (by default, 100). Thus, the obtained values of that parameter in the .csv files might differ every time the code is run, however they should be of the same order.
 
 **Note 2:** The figures obtained are not the final ones presented in the paper. Instead, they are first processed in a vector graphics software (Inkscape) for aesthetic purposes and latex formulae rendering.
