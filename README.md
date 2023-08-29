@@ -1,6 +1,6 @@
 # Code regarding PageRank centrality control paper
 
-This repository contains the datasets and code used in the numerical analysis of the upcoming "Parametric control of PageRank centrality rankings: a geometrical approach" paper. Here we briefly comment on it.
+This repository contains the datasets and code used in the numerical analysis on "Can the PageRank centrality be manipulated to obtain any desired ranking?" _Chaos 33, 083152 (2023)_. Here we briefly comment on it.
 
 ## How to use
 
