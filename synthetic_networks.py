@@ -72,7 +72,7 @@ print("## Directed scale-free networks ##")
 for n, p, s in product(nodes, probs, range(sample)):
     if s == 0:
         print(n, p)
-    Gx = nx.scale_free_graph(1000, alpha=p-0.05, beta=1-p, gamma=0.05)
+    Gx = nx.scale_free_graph(n, alpha=p-0.05, beta=1-p, gamma=0.05)
     Gx = nx.DiGraph(Gx)
     G = ig.Graph.from_networkx(Gx)
     props, alphas = everything_together(G)

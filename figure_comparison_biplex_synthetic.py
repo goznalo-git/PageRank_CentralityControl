@@ -18,6 +18,8 @@ from mpl_toolkits.axes_grid1.inset_locator import mark_inset
 df = pd.read_csv('NetworkStats/synthetic_statistics.csv', index_col = 'Unnamed: 0')
 df = df.iloc[::-1]
 
+df = df[df['N']>100]
+
 # Fit a quadric polynomial to the data
 y = df['alpha_r_PR']
 x = df['beta_r_BPR']
